@@ -2060,9 +2060,7 @@ https://tv2.calcio02.pw/live/formula.m3u8
 #EXTINF:-1,PPV F1 IT (op3)
 #EXTGRP:Deportes
 https://tv3.calcio02.pw/live/formula.m3u8
-#EXTINF:-1,PPV MotoGP ENG
-#EXTGRP:Deportes
-http://azure2.mazystreams.xyz/live/streammotogp/chunks.m3u8
+
 #EXTINF:-1,PPV MotoGP IT
 #EXTGRP:Deportes
 https://tv1.calcio02.pw/live/moto.m3u8
@@ -2103,7 +2101,15 @@ http://77.247.109.101/hls/k3.m3u8
 #EXTINF:-1,PPV Events4 US
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k4.m3u8
-
+#EXTINF:-1,PPV Events1 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y1.m3u8
+#EXTINF:-1,PPV Events2 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y2.m3u8
+#EXTINF:-1,PPV Events3 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y3.m3u8
 #EXTINF:-1,PPV Events1 US
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T1.m3u8
@@ -2255,32 +2261,123 @@ https://tv2.calcio02.pw/live/psv.m3u8
 #EXTGRP:Deportes
 https://tv3.calcio02.pw/live/psv.m3u8
 
+
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+
+
+#EXTINF:-1,Live Sport Events 1
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/101.m3u8
+
+#EXTINF:-1,Live Sport Events 2
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/102.m3u8
+
+
+#EXTINF:-1,Live Sport Events 3
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/103.m3u8
+#EXTINF:-1,Live Sport Events 4
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/104.m3u8
+
+#EXTINF:-1,Live Sport Events 5
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/105.m3u8
+#EXTINF:-1,Live Sport Events 6
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/106.m3u8
+#EXTINF:-1,Live Sport Events 7
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/107.m3u8
+#EXTINF:-1,Live Sport Events 8
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/108.m3u8
+#EXTINF:-1,Live Sport Events 9
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/109.m3u8
+#EXTINF:-1,Live Sport Events 10
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/110.m3u8
+#EXTINF:-1,Live Sport Events 11
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/111.m3u8
+#EXTINF:-1,Live Sport Events 12
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/112.m3u8
+#EXTINF:-1,Live Sport Events 13
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/113.m3u8
+#EXTINF:-1,Live Sport Events 14
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/114.m3u8
+#EXTINF:-1,Live Sport Events 15
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/115.m3u8
+#EXTINF:-1,Live Sport Events 16
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/116.m3u8
+#EXTINF:-1,Live Sport Events 17
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/117.m3u8
+#EXTINF:-1,Live Sport Events 18
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/118.m3u8
+#EXTINF:-1,Live Sport Events 19
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/119.m3u8
+#EXTINF:-1,Live Sport Events 20
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/120.m3u8
+#EXTINF:-1,Live Sport Events 21
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/121.m3u8
+#EXTINF:-1,Live Sport Events 22
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/122.m3u8
+#EXTINF:-1,Live Sport Events 23
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/123.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,PPV NBA1 US
 #EXTGRP:Deportes
-http://77.247.109.115/hls/n1.m3u8
+http://77.247.109.92/hls/n1.m3u8
 #EXTINF:-1,PPV NBA1 US(op2)
 #EXTGRP:Deportes
 http://185.215.224.46/hls/n1.m3u8
 
 #EXTINF:-1,PPV NBA2 US
 #EXTGRP:Deportes
-http://77.247.109.115/hls/n2.m3u8
+http://77.247.109.92/hls/n2.m3u8
 #EXTINF:-1,PPV NBA2 US(op2)
 #EXTGRP:Deportes
 http://185.215.224.46/hls/n2.m3u8
 #EXTINF:-1,PPV NBA3 US
 #EXTGRP:Deportes
-http://77.247.109.115/hls/n3.m3u8
+http://77.247.109.92/hls/n3.m3u8
 #EXTINF:-1,PPV NBA3 US(op2)
 #EXTGRP:Deportes
 http://185.215.224.46/hls/n3.m3u8
 #EXTINF:-1,PPV NBA4 US
 #EXTGRP:Deportes
+http://77.247.109.92/hls/n4.m3u8
+#EXTINF:-1,PPV NBA4 US(op2)
+#EXTGRP:Deportes
 http://185.215.224.46/hls/n4.m3u8
 #EXTINF:-1,PPV NBA5 US
 #EXTGRP:Deportes
+http://77.247.109.92/hls/n5.m3u8
+#EXTINF:-1,PPV NBA5 US(op2)
+#EXTGRP:Deportes
 http://185.215.224.46/hls/n5.m3u8
 #EXTINF:-1,PPV NBA6 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n6.m3u8
+#EXTINF:-1,PPV NBA6 US(op2)
 #EXTGRP:Deportes
 http://185.215.224.46/hls/n6.m3u8
 #EXTINF:-1,NBA PPV Wizards
