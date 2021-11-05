@@ -1695,19 +1695,19 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 
-#EXTINF:-1,Sky Sports 1 HD
+#EXTINF:-1,Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,Sky Sports 2 HD
+#EXTINF:-1,Sky Sports Cricket UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports 3 HD
+#EXTINF:-1,Sky Sports NFL UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,Sky Sports 4 HD
+#EXTINF:-1,Sky Sports Golf UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1,Sky Sports 5 HD
+#EXTINF:-1,Sky Sports Premier League UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1,Sky Sports News UK
