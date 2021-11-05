@@ -1652,9 +1652,12 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1,M. LaLiga HD
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-
-
-
+#EXTINF:-1,SS LaLiga
+#EXTGRP:Deportes
+http://185.53.89.183/hls/ssla.m3u8
+#EXTINF:-1,SS LaLiga (op2)
+#EXTGRP:Deportes
+http://sir1a.uefa-tv.com:80/live/2/chunks.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -1667,18 +1670,31 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,BT Sport 1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BTSports 1 UK (op3)
+#EXTINF:-1,BTSports 1 UK (op2)
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a03p
+
+#EXTINF:-1,BT Sport 1 UK (op3)
+#EXTGRP:Deportes
+http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
 #EXTINF:-1,BT Sport 2 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BTSports 2 UK (op3)
+#EXTINF:-1,BTSports 2 UK (op2)
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a002
+#EXTINF:-1,BTSports 2 UK (op3)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
 #EXTINF:-1,BT Sport 3 FHD UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1,BT Sport 3 FHD UK (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
+#EXTINF:-1,BT Sport 3 FHD UK (op3)
+#EXTGRP:Deportes
+http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 #EXTINF:-1,BT Sport ESPN FHD UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
@@ -1693,11 +1709,15 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1,Bein Sports 3 HD FR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-
+#EXTINF:-1,Sky Sports Football UK
+#EXTGRP:Deportes
+http://185.53.89.183/hls/skyf.m3u8
 #EXTINF:-1,Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1,Sky Sports Main Event UK (op2)
+#EXTGRP:Deportes
+http://185.53.89.183/hls/main.m3u8
 #EXTINF:-1,Sky Sports Cricket UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports2/index.m3u8
@@ -1710,6 +1730,9 @@ http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:-1,Sky Sports Premier League UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1,Sky Sports Premier League UK (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
 #EXTINF:-1,Sky Sports News UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
@@ -2028,26 +2051,48 @@ http://93.157.62.180:80/SK3HD/index.m3u8
 #EXTINF:-1,PPV Fut1 ENG
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1,PPV Fut1 ENG (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
 
 #EXTINF:-1,PPV Fut2 ENG
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-
+#EXTINF:-1,PPV Fut2 ENG (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
 #EXTINF:-1,PPV Fut3 ENG
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P3.m3u8
+#EXTINF:-1,PPV Fut3 ENG (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P3.m3u8
 #EXTINF:-1,PPV Fut4 ENG
 #EXTGRP:Deportes
+http://cdn2.cyclingnews.live/hls/P4.m3u8
+#EXTINF:-1,PPV Fut4 ENG (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P4.m3u8
+#EXTINF:-1,PPV Fut1 ENG
+#EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W1.m3u8
+#EXTINF:-1,PPV Fut1 ENG (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
 
-#EXTINF:-1,PPV Fut5 ENG
+#EXTINF:-1,PPV Fut2 ENG
 #EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W2.m3u8
 
-#EXTINF:-1,PPV Fut6 ENG
+#EXTINF:-1,PPV Fut2 ENG (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
+#EXTINF:-1,PPV Fut3 ENG
 #EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W3.m3u8
-
+#EXTINF:-1,PPV Fut3 ENG (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
 #EXTINF:-1,PPV F1 ENG (op2)
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q1.m3u8
@@ -2087,16 +2132,16 @@ http://77.247.109.101/hls/A4.m3u8
 http://77.247.109.117/hls/F1.m3u8
 #EXTINF:-1,PPV Events1 US
 #EXTGRP:Deportes
-http://77.247.109.101/hls/k1.m3u8
+http://77.247.109.117/hls/k1.m3u8
 
 
 #EXTINF:-1,PPV Events2 US
 #EXTGRP:Deportes
-http://77.247.109.101/hls/k2.m3u8
+http://77.247.109.117/hls/k2.m3u8
 
 #EXTINF:-1,PPV Events3 US
 #EXTGRP:Deportes
-http://77.247.109.101/hls/k3.m3u8
+http://77.247.109.117/hls/k3.m3u8
 
 #EXTINF:-1,PPV Events4 US
 #EXTGRP:Deportes
@@ -2110,6 +2155,7 @@ http://77.247.109.92/hls/y2.m3u8
 #EXTINF:-1,PPV Events3 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/y3.m3u8
+
 #EXTINF:-1,PPV Events1 US
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T1.m3u8
