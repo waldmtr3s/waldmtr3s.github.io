@@ -1672,7 +1672,12 @@ http://sir1a.uefa-tv.com:80/live/2/chunks.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1,DAZN 1 HD
+#EXTGRP:Deportes
+http://212.224.98.207:2200/NL/dazn1hd-esp/index.m3u8?token=
+#EXTINF:-1,DAZN 2 HD
+#EXTGRP:Deportes
+http://212.224.98.207:2200/NL/dazn2hd-esp/index.m3u8?token=
 #EXTINF:-1,Sky Sports F1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
