@@ -1644,11 +1644,19 @@ http://91.126.138.141:1935/live/gol/chunks.m3u8
 #EXTINF:-1,GOL (op2)
 #EXTGRP:Deportes
 http://154.62.74.29:1935/live/gol/playlist.m3u8
-
-
+#EXTINF:-1,M. DeportesHD
+#EXTGRP:Deportes
+http://212.224.98.208:2200/NL/mdeporteshd-esp/index.m3u8?token=
 #EXTINF:-1,M. LaLiga HD
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1,M. LaLiga 1 HD
+#EXTGRP:Deportes
+http://212.224.98.213:2200/NL/mlaliga1hd-esp/index.m3u8?token=
+
+#EXTINF:-1,M. LaLiga 2 HD
+#EXTGRP:Deportes
+http://212.224.98.213:2200/NL/mlaliga2hd-esp/index.m3u8?token=
 #EXTINF:-1,SS LaLiga
 #EXTGRP:Deportes
 http://185.53.89.183/hls/ssla.m3u8
@@ -1663,8 +1671,9 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,Sky Sports F1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-
-
+#EXTINF:-1,DAZN F1 HD
+#EXTGRP:Deportes
+http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=
 #EXTINF:-1,BT Sport 1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -1684,6 +1693,8 @@ http://116.202.245.40:9191/play/a002
 #EXTINF:-1,BTSports 2 UK (op3)
 #EXTGRP:Deportes
 http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
+
+
 #EXTINF:-1,BT Sport 3 FHD UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport3/index.m3u8
