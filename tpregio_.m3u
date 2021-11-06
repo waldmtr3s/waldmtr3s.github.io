@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true"  x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true"  x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_IN4.xml.gz?raw=true"  
 
 
 #EXTINF:-1,SABIAS QUE
@@ -897,30 +897,6 @@ https://tf1-hls-live.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_1.m3u8
 https://shls-m6-france-prod-dub.shahid.net:443/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
 
 
-#EXTINF:0,Sony TEN 1 IN
-#EXTGRP:Internacionales
-http://cdn.ihub.live:8080/SonyTen1/index.m3u8
-#EXTINF:0,Sony TEN 1 IN (op2)
-#EXTGRP:Internacionales
-http://103.153.39.34:8000/play/a042/index.m3u8
-#EXTINF:0,Sony TEN 2 IN
-#EXTGRP:Internacionales
-http://cdn.ihub.live:8080/SonyTen2/index.m3u8
-#EXTINF:0,Sony TEN 2 IN (op2)
-#EXTGRP:Internacionales
-http://103.153.39.34:8000/play/a05r/index.m3u8
-#EXTINF:0,Sony TEN 3 IN 
-#EXTGRP:Internacionales
-http://cdn.ihub.live:8080/SonyTen3/index.m3u8
-#EXTINF:0,Sony TEN 3 IN (op2)
-#EXTGRP:Internacionales
-http://103.153.39.34:8000/play/a049/index.m3u8
-#EXTINF:0,Sony TEN 4 IN 
-#EXTGRP:Internacionales
-http://cdn.ihub.live:8080/SonyTen4/index.m3u8
-#EXTINF:0,Sony SIX IN 
-#EXTGRP:Internacionales
-http://cdn.ihub.live:8080/SonySix/index.m3u8
 
 #EXTINF:0,TRT 1
 #EXTGRP:Internacionales
@@ -1751,6 +1727,44 @@ http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
 #EXTINF:-1,Sky Sports News UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+
+
+#EXTINF:0 tvg-ID="SONY.TEN.1.HD.in",Sony TEN 1 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="SONY.TEN.2.HD.in",Sony TEN 2 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="SONY.TEN.3.HD.in",Sony TEN 3 IN 
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Sony.Ten.4.in",Sony TEN 4 IN 
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_4_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="SONY.SIX.HD.in",Sony SIX IN 
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.1.Hindi.HD.in",Star Sports 1 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_1_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.2.in",Star Sports 2 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.3.in",Star Sports 3 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.Tamil.in",Star Sports Tamil IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.Select.1.HD.in",Star Sports Select 1 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="Star.Sports.Select.2.HD.in",Star Sports Select 2 IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-ID="T.Sports.in",T Sports IN
+#EXTGRP:Internacionales
+http://212.224.98.196:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=
 
 #EXTINF:-1,tigo sports
 #EXTGRP:Deportes
