@@ -1832,9 +1832,7 @@ http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,PPV F1 ENG (op2)
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q1.m3u8
+
 #EXTINF:-1,PPV F1 IT
 #EXTGRP:Deportes
 https://tv1.calcio02.pw/live/formula.m3u8
@@ -1859,7 +1857,6 @@ https://tv3.calcio02.pw/live/moto.m3u8
 #EXTINF:-1,PPV MotoGP (op4) IT
 #EXTGRP:Deportes
 https://tv4.calcio02.pw/live/moto.m3u8
-
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -1878,6 +1875,7 @@ http://77.247.109.101/hls/A4.m3u8
 #EXTINF:-1,PPV Events1 US F1
 #EXTGRP:Deportes
 http://77.247.109.117/hls/F1.m3u8
+
 #EXTINF:-1,PPV Events1 US k1
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k1.m3u8
@@ -1894,15 +1892,22 @@ http://77.247.109.117/hls/k3.m3u8
 #EXTINF:-1,PPV Events4 US k4
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k4.m3u8
-#EXTINF:-1,PPV Events1 US y1
+#EXTINF:-1,PPV Events1 ENG Q1
 #EXTGRP:Deportes
-http://77.247.109.92/hls/y1.m3u8
-#EXTINF:-1,PPV Events2 US y2
+http://77.247.109.250/hls/Q1.m3u8
+#EXTINF:-1,PPV Events1 ENG Q2
 #EXTGRP:Deportes
-http://77.247.109.92/hls/y2.m3u8
-#EXTINF:-1,PPV Events3 US y3
+http://77.247.109.250/hls/Q2.m3u8
+#EXTINF:-1,PPV Events1 ENG Q3
 #EXTGRP:Deportes
-http://77.247.109.92/hls/y3.m3u8
+http://77.247.109.250/hls/Q3.m3u8
+#EXTINF:-1,PPV Events1 ENG Q4
+#EXTGRP:Deportes
+http://77.247.109.250/hls/Q4.m3u8
+#EXTINF:-1,PPV Events1 ENG Q5
+#EXTGRP:Deportes
+http://77.247.109.250/hls/Q5.m3u8
+
 
 #EXTINF:-1,PPV Events1 US T1
 #EXTGRP:Deportes
@@ -1916,6 +1921,15 @@ http://77.247.109.111/hls/T3.m3u8
 #EXTINF:-1,PPV Events4 US T4
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T4.m3u8
+#EXTINF:-1,PPV Events1 US y1
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y1.m3u8
+#EXTINF:-1,PPV Events2 US y2
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y2.m3u8
+#EXTINF:-1,PPV Events3 US y3
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y3.m3u8
 #EXTINF:-1,PPV Event1 ENG W1
 #EXTGRP:Deportes
 http://77.247.109.92/hls/W1.m3u8
@@ -1928,7 +1942,6 @@ http://77.247.109.92/hls/W3.m3u8
 #EXTINF:-1,PPV Event4 ENG W4
 #EXTGRP:Deportes
 http://77.247.109.92/hls/W4.m3u8
-
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
