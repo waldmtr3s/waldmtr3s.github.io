@@ -1658,6 +1658,9 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,DAZN F1 HD
 #EXTGRP:Deportes
 http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,BT Sport 1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -1683,7 +1686,9 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,Bein Sports 1 HD FR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
@@ -1693,7 +1698,9 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1,Bein Sports 3 HD FR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,Sky Sports Football UK
 #EXTGRP:Deportes
 http://185.53.89.183/hls/skyf.m3u8
@@ -1703,6 +1710,13 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1,Sky Sports Main Event UK (op2)
 #EXTGRP:Deportes
 http://185.53.89.183/hls/main.m3u8
+
+#EXTINF:-1,Sky Sports Premier League UK
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1,Sky Sports News UK
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:-1,Sky Sports Cricket UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports2/index.m3u8
@@ -1712,14 +1726,798 @@ http://93.152.174.144:4000/play/skysports3/index.m3u8
 #EXTINF:-1,Sky Sports Golf UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1,Sky Sports Premier League UK
+#EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,Sky Sports News UK
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV Fut1 ENG M1
 #EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+http://cdn1.cyclingnews.live/hls/M1.m3u8
+#EXTINF:-1,PPV Fut2 ENG M2
+#EXTGRP:Deportes
+http://cdn1.cyclingnews.live/hls/M2.m3u8
+#EXTINF:-1,PPV Fut1 ENG P1
+#EXTGRP:Deportes
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1,PPV Fut1 ENG  P1 (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
+
+#EXTINF:-1,PPV Fut2 ENG P2
+#EXTGRP:Deportes
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+#EXTINF:-1,PPV Fut2 ENG P2 (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
+#EXTINF:-1,PPV Fut3 ENG P3
+#EXTGRP:Deportes
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+#EXTINF:-1,PPV Fut3 ENG P3 (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P3.m3u8
+#EXTINF:-1,PPV Fut4 ENG P4
+#EXTGRP:Deportes
+http://cdn2.cyclingnews.live/hls/P4.m3u8
+#EXTINF:-1,PPV Fut4 ENG P4 (op2)
+#EXTGRP:Deportes
+http://cdn2.cyclingstreams.xyz/hls/P4.m3u8
+#EXTINF:-1,PPV Fut1 ENG Q1
+#EXTGRP:Deportes
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+#EXTINF:-1,PPV Fut2 ENG Q2
+#EXTGRP:Deportes
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
+#EXTINF:-1,PPV Fut1 ENG Q3
+#EXTGRP:Deportes
+http://cdn4.cyclingnews.live/hls/Q3.m3u8
+#EXTINF:-1,PPV Fut2 ENG Q4
+#EXTGRP:Deportes
+http://cdn4.cyclingnews.live/hls/Q4.m3u8
+#EXTINF:-1,PPV Fut2 ENG Q5
+#EXTGRP:Deportes
+http://cdn4.cyclingnews.live/hls/Q5.m3u8
+#EXTINF:-1,PPV Fut1 ENG W1
+#EXTGRP:Deportes
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+#EXTINF:-1,PPV Fut1 ENG W1 (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
+
+#EXTINF:-1,PPV Fut2 ENG W2
+#EXTGRP:Deportes
+http://cdn3.cyclingnews.live/hls/W2.m3u8
+
+#EXTINF:-1,PPV Fut2 ENG W2 (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
+#EXTINF:-1,PPV Fut3 ENG W3
+#EXTGRP:Deportes
+http://cdn3.cyclingnews.live/hls/W3.m3u8
+#EXTINF:-1,PPV Fut3 ENG W3 (op2)
+#EXTGRP:Deportes
+http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV Fut3 ENG a1
+#EXTGRP:Deportes
+http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG b1 (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG c1 (op3)
+#EXTGRP:Deportes
+http://sir1c.uefa-tv.com:80/live/1/chunks.m3u8
+
+#EXTINF:-1,PPV Fut3 ENG a2
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG b2 (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG c2 (op3)
+#EXTGRP:Deportes
+http://sir1c.uefa-tv.com:80/live/2/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG a3
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG b3 (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG c3 (op3)
+#EXTGRP:Deportes
+http://sir1c.uefa-tv.com:80/live/3/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG a4
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG b4 (op2)
+#EXTGRP:Deportes
+http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
+#EXTINF:-1,PPV Fut3 ENG c4 (op3)
+#EXTGRP:Deportes
+http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV F1 ENG (op2)
+#EXTGRP:Deportes
+http://77.247.109.250/hls/Q1.m3u8
+#EXTINF:-1,PPV F1 IT
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/formula.m3u8
+#EXTINF:-1,PPV F1 IT (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/formula.m3u8
+#EXTINF:-1,PPV F1 IT (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/formula.m3u8
+#EXTINF:-1,PPV F1 IT (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/formula.m3u8
+#EXTINF:-1,PPV MotoGP IT
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/moto.m3u8
+#EXTINF:-1,PPV MotoGP (op2) IT
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/moto.m3u8
+#EXTINF:-1,PPV MotoGP (op3) IT
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/moto.m3u8
+#EXTINF:-1,PPV MotoGP (op4) IT
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/moto.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV Events1 US A1
+#EXTGRP:Deportes
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1,PPV Events2 US A2
+#EXTGRP:Deportes
+http://77.247.109.101/hls/A2.m3u8
+#EXTINF:-1,PPV Events3 US A3
+#EXTGRP:Deportes
+http://77.247.109.101/hls/A3.m3u8
+#EXTINF:-1,PPV Events4 US A4
+#EXTGRP:Deportes
+http://77.247.109.101/hls/A4.m3u8
+#EXTINF:-1,PPV Events1 US F1
+#EXTGRP:Deportes
+http://77.247.109.117/hls/F1.m3u8
+#EXTINF:-1,PPV Events1 US k1
+#EXTGRP:Deportes
+http://77.247.109.117/hls/k1.m3u8
 
 
+#EXTINF:-1,PPV Events2 US k2
+#EXTGRP:Deportes
+http://77.247.109.117/hls/k2.m3u8
+
+#EXTINF:-1,PPV Events3 US k3
+#EXTGRP:Deportes
+http://77.247.109.117/hls/k3.m3u8
+
+#EXTINF:-1,PPV Events4 US k4
+#EXTGRP:Deportes
+http://77.247.109.117/hls/k4.m3u8
+#EXTINF:-1,PPV Events1 US y1
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y1.m3u8
+#EXTINF:-1,PPV Events2 US y2
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y2.m3u8
+#EXTINF:-1,PPV Events3 US y3
+#EXTGRP:Deportes
+http://77.247.109.92/hls/y3.m3u8
+
+#EXTINF:-1,PPV Events1 US T1
+#EXTGRP:Deportes
+http://77.247.109.111/hls/T1.m3u8
+#EXTINF:-1,PPV Events2 US T2
+#EXTGRP:Deportes
+http://77.247.109.111/hls/T2.m3u8
+#EXTINF:-1,PPV Events3 US T3
+#EXTGRP:Deportes
+http://77.247.109.111/hls/T3.m3u8
+#EXTINF:-1,PPV Events4 US T4
+#EXTGRP:Deportes
+http://77.247.109.111/hls/T4.m3u8
+#EXTINF:-1,PPV Event1 ENG W1
+#EXTGRP:Deportes
+http://77.247.109.92/hls/W1.m3u8
+#EXTINF:-1,PPV Event2 ENG W2
+#EXTGRP:Deportes
+http://77.247.109.92/hls/W2.m3u8
+#EXTINF:-1,PPV Event3 ENG W3
+#EXTGRP:Deportes
+http://77.247.109.92/hls/W3.m3u8
+#EXTINF:-1,PPV Event4 ENG W4
+#EXTGRP:Deportes
+http://77.247.109.92/hls/W4.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV Barca
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/barca.m3u8
+#EXTINF:-1,PPV Barca (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/barca.m3u8
+#EXTINF:-1,PPV Barca (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/barca.m3u8
+#EXTINF:-1,PPV Barca (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/barca.m3u8
+#EXTINF:-1,PPV PSG
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/psg.m3u8
+#EXTINF:-1,PPV PSG (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/psg.m3u8
+#EXTINF:-1,PPV PSG (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/psg.m3u8
+#EXTINF:-1,PPV PSG (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/psg.m3u8
+#EXTINF:-1,PPV Bayern Munich
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/bayern.m3u8
+#EXTINF:-1,PPV Bayern Munich (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/bayern.m3u8
+#EXTINF:-1,PPV Bayern Munich (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/bayern.m3u8
+#EXTINF:-1,PPV Bayern Munich (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/bayern.m3u8
+#EXTINF:-1,PPV Juve
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/juve.m3u8
+#EXTINF:-1,PPV Juve (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/juve.m3u8
+#EXTINF:-1,PPV Juve (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/juve.m3u8
+#EXTINF:-1,PPV Juve (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/juve.m3u8
+#EXTINF:-1,PPV Atletico Madrid
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/madrid.m3u8
+#EXTINF:-1,PPV Atletico Madrid (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/madrid.m3u8
+#EXTINF:-1,PPV Atletico Madrid (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/madrid.m3u8
+#EXTINF:-1,PPV Atletico Madrid (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/madrid.m3u8
+#EXTINF:-1,PPV Manchester United
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/united.m3u8
+#EXTINF:-1,PPV Manchester United (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/united.m3u8
+#EXTINF:-1,PPV Manchester United (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/united.m3u8
+#EXTINF:-1,PPV Manchester United (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/united.m3u8
+#EXTINF:-1,PPV Arsenal
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/arsenal.m3u8
+#EXTINF:-1,PPV Arsenal (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/arsenal.m3u8
+#EXTINF:-1,PPV Arsenal (op3)
+#EXTGRP:Deportes
+https://tv3.alcio01.pw/live/arsenal.m3u8
+#EXTINF:-1,PPV Arsenal (op4)
+#EXTGRP:Deportes
+https://tv4.alcio01.pw/live/arsenal.m3u8
+#EXTINF:-1,PPV Manchester City
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/city.m3u8
+#EXTINF:-1,PPV Manchester City (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/city.m3u8
+#EXTINF:-1,PPV Manchester City (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/city.m3u8
+#EXTINF:-1,PPV Manchester City (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/city.m3u8
+#EXTINF:-1,PPV Liverpool
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/liver.m3u8
+#EXTINF:-1,PPV Liverpool (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/liver.m3u8
+#EXTINF:-1,PPV Liverpool (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/liver.m3u8
+#EXTINF:-1,PPV Liverpool (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/liver.m3u8
+#EXTINF:-1,PPV Real Madrid
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/real.m3u8
+#EXTINF:-1,PPV Real Madrid (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/real.m3u8
+#EXTINF:-1,PPV Real Madrid (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/real.m3u8
+#EXTINF:-1,PPV Real Madrid (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/real.m3u8
+#EXTINF:-1,PPV Roma
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/roma.m3u8
+#EXTINF:-1,PPV Roma (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/roma.m3u8
+#EXTINF:-1,PPV Roma (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/roma.m3u8
+#EXTINF:-1,PPV Roma (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/roma.m3u8
+#EXTINF:-1,PPV Milan
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/milan.m3u8
+#EXTINF:-1,PPV Milan (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/milan.m3u8
+#EXTINF:-1,PPV Milan (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/milan.m3u8
+#EXTINF:-1,PPV Milan (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/milan.m3u8
+#EXTINF:-1,PPV Napoli
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/napoli.m3u8
+#EXTINF:-1,PPV Napoli (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/napoli.m3u8
+#EXTINF:-1,PPV Napoli (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/napoli.m3u8
+#EXTINF:-1,PPV Napoli (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/napoli.m3u8
+#EXTINF:-1,PPV PSV
+#EXTGRP:Deportes
+https://tv1.calcio02.pw/live/psv.m3u8
+#EXTINF:-1,PPV PSV (op2)
+#EXTGRP:Deportes
+https://tv2.calcio02.pw/live/psv.m3u8
+#EXTINF:-1,PPV PSV (op3)
+#EXTGRP:Deportes
+https://tv3.calcio02.pw/live/psv.m3u8
+#EXTINF:-1,PPV PSV (op4)
+#EXTGRP:Deportes
+https://tv4.calcio02.pw/live/psv.m3u8
+
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+
+
+#EXTINF:-1,Live Sport Events 1
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/101.m3u8
+
+#EXTINF:-1,Live Sport Events 2
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/102.m3u8
+
+
+#EXTINF:-1,Live Sport Events 3
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/103.m3u8
+#EXTINF:-1,Live Sport Events 4
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/104.m3u8
+
+#EXTINF:-1,Live Sport Events 5
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/105.m3u8
+#EXTINF:-1,Live Sport Events 6
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/106.m3u8
+#EXTINF:-1,Live Sport Events 7
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/107.m3u8
+#EXTINF:-1,Live Sport Events 8
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/108.m3u8
+#EXTINF:-1,Live Sport Events 9
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/109.m3u8
+#EXTINF:-1,Live Sport Events 10
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/110.m3u8
+#EXTINF:-1,Live Sport Events 11
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/111.m3u8
+#EXTINF:-1,Live Sport Events 12
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/112.m3u8
+#EXTINF:-1,Live Sport Events 13
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/113.m3u8
+#EXTINF:-1,Live Sport Events 14
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/114.m3u8
+#EXTINF:-1,Live Sport Events 15
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/115.m3u8
+#EXTINF:-1,Live Sport Events 16
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/116.m3u8
+#EXTINF:-1,Live Sport Events 17
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/117.m3u8
+#EXTINF:-1,Live Sport Events 18
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/118.m3u8
+#EXTINF:-1,Live Sport Events 19
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/119.m3u8
+#EXTINF:-1,Live Sport Events 20
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/120.m3u8
+#EXTINF:-1,Live Sport Events 21
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/121.m3u8
+#EXTINF:-1,Live Sport Events 22
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/122.m3u8
+#EXTINF:-1,Live Sport Events 23
+#EXTGRP:Deportes
+http://194.67.196.19:80/hls/123.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,PPV NBA1 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n1.m3u8
+#EXTINF:-1,PPV NBA1 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n1.m3u8
+
+#EXTINF:-1,PPV NBA2 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n2.m3u8
+#EXTINF:-1,PPV NBA2 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n2.m3u8
+#EXTINF:-1,PPV NBA3 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n3.m3u8
+#EXTINF:-1,PPV NBA3 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n3.m3u8
+#EXTINF:-1,PPV NBA4 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n4.m3u8
+#EXTINF:-1,PPV NBA4 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n4.m3u8
+#EXTINF:-1,PPV NBA5 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n5.m3u8
+#EXTINF:-1,PPV NBA5 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n5.m3u8
+#EXTINF:-1,PPV NBA6 US
+#EXTGRP:Deportes
+http://77.247.109.92/hls/n6.m3u8
+#EXTINF:-1,PPV NBA6 US(op2)
+#EXTGRP:Deportes
+http://185.215.224.46/hls/n6.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,NBA PPV Wizards
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/wizards/chunks.m3u8
+#EXTINF:-1,NBA PPV Wizards (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/wizards/chunks.m3u8
+#EXTINF:-1,NBA PPV Cavaliers
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/cavaliers/chunks.m3u8
+#EXTINF:-1,NBA PPV Cavaliers (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/cavaliers/chunks.m3u8
+#EXTINF:-1,NBA PPV Pacers
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/pacers/chunks.m3u8
+#EXTINF:-1,NBA PPV Pacers (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/pacers/chunks.m3u8
+#EXTINF:-1,NBA PPV 76ers
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/76ers/chunks.m3u8
+#EXTINF:-1,NBA PPV 76ers (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/76ers/chunks.m3u8
+#EXTINF:-1,NBA PPV Magic
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/magic/chunks.m3u8
+#EXTINF:-1,NBA PPV Magic (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/Magic/chunks.m3u8
+#EXTINF:-1,NBA PPV Espn
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/espn/chunks.m3u8
+#EXTINF:-1,NBA PPV Espn (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/espn/chunks.m3u8
+#EXTINF:-1,NBA PPV Hawks
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/hawks/chunks.m3u8
+#EXTINF:-1,NBA PPV Hawks (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/hawks/chunks.m3u8
+#EXTINF:-1,NBA PPV Celtics
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/celtics/chunks.m3u8
+#EXTINF:-1,NBA PPV Celtics (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/celtics/chunks.m3u8
+#EXTINF:-1,NBA PPV Bulls
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/bulls/chunks.m3u8
+#EXTINF:-1,NBA PPV Bulls (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/bulls/chunks.m3u8
+#EXTINF:-1,NBA PPV Knicks
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/knicks/chunks.m3u8
+#EXTINF:-1,NBA PPV Knicks (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/knicks/chunks.m3u8
+#EXTINF:-1,NBA PPV TrailBlazers
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/trailblazers/chunks.m3u8
+#EXTINF:-1,NBA PPV TrailBlazers (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/trailblazers/chunks.m3u8
+#EXTINF:-1,NBA PPV Raptors
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/raptors/chunks.m3u8
+#EXTINF:-1,NBA PPV Raptors (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/raptors/chunks.m3u8
+#EXTINF:-1,NBA PPV Jazz
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/jazz/chunks.m3u8
+#EXTINF:-1,NBA PPV Jazz (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/jazz/chunks.m3u8
+#EXTINF:-1,NBA PPV Kings
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/kings/chunks.m3u8
+#EXTINF:-1,NBA PPV Kings (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/kings/chunks.m3u8
+
+#EXTINF:-1,NBA PPV Tnt
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/tnt/chunks.m3u8
+#EXTINF:-1,NBA PPV Tnt (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/tnt/chunks.m3u8
+#EXTINF:-1,NBA PPV Suns
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/suns/chunks.m3u8
+#EXTINF:-1,NBA PPV Suns (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/suns/chunks.m3u8
+#EXTINF:-1,NBA PPV Pelicans
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/pelicans/chunks.m3u8
+#EXTINF:-1,NBA PPV Pelicans (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/pelicans/chunks.m3u8
+#EXTINF:-1,NBA PPV Lakers
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/lakers/chunks.m3u8
+#EXTINF:-1,NBA PPV Lakers (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/lakers/chunks.m3u8
+#EXTINF:-1,NBA PPV Rockets
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/rockets/chunks.m3u8
+#EXTINF:-1,NBA PPV Rockets (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/rockets/chunks.m3u8
+#EXTINF:-1,NBA PPV Pistons
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/pistons/chunks.m3u8
+#EXTINF:-1,NBA PPV Pistons (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/pistons/chunks.m3u8
+#EXTINF:-1,NBA PPV Bucks
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/bucks/chunks.m3u8
+#EXTINF:-1,NBA PPV Bucks (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/bucks/chunks.m3u8
+#EXTINF:-1,NBA PPV Heat
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/heat/chunks.m3u8
+#EXTINF:-1,NBA PPV Heat (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/heat/chunks.m3u8
+#EXTINF:-1,NBA PPV Mavericks
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/mavericks/chunks.m3u8
+#EXTINF:-1,NBA PPV Mavericks (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/mavericks/chunks.m3u8
+#EXTINF:-1,NBA PPV Nuggets
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/nuggets/chunks.m3u8
+#EXTINF:-1,NBA PPV Nuggets (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/nuggets/chunks.m3u8
+#EXTINF:-1,NBA PPV Grizzlies
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/grizzlies/chunks.m3u8
+#EXTINF:-1,NBA PPV Grizzlies (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/grizzlies/chunks.m3u8
+#EXTINF:-1,NBA PPV Timberwolves
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/timberwolves/chunks.m3u8
+#EXTINF:-1,NBA PPV Timberwolves (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/timberwolves/chunks.m3u8
+#EXTINF:-1,NBA PPV Hornets
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/hornets/chunks.m3u8
+#EXTINF:-1,NBA PPV Hornets (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/hornets/chunks.m3u8
+#EXTINF:-1,NBA PPV Spurs
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/spurs/chunks.m3u8
+#EXTINF:-1,NBA PPV Spurs (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/spurs/chunks.m3u8
+#EXTINF:-1,NBA PPV Nets
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/nets/chunks.m3u8
+#EXTINF:-1,NBA PPV Nets (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/nets/chunks.m3u8
+#EXTINF:-1,NBA PPV Thunder
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/thunder/chunks.m3u8
+#EXTINF:-1,NBA PPV Thunder (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/thunder/chunks.m3u8
+#EXTINF:-1,NBA PPV Warriors
+#EXTGRP:Deportes
+http://g.givemereddit.stream:80/hls/warriors/chunks.m3u8
+#EXTINF:-1,NBA PPV Warriors (op2)
+#EXTGRP:Deportes
+http://cdn.mintstreams.xyz:80/hls/warriors/chunks.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:0,MLB
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1,MLB Network HDTV (MLBHD)
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/mlb/chunks.m3u8
+#EXTINF:-1,MLB PPV Angels
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/angels/chunks.m3u8
+#EXTINF:-1,MLB PPV Athletics
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/athletics/chunks.m3u8
+#EXTINF:-1,MLB PPV Brewers
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/brewers/chunks.m3u8
+#EXTINF:-1,MLB PPV Royals
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/royals/chunks.m3u8
+#EXTINF:-1,MLB PPV Yankees
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/yankees/chunks.m3u8
+#EXTINF:-1,MLB PPV Nationals
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/nationals/chunks.m3u8
+#EXTINF:-1,MLB PPV Reds
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/reds/chunks.m3u8
+#EXTINF:-1,MLB PPV Tigers
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/tigers/chunks.m3u8
+#EXTINF:-1,MLB PPV Braves
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/braves/chunks.m3u8
+#EXTINF:-1,MLB PPV Phillies
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/phillies/chunks.m3u8
+#EXTINF:-1,MLB PPV White Sox
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/whitesox/chunks.m3u8
+#EXTINF:-1,MLB PPV Astros
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/astros/chunks.m3u8
+#EXTINF:-1,MLB PPV Cardinals
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/cardinals/chunks.m3u8
+#EXTINF:-1,MLB PPV DiamondBacks
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/diamondbacks/chunks.m3u8
+#EXTINF:-1,MLB PPV Dodgers
+#EXTGRP:Deportes
+http://g.givemenbastreams.com:80/hls/dodgers/chunks.m3u8
+
+#EXTINF:-1,MLB PPV Marlins
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
+#EXTINF:-1,MLB PPV Indians
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/indians/chunks.m3u8
+#EXTINF:-1,MLB PPV Red Sox
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/redsox/chunks.m3u8
+#EXTINF:-1,MLB PPV Twins
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/twins/chunks.m3u8
+#EXTINF:-1,MLB PPV Mariners
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
+#EXTINF:-1,MLB PPV Cubs
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/cubs/chunks.m3u8
+#EXTINF:-1,MLB PPV Orioles
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/orioles/chunks.m3u8
+#EXTINF:-1,MLB PPV Mets
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/mets/chunks.m3u8
+#EXTINF:-1,MLB PPV Giants
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/giants/chunks.m3u8
+#EXTINF:-1,MLB PPV Rays
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/rays/chunks.m3u8
+#EXTINF:-1,MLB PPV Blue Jays
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/jays/chunks.m3u8
+#EXTINF:-1,MLB PPV Rockies
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/rockies/chunks.m3u8
+#EXTINF:-1,MLB PPV Pirates
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/pirates/chunks.m3u8
+#EXTINF:-1,MLB PPV Rangers
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/rangers/chunks.m3u8
+#EXTINF:-1,MLB PPV Padres
+#EXTGRP:Deportes
+http://g.givemenbastreams.com/hls/padres/chunks.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0 tvg-ID="SONY.TEN.1.HD.in",Sony Ten 1
 #EXTGRP:Deportes
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
@@ -2064,675 +2862,6 @@ http://93.157.62.180:80/SK1HD/index.m3u8
 #EXTINF:-1,SK3 
 #EXTGRP:Deportes
 http://93.157.62.180:80/SK3HD/index.m3u8
-#EXTINF:-1,PPV Fut1 ENG M1
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M1.m3u8
-#EXTINF:-1,PPV Fut2 ENG M2
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M2.m3u8
-#EXTINF:-1,PPV Fut1 ENG P1
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1,PPV Fut1 ENG  P1 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
-
-#EXTINF:-1,PPV Fut2 ENG P2
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1,PPV Fut2 ENG P2 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
-#EXTINF:-1,PPV Fut3 ENG P3
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1,PPV Fut3 ENG P3 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P3.m3u8
-#EXTINF:-1,PPV Fut4 ENG P4
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P4.m3u8
-#EXTINF:-1,PPV Fut4 ENG P4 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P4.m3u8
-#EXTINF:-1,PPV Fut1 ENG Q1
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1,PPV Fut2 ENG Q2
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1,PPV Fut1 ENG Q3
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q3.m3u8
-#EXTINF:-1,PPV Fut2 ENG Q4
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q4.m3u8
-#EXTINF:-1,PPV Fut2 ENG Q5
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q5.m3u8
-#EXTINF:-1,PPV Fut1 ENG W1
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-#EXTINF:-1,PPV Fut1 ENG W1 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
-
-#EXTINF:-1,PPV Fut2 ENG W2
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W2.m3u8
-
-#EXTINF:-1,PPV Fut2 ENG W2 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
-#EXTINF:-1,PPV Fut3 ENG W3
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-#EXTINF:-1,PPV Fut3 ENG W3 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
-#EXTINF:-1,PPV Fut3 ENG a1
-#EXTGRP:Deportes
-http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG b1 (op2)
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG c1 (op3)
-#EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/1/chunks.m3u8
-
-#EXTINF:-1,PPV Fut3 ENG a2
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG b2 (op2)
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG c2 (op3)
-#EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG a3
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG b3 (op2)
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG c3 (op3)
-#EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG a4
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG b4 (op2)
-#EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
-#EXTINF:-1,PPV Fut3 ENG c4 (op3)
-#EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
-#EXTINF:-1,PPV F1 ENG (op2)
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q1.m3u8
-#EXTINF:-1,PPV F1 IT
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/formula.m3u8
-#EXTINF:-1,PPV F1 IT (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/formula.m3u8
-#EXTINF:-1,PPV F1 IT (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/formula.m3u8
-#EXTINF:-1,PPV F1 IT (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/formula.m3u8
-#EXTINF:-1,PPV MotoGP IT
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/moto.m3u8
-#EXTINF:-1,PPV MotoGP (op2) IT
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/moto.m3u8
-#EXTINF:-1,PPV MotoGP (op3) IT
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/moto.m3u8
-#EXTINF:-1,PPV MotoGP (op4) IT
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/moto.m3u8
-#EXTINF:-1,PPV Events1 US A1
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1,PPV Events2 US A2
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1,PPV Events3 US A3
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1,PPV Events4 US A4
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A4.m3u8
-#EXTINF:-1,PPV Events1 US F1
-#EXTGRP:Deportes
-http://77.247.109.117/hls/F1.m3u8
-#EXTINF:-1,PPV Events1 US k1
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k1.m3u8
-
-
-#EXTINF:-1,PPV Events2 US k2
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k2.m3u8
-
-#EXTINF:-1,PPV Events3 US k3
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k3.m3u8
-
-#EXTINF:-1,PPV Events4 US k4
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k4.m3u8
-#EXTINF:-1,PPV Events1 US y1
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y1.m3u8
-#EXTINF:-1,PPV Events2 US y2
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y2.m3u8
-#EXTINF:-1,PPV Events3 US y3
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y3.m3u8
-
-#EXTINF:-1,PPV Events1 US T1
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1,PPV Events2 US T2
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T2.m3u8
-#EXTINF:-1,PPV Events3 US T3
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T3.m3u8
-#EXTINF:-1,PPV Events4 US T4
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T4.m3u8
-#EXTINF:-1,PPV Event1 ENG W1
-#EXTGRP:Deportes
-http://77.247.109.92/hls/W1.m3u8
-#EXTINF:-1,PPV Event2 ENG W2
-#EXTGRP:Deportes
-http://77.247.109.92/hls/W2.m3u8
-#EXTINF:-1,PPV Event3 ENG W3
-#EXTGRP:Deportes
-http://77.247.109.92/hls/W3.m3u8
-#EXTINF:-1,PPV Event4 ENG W4
-#EXTGRP:Deportes
-http://77.247.109.92/hls/W4.m3u8
-#EXTINF:-1,PPV Barca
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/barca.m3u8
-#EXTINF:-1,PPV Barca (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/barca.m3u8
-#EXTINF:-1,PPV Barca (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/barca.m3u8
-#EXTINF:-1,PPV Barca (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/barca.m3u8
-#EXTINF:-1,PPV PSG
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/psg.m3u8
-#EXTINF:-1,PPV PSG (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/psg.m3u8
-#EXTINF:-1,PPV PSG (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/psg.m3u8
-#EXTINF:-1,PPV PSG (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/psg.m3u8
-#EXTINF:-1,PPV Bayern Munich
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1,PPV Bayern Munich (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1,PPV Bayern Munich (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1,PPV Bayern Munich (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1,PPV Juve
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/juve.m3u8
-#EXTINF:-1,PPV Juve (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/juve.m3u8
-#EXTINF:-1,PPV Juve (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/juve.m3u8
-#EXTINF:-1,PPV Juve (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/juve.m3u8
-#EXTINF:-1,PPV Atletico Madrid
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1,PPV Atletico Madrid (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1,PPV Atletico Madrid (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1,PPV Atletico Madrid (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1,PPV Manchester United
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/united.m3u8
-#EXTINF:-1,PPV Manchester United (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/united.m3u8
-#EXTINF:-1,PPV Manchester United (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/united.m3u8
-#EXTINF:-1,PPV Manchester United (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/united.m3u8
-#EXTINF:-1,PPV Arsenal
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/arsenal.m3u8
-#EXTINF:-1,PPV Arsenal (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/arsenal.m3u8
-#EXTINF:-1,PPV Arsenal (op3)
-#EXTGRP:Deportes
-https://tv3.alcio01.pw/live/arsenal.m3u8
-#EXTINF:-1,PPV Arsenal (op4)
-#EXTGRP:Deportes
-https://tv4.alcio01.pw/live/arsenal.m3u8
-#EXTINF:-1,PPV Manchester City
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/city.m3u8
-#EXTINF:-1,PPV Manchester City (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/city.m3u8
-#EXTINF:-1,PPV Manchester City (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/city.m3u8
-#EXTINF:-1,PPV Manchester City (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/city.m3u8
-#EXTINF:-1,PPV Liverpool
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/liver.m3u8
-#EXTINF:-1,PPV Liverpool (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/liver.m3u8
-#EXTINF:-1,PPV Liverpool (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/liver.m3u8
-#EXTINF:-1,PPV Liverpool (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/liver.m3u8
-#EXTINF:-1,PPV Real Madrid
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/real.m3u8
-#EXTINF:-1,PPV Real Madrid (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/real.m3u8
-#EXTINF:-1,PPV Real Madrid (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/real.m3u8
-#EXTINF:-1,PPV Real Madrid (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/real.m3u8
-#EXTINF:-1,PPV Roma
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/roma.m3u8
-#EXTINF:-1,PPV Roma (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/roma.m3u8
-#EXTINF:-1,PPV Roma (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/roma.m3u8
-#EXTINF:-1,PPV Roma (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/roma.m3u8
-#EXTINF:-1,PPV Milan
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/milan.m3u8
-#EXTINF:-1,PPV Milan (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/milan.m3u8
-#EXTINF:-1,PPV Milan (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/milan.m3u8
-#EXTINF:-1,PPV Milan (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/milan.m3u8
-#EXTINF:-1,PPV Napoli
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1,PPV Napoli (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1,PPV Napoli (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1,PPV Napoli (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1,PPV PSV
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/psv.m3u8
-#EXTINF:-1,PPV PSV (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/psv.m3u8
-#EXTINF:-1,PPV PSV (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/psv.m3u8
-#EXTINF:-1,PPV PSV (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/psv.m3u8
-
-#EXTINF:-1,DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1,Live Sport Events 1
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/101.m3u8
-
-#EXTINF:-1,Live Sport Events 2
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/102.m3u8
-
-
-#EXTINF:-1,Live Sport Events 3
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/103.m3u8
-#EXTINF:-1,Live Sport Events 4
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/104.m3u8
-
-#EXTINF:-1,Live Sport Events 5
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/105.m3u8
-#EXTINF:-1,Live Sport Events 6
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/106.m3u8
-#EXTINF:-1,Live Sport Events 7
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/107.m3u8
-#EXTINF:-1,Live Sport Events 8
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/108.m3u8
-#EXTINF:-1,Live Sport Events 9
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/109.m3u8
-#EXTINF:-1,Live Sport Events 10
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/110.m3u8
-#EXTINF:-1,Live Sport Events 11
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/111.m3u8
-#EXTINF:-1,Live Sport Events 12
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/112.m3u8
-#EXTINF:-1,Live Sport Events 13
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/113.m3u8
-#EXTINF:-1,Live Sport Events 14
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/114.m3u8
-#EXTINF:-1,Live Sport Events 15
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/115.m3u8
-#EXTINF:-1,Live Sport Events 16
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/116.m3u8
-#EXTINF:-1,Live Sport Events 17
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/117.m3u8
-#EXTINF:-1,Live Sport Events 18
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/118.m3u8
-#EXTINF:-1,Live Sport Events 19
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/119.m3u8
-#EXTINF:-1,Live Sport Events 20
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/120.m3u8
-#EXTINF:-1,Live Sport Events 21
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/121.m3u8
-#EXTINF:-1,Live Sport Events 22
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/122.m3u8
-#EXTINF:-1,Live Sport Events 23
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/123.m3u8
-#EXTINF:-1,DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,PPV NBA1 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n1.m3u8
-#EXTINF:-1,PPV NBA1 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n1.m3u8
-
-#EXTINF:-1,PPV NBA2 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n2.m3u8
-#EXTINF:-1,PPV NBA2 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n2.m3u8
-#EXTINF:-1,PPV NBA3 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n3.m3u8
-#EXTINF:-1,PPV NBA3 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n3.m3u8
-#EXTINF:-1,PPV NBA4 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n4.m3u8
-#EXTINF:-1,PPV NBA4 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n4.m3u8
-#EXTINF:-1,PPV NBA5 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n5.m3u8
-#EXTINF:-1,PPV NBA5 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n5.m3u8
-#EXTINF:-1,PPV NBA6 US
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n6.m3u8
-#EXTINF:-1,PPV NBA6 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n6.m3u8
-#EXTINF:-1,NBA PPV Wizards
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/wizards/chunks.m3u8
-#EXTINF:-1,NBA PPV Wizards (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/wizards/chunks.m3u8
-#EXTINF:-1,NBA PPV Cavaliers
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/cavaliers/chunks.m3u8
-#EXTINF:-1,NBA PPV Cavaliers (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/cavaliers/chunks.m3u8
-#EXTINF:-1,NBA PPV Pacers
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/pacers/chunks.m3u8
-#EXTINF:-1,NBA PPV Pacers (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/pacers/chunks.m3u8
-#EXTINF:-1,NBA PPV 76ers
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/76ers/chunks.m3u8
-#EXTINF:-1,NBA PPV 76ers (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/76ers/chunks.m3u8
-#EXTINF:-1,NBA PPV Magic
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/magic/chunks.m3u8
-#EXTINF:-1,NBA PPV Magic (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/Magic/chunks.m3u8
-#EXTINF:-1,NBA PPV Espn
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/espn/chunks.m3u8
-#EXTINF:-1,NBA PPV Espn (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/espn/chunks.m3u8
-#EXTINF:-1,NBA PPV Hawks
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/hawks/chunks.m3u8
-#EXTINF:-1,NBA PPV Hawks (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/hawks/chunks.m3u8
-#EXTINF:-1,NBA PPV Celtics
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/celtics/chunks.m3u8
-#EXTINF:-1,NBA PPV Celtics (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/celtics/chunks.m3u8
-#EXTINF:-1,NBA PPV Bulls
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/bulls/chunks.m3u8
-#EXTINF:-1,NBA PPV Bulls (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/bulls/chunks.m3u8
-#EXTINF:-1,NBA PPV Knicks
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/knicks/chunks.m3u8
-#EXTINF:-1,NBA PPV Knicks (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/knicks/chunks.m3u8
-#EXTINF:-1,NBA PPV TrailBlazers
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/trailblazers/chunks.m3u8
-#EXTINF:-1,NBA PPV TrailBlazers (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/trailblazers/chunks.m3u8
-#EXTINF:-1,NBA PPV Raptors
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/raptors/chunks.m3u8
-#EXTINF:-1,NBA PPV Raptors (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/raptors/chunks.m3u8
-#EXTINF:-1,NBA PPV Jazz
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/jazz/chunks.m3u8
-#EXTINF:-1,NBA PPV Jazz (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/jazz/chunks.m3u8
-#EXTINF:-1,NBA PPV Kings
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/kings/chunks.m3u8
-#EXTINF:-1,NBA PPV Kings (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/kings/chunks.m3u8
-
-#EXTINF:-1,NBA PPV Tnt
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/tnt/chunks.m3u8
-#EXTINF:-1,NBA PPV Tnt (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/tnt/chunks.m3u8
-#EXTINF:-1,NBA PPV Suns
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/suns/chunks.m3u8
-#EXTINF:-1,NBA PPV Suns (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/suns/chunks.m3u8
-#EXTINF:-1,NBA PPV Pelicans
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/pelicans/chunks.m3u8
-#EXTINF:-1,NBA PPV Pelicans (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/pelicans/chunks.m3u8
-#EXTINF:-1,NBA PPV Lakers
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/lakers/chunks.m3u8
-#EXTINF:-1,NBA PPV Lakers (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/lakers/chunks.m3u8
-#EXTINF:-1,NBA PPV Rockets
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/rockets/chunks.m3u8
-#EXTINF:-1,NBA PPV Rockets (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/rockets/chunks.m3u8
-#EXTINF:-1,NBA PPV Pistons
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/pistons/chunks.m3u8
-#EXTINF:-1,NBA PPV Pistons (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/pistons/chunks.m3u8
-#EXTINF:-1,NBA PPV Bucks
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/bucks/chunks.m3u8
-#EXTINF:-1,NBA PPV Bucks (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/bucks/chunks.m3u8
-#EXTINF:-1,NBA PPV Heat
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/heat/chunks.m3u8
-#EXTINF:-1,NBA PPV Heat (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/heat/chunks.m3u8
-#EXTINF:-1,NBA PPV Mavericks
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/mavericks/chunks.m3u8
-#EXTINF:-1,NBA PPV Mavericks (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/mavericks/chunks.m3u8
-#EXTINF:-1,NBA PPV Nuggets
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/nuggets/chunks.m3u8
-#EXTINF:-1,NBA PPV Nuggets (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/nuggets/chunks.m3u8
-#EXTINF:-1,NBA PPV Grizzlies
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/grizzlies/chunks.m3u8
-#EXTINF:-1,NBA PPV Grizzlies (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/grizzlies/chunks.m3u8
-#EXTINF:-1,NBA PPV Timberwolves
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/timberwolves/chunks.m3u8
-#EXTINF:-1,NBA PPV Timberwolves (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/timberwolves/chunks.m3u8
-#EXTINF:-1,NBA PPV Hornets
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/hornets/chunks.m3u8
-#EXTINF:-1,NBA PPV Hornets (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/hornets/chunks.m3u8
-#EXTINF:-1,NBA PPV Spurs
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/spurs/chunks.m3u8
-#EXTINF:-1,NBA PPV Spurs (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/spurs/chunks.m3u8
-#EXTINF:-1,NBA PPV Nets
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/nets/chunks.m3u8
-#EXTINF:-1,NBA PPV Nets (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/nets/chunks.m3u8
-#EXTINF:-1,NBA PPV Thunder
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/thunder/chunks.m3u8
-#EXTINF:-1,NBA PPV Thunder (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/thunder/chunks.m3u8
-#EXTINF:-1,NBA PPV Warriors
-#EXTGRP:Deportes
-http://g.givemereddit.stream:80/hls/warriors/chunks.m3u8
-#EXTINF:-1,NBA PPV Warriors (op2)
-#EXTGRP:Deportes
-http://cdn.mintstreams.xyz:80/hls/warriors/chunks.m3u8
 
 
 
@@ -2742,108 +2871,7 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_hq.m3u8
 #EXTINF:-1,Nova Sport 2 HD CZ
 #EXTGRP:Deportes
 https://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_hq.m3u8
-#EXTINF:0,MLB
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1,MLB Network HDTV (MLBHD)
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/mlb/chunks.m3u8
-#EXTINF:-1,MLB PPV Angels
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/angels/chunks.m3u8
-#EXTINF:-1,MLB PPV Athletics
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/athletics/chunks.m3u8
-#EXTINF:-1,MLB PPV Brewers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/brewers/chunks.m3u8
-#EXTINF:-1,MLB PPV Royals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/royals/chunks.m3u8
-#EXTINF:-1,MLB PPV Yankees
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/yankees/chunks.m3u8
-#EXTINF:-1,MLB PPV Nationals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/nationals/chunks.m3u8
-#EXTINF:-1,MLB PPV Reds
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/reds/chunks.m3u8
-#EXTINF:-1,MLB PPV Tigers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/tigers/chunks.m3u8
-#EXTINF:-1,MLB PPV Braves
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/braves/chunks.m3u8
-#EXTINF:-1,MLB PPV Phillies
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/phillies/chunks.m3u8
-#EXTINF:-1,MLB PPV White Sox
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/whitesox/chunks.m3u8
-#EXTINF:-1,MLB PPV Astros
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/astros/chunks.m3u8
-#EXTINF:-1,MLB PPV Cardinals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/cardinals/chunks.m3u8
-#EXTINF:-1,MLB PPV DiamondBacks
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/diamondbacks/chunks.m3u8
-#EXTINF:-1,MLB PPV Dodgers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/dodgers/chunks.m3u8
-
-#EXTINF:-1,MLB PPV Marlins
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
-#EXTINF:-1,MLB PPV Indians
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/indians/chunks.m3u8
-#EXTINF:-1,MLB PPV Red Sox
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/redsox/chunks.m3u8
-#EXTINF:-1,MLB PPV Twins
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/twins/chunks.m3u8
-#EXTINF:-1,MLB PPV Mariners
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
-#EXTINF:-1,MLB PPV Cubs
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/cubs/chunks.m3u8
-#EXTINF:-1,MLB PPV Orioles
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/orioles/chunks.m3u8
-#EXTINF:-1,MLB PPV Mets
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/mets/chunks.m3u8
-#EXTINF:-1,MLB PPV Giants
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/giants/chunks.m3u8
-#EXTINF:-1,MLB PPV Rays
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rays/chunks.m3u8
-#EXTINF:-1,MLB PPV Blue Jays
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/jays/chunks.m3u8
-#EXTINF:-1,MLB PPV Rockies
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rockies/chunks.m3u8
-#EXTINF:-1,MLB PPV Pirates
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/pirates/chunks.m3u8
-#EXTINF:-1,MLB PPV Rangers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rangers/chunks.m3u8
-#EXTINF:-1,MLB PPV Padres
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/padres/chunks.m3u8
-#EXTINF:-1,DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
 
 
 
