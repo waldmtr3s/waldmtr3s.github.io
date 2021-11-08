@@ -1637,7 +1637,7 @@ http://212.224.98.207:2200/NL/dazn1hd-esp/index.m3u8?token=
 #EXTINF:-1,DAZN 2 HD
 #EXTGRP:Deportes
 http://212.224.98.207:2200/NL/dazn2hd-esp/index.m3u8?token=
-#EXTINF:-1,Sky Sports F1 UK
+#EXTINF:-1 tvg-ID="SkySp.F1.HD.uk",Sky Sports F1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,DAZN F1 HD
@@ -1649,7 +1649,7 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,BT Sport 1 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BTSports 1 UK (op2)
+#EXTINF:-1 tvg-ID="BT.Sport.1.uk",BTSports 1 UK (op2)
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a03p
 
@@ -1657,17 +1657,17 @@ http://116.202.245.40:9191/play/a03p
 #EXTINF:-1,BT Sport 2 UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BTSports 2 UK (op2)
+#EXTINF:-1 tvg-ID="BT.Sport.2.uk",BTSports 2 UK (op2)
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a002
 
 
 
-#EXTINF:-1,BT Sport 3 FHD UK
+#EXTINF:-1 tvg-ID="BT.Sport.3.uk",BT Sport 3 FHD UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-#EXTINF:-1,BT Sport ESPN FHD UK
+#EXTINF:-1 tvg-ID="BTSpt//ESPNHD.uk",BT Sport ESPN FHD UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
@@ -1686,29 +1686,28 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,Sky Sports Football UK
+#EXTINF:-1 tvg-ID="SkySp.Fball.uk",Sky Sports Football UK
 #EXTGRP:Deportes
 http://185.53.89.183/hls/skyf.m3u8
-#EXTINF:-1,Sky Sports Main Event UK
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv",Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,Sky Sports Main Event UK (op2)
+#EXTINF:-1 tvg-ID="SkySpMainEvHD.uk",SkySpMainEv
 #EXTGRP:Deportes
 http://185.53.89.183/hls/main.m3u8
-
-#EXTINF:-1,Sky Sports Premier League UK
+#EXTINF:-1 tvg-ID="SkySp.PL.uk",Sky Sports Premier League UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,Sky Sports News UK
+#EXTINF:-1 tvg-ID="SkySp.News.HD.uk",Sky Sports News UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,Sky Sports Cricket UK
+#EXTINF:-1 tvg-ID="SkySp.Cricket.uk",Sky Sports Cricket UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports NFL UK
+#EXTINF:-1 tvg-ID="SkySp.NFL.HD.uk",Sky Sports NFL UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,Sky Sports Golf UK
+#EXTINF:-1 tvg-ID="SkySp.Golf.HD.uk",Sky Sports Golf UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:-1,DONACIONES EN
