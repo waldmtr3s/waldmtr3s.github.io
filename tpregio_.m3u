@@ -1687,7 +1687,7 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-ID="SkySp.Fball.uk",Sky Sports Football UK
 #EXTGRP:Deportes
 http://185.53.89.183/hls/skyf.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv",Sky Sports Main Event UK
+#EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1 tvg-ID="SkySpMainEvHD.uk",SkySpMainEv
