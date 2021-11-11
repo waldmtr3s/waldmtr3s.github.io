@@ -1690,7 +1690,7 @@ http://185.53.89.183/hls/skyf.m3u8
 #EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 tvg-ID="SkySpMainEvHD.uk",SkySpMainEv
+#EXTINF:-1 tvg-ID="SkySpMainEvHD.uk",Sky Sports Main Event UK (op2)
 #EXTGRP:Deportes
 http://185.53.89.183/hls/main.m3u8
 #EXTINF:-1 tvg-ID="SkySp.PL.uk",Sky Sports Premier League UK
@@ -2567,54 +2567,39 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+
 #EXTINF:-1,Bein Sports 1 Premium HD QA
 #EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1,Bein Sport AR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/beinsportar/index.m3u8
 #EXTINF:-1,Bein Sports 1 HD AR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
 #EXTINF:-1,Bein Sports 2 Premium HD QA
 #EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
-
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1,Bein Sports 2 HD AR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1,Bein Sports 3 HD QA
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
+#EXTINF:-1,Bein Sports 3 Premium HD QA
+#EXTGRP:Deportes
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1,BeinSport 3 AR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
-#EXTINF:-1,Bein Sports 4 HD QA
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
 #EXTINF:-1,BeinSport 4 AR
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 
-#EXTINF:-1,Bein Sports 5 HD QA
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
-
-
-#EXTINF:-1,Bein Sports 6 HD QA
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
-
-
-#EXTINF:-1,Bein Sports 7 HD QA
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 
 
 
@@ -3091,12 +3076,6 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/index.m3u8
 
 
 
-#EXTINF:-1,EuroSport 1 FR
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/Eurosport_HD/index.m3u8?token=test
-#EXTINF:-1,EuroSport 2 FR
-#EXTGRP:Deportes
-http://str.smartip-tv.net:8888/Eurosport_2_HD/index.m3u8?token=test
 
 #EXTINF:-1,EuroSport 1
 #EXTGRP:Deportes
