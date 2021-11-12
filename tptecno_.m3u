@@ -630,13 +630,13 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?lchId=112&format=HLS&p=PROFILE
 #EXTGRP:Niños
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?lchId=2591&format=HLS&p=PROFILE01&session=cer8ly6w8442n22&v=N&f=.m3u8
 
-#EXTINF:0 tvg-ID="Locomotion",Locomotion
+#EXTINF:0 tvg-name="Locomotion",Locomotion
 #EXTGRP:Niños
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0,Locomotion (op2)
 #EXTGRP:Niños
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 tvg-ID="AZTV",AZTV
+#EXTINF:0 tvg-name="AZTV",AZXTV
 #EXTGRP:Niños
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:0,aztv (op2)
@@ -645,7 +645,7 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:0,KanadeTV
 #EXTGRP:Niños
 http://96.30.193.226:81/hls/kanadetv.m3u8
-#EXTINF:0,KanadeTV (op2)
+#EXTINF:0,Proyecto ANIMAX Latam
 #EXTGRP:Niños
 https://stmv1.voxhdnet.com/erick3041/erick3041/index.m3u8
 #EXTINF:0,Mi TV
