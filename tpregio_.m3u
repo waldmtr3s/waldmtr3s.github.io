@@ -1603,7 +1603,16 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 http://91.126.39.101:1935/live/realmadridnntv/playlist.m3u8
 
 
+#EXTINF:-1,LFCTV
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
+#EXTINF:-1,MUTV HD
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1,CHELSEATV HD
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8
 
 
 #EXTINF:-1,GOL
@@ -1654,6 +1663,9 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a03p
 
+#EXTINF:-1,BT Sport 1 UK
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1,BT Sport 2 UK
 #EXTGRP:Deportes
@@ -1662,6 +1674,9 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTGRP:Deportes
 http://116.202.245.40:9191/play/a002
 
+#EXTINF:-1,BT Sport 2 UK
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-ID="BT.Sport.3.uk",BT Sport 3 FHD UK
@@ -1924,16 +1939,16 @@ http://77.247.109.92/hls/y2.m3u8
 http://77.247.109.92/hls/y3.m3u8
 #EXTINF:-1,PPV Event W1
 #EXTGRP:Deportes
-http://77.247.109.92/hls/W1.m3u8
+http://77.247.109.249/hls/W1.m3u8
 #EXTINF:-1,PPV Event W2
 #EXTGRP:Deportes
-http://77.247.109.92/hls/W2.m3u8
+http://77.247.109.249/hls/W2.m3u8
 #EXTINF:-1,PPV Event W3
 #EXTGRP:Deportes
-http://77.247.109.92/hls/W3.m3u8
+http://77.247.109.249/hls/W3.m3u8
 #EXTINF:-1,PPV Event W4
 #EXTGRP:Deportes
-http://77.247.109.92/hls/W4.m3u8
+http://77.247.109.249/hls/W4.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -2187,6 +2202,9 @@ http://194.67.196.19:80/hls/123.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,NBA TV HD US
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1,PPV NBA1 US
 #EXTGRP:Deportes
@@ -2569,6 +2587,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTGRP:Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1,Bein Sports 1 Premium HD QA
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 
 #EXTINF:-1,Bein Sports 1 Premium HD QA
@@ -2584,6 +2605,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1,Bein Sports 2 Premium HD QA
 #EXTGRP:Deportes
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1,Bein Sports 2 Premium HD QA
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1,Bein Sports 2 HD AR
 #EXTGRP:Deportes
@@ -2745,6 +2769,9 @@ https://5.254.89.106:7090/8736/index.m3u8
 #EXTINF:-1,RTSHSport AL
 #EXTGRP:Deportes
 http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:-1,RTSHSport AL (op2)
+#EXTGRP:Deportes
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1,Tring Sport News
 #EXTGRP:Deportes
 http://flu.hdtv112.com:8080/SPORT:_Tring_sport_News/index.m3u8
@@ -2867,21 +2894,37 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_hq.m3u8
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
+#EXTINF:-1,SPORT TV 1 HD PT
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 1 HD PT
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:-1,SPORT TV 2 HD PT
 #EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD PT
+#EXTGRP:Deportes
 http://93.152.174.144:4000/play/sporttv2/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD PT
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 3 HD PT
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/sporttv3/index.m3u8
+#EXTINF:-1,SPORT TV 4 PT
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 4 PT
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/sporttv4/index.m3u8
+#EXTINF:-1,SPORT TV 5 PT
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 5 PT
 #EXTGRP:Deportes
@@ -2892,17 +2935,49 @@ http://93.152.174.144:4000/play/sporttv5/index.m3u8
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
+#EXTINF:-1,premier football 1 hd th
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1,premier football 2 hd th
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,premier football 3 hd th
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,premier football 4 hd th
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1,premier football 5 hd th 
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1,PPTV asia
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1,fox sport 1 asia
 #EXTGRP:Deportes
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
+#EXTINF:-1,fox sport 1 asia (op2)
+#EXTGRP:Deportes
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1,fox sport 2 asia
 #EXTGRP:Deportes
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
+#EXTINF:-1,fox sport 2 asia (op2)
+#EXTGRP:Deportes
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1,fox sport 3 asia
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1,fox sport 3 asia (op2)
 #EXTGRP:Deportes
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1,RTS1 SZ
@@ -3077,6 +3152,13 @@ http://91.126.141.201:1935/live/eurosport1nntv/index.m3u8
 http://91.126.141.201:1935/live/eurosport2hdnntv/index.m3u8
 
 
+#EXTINF:-1,EuroSport 1 HD UK
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,EuroSport 2 HD UK
+#EXTGRP:Deportes
+https://smart-tv.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
 
 
