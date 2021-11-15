@@ -1736,6 +1736,27 @@ http://cdn1.cyclingnews.live/hls/M1.m3u8
 #EXTINF:-1,PPV Event M2
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M2.m3u8
+#EXTINF:-1,PPV Event M3
+#EXTGRP:Deportes
+http://cdn1.cyclingnews.live/hls/M3.m3u8
+#EXTINF:-1,PPV Event s1
+#EXTGRP:Deportes
+http://34.117.53.220/live/s1/chunks.m3u8
+#EXTINF:-1,PPV Event s2
+#EXTGRP:Deportes
+http://34.117.53.220/live/s2/chunks.m3u8
+#EXTINF:-1,PPV Event s3
+#EXTGRP:Deportes
+http://34.117.53.220/live/s3/chunks.m3u8
+#EXTINF:-1,PPV Event s4
+#EXTGRP:Deportes
+http://34.117.53.220/live/s4/chunks.m3u8
+#EXTINF:-1,PPV Event ssf
+#EXTGRP:Deportes
+http://34.117.53.220/live/ssf/chunks.m3u8
+#EXTINF:-1,PPV Event lltv
+#EXTGRP:Deportes
+http://34.117.53.220/live/lltv/chunks.m3u8
 #EXTINF:-1,PPV Event P1
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P1.m3u8
@@ -1929,6 +1950,9 @@ http://77.247.109.111/hls/T3.m3u8
 #EXTINF:-1,PPV Event T4
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T4.m3u8
+#EXTINF:-1,PPV Event T5
+#EXTGRP:Deportes
+http://77.247.109.111/hls/T5.m3u8
 #EXTINF:-1,PPV Event y1
 #EXTGRP:Deportes
 http://77.247.109.92/hls/y1.m3u8
