@@ -1811,6 +1811,9 @@ http://34.117.53.220/live/s5/chunks.m3u8
 #EXTINF:-1,PPV Event s6 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/s6/chunks.m3u8
+#EXTINF:-1,PPV Event s7 WeakSpell
+#EXTGRP:Deportes
+http://34.117.53.220/live/s7/chunks.m3u8
 #EXTINF:-1,PPV Event ssf WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/ssf/chunks.m3u8
@@ -1905,6 +1908,9 @@ https://w.noob4cast.com:999/hls/do11.m3u8
 #EXTINF:-1,PPV do12 HDStreamer
 #EXTGRP:Deportes
 https://w.noob4cast.com:999/hls/do12.m3u8
+#EXTINF:-1,PPV do19 HDStreamer
+#EXTGRP:Deportes
+https://w1.noob4cast.com:8080/hls/do19.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
