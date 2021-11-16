@@ -2236,38 +2236,43 @@ https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 http://77.247.109.92/hls/n1.m3u8
 #EXTINF:-1,PPV NBA1 US(op2)
 #EXTGRP:Deportes
-http://185.215.224.46/hls/n1.m3u8
+http://95.217.18.125/hls/n6/index.m3u8
+#EXTINF:-1,PPV NBA1 US(op3)
+#EXTGRP:Deportes
+http://34.117.53.220/live/NBA6/chunks.m3u8
+
 
 #EXTINF:-1,PPV NBA2 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n2.m3u8
 #EXTINF:-1,PPV NBA2 US(op2)
 #EXTGRP:Deportes
-http://185.215.224.46/hls/n2.m3u8
+http://95.217.18.125/hls/n7/index.m3u8
+#EXTINF:-1,PPV NBA2 US(op3)
+#EXTGRP:Deportes
+http://34.117.53.220/live/NBA9/chunks.m3u8
 #EXTINF:-1,PPV NBA3 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n3.m3u8
 #EXTINF:-1,PPV NBA3 US(op2)
 #EXTGRP:Deportes
-http://185.215.224.46/hls/n3.m3u8
+http://95.217.18.125/hls/n8/index.m3u8
+#EXTINF:-1,PPV NBA3 US(op3)
+#EXTGRP:Deportes
+http://34.117.53.220/live/NBA10/chunks.m3u8
 #EXTINF:-1,PPV NBA4 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n4.m3u8
 #EXTINF:-1,PPV NBA4 US(op2)
 #EXTGRP:Deportes
-http://185.215.224.46/hls/n4.m3u8
+http://95.217.18.125/hls/n9/index.m3u8
 #EXTINF:-1,PPV NBA5 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n5.m3u8
-#EXTINF:-1,PPV NBA5 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n5.m3u8
+
 #EXTINF:-1,PPV NBA6 US
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n6.m3u8
-#EXTINF:-1,PPV NBA6 US(op2)
-#EXTGRP:Deportes
-http://185.215.224.46/hls/n6.m3u8
 
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
