@@ -1739,6 +1739,9 @@ http://cdn1.cyclingnews.live/hls/M2.m3u8
 #EXTINF:-1,PPV Event M3
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M3.m3u8
+#EXTINF:-1,PPV Event M4
+#EXTGRP:Deportes
+http://cdn1.cyclingnews.live/hls/M4.m3u8
 #EXTINF:-1,PPV Event s1
 #EXTGRP:Deportes
 http://34.117.53.220/live/s1/chunks.m3u8
