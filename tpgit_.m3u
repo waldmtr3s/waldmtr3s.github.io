@@ -1739,7 +1739,9 @@ http://cdn1.cyclingnews.live/hls/M3.m3u8
 #EXTINF:-1,PPV Event M4 CyclingStreams
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M4.m3u8
-
+#EXTINF:-1,PPV Event M5 CyclingStreams
+#EXTGRP:Deportes
+http://cdn1.cyclingnews.live/hls/M5.m3u8
 #EXTINF:-1,PPV Event P1 CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P1.m3u8
@@ -1806,6 +1808,9 @@ http://34.117.53.220/live/s4/chunks.m3u8
 #EXTINF:-1,PPV Event s5 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/s5/chunks.m3u8
+#EXTINF:-1,PPV Event s6 WeakSpell
+#EXTGRP:Deportes
+http://34.117.53.220/live/s6/chunks.m3u8
 #EXTINF:-1,PPV Event ssf WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/ssf/chunks.m3u8
@@ -1818,6 +1823,9 @@ http://34.117.53.220/live/lltv/chunks.m3u8
 #EXTINF:-1,PPV Event ps2 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/ps2/chunks.m3u8
+#EXTINF:-1,PPV Event ch1 mntvlive13
+#EXTGRP:Deportes
+http://165.227.218.42/live/abr_ch1/live/ch1_source/chunks.m3u8
 #EXTINF:-1,PPV Event ch4 mntvlive13
 #EXTGRP:Deportes
 http://159.223.164.98/live/abr_ch4/live/ch4_source/chunks.m3u8
@@ -1839,6 +1847,7 @@ http://165.227.218.42/live/abr_ch9/live/ch9_source/chunks.m3u8
 #EXTINF:-1,PPV Event ch12 mntvlive13
 #EXTGRP:Deportes
 http://159.223.160.233/live/abr_ch12/live/ch12_source/chunks.m3u8
+
 #EXTINF:-1,PPV ssla SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/ssla.m3u8
@@ -1851,9 +1860,51 @@ http://185.53.89.183/hls/sspsl.m3u8
 #EXTINF:-1,PPV Event S1 Hockeynews
 #EXTGRP:Deportes
 http://45.94.28.83/hls/S1.m3u8
+#EXTINF:-1,PPV Event S2 Hockeynews
+#EXTGRP:Deportes
+http://45.94.28.83/hls/S2.m3u8
 #EXTINF:-1,PPV Event S3 Hockeynews
 #EXTGRP:Deportes
 http://45.94.28.83/hls/S3.m3u8
+#EXTINF:-1,PPV Event S4 Hockeynews
+#EXTGRP:Deportes
+http://45.94.28.83/hls/S4.m3u8
+#EXTINF:-1,PPV do1 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do1.m3u8
+#EXTINF:-1,PPV do2 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do2.m3u8
+#EXTINF:-1,PPV do3 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do3.m3u8
+#EXTINF:-1,PPV do4 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do4.m3u8
+#EXTINF:-1,PPV do5 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do5.m3u8
+#EXTINF:-1,PPV do6 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do6.m3u8
+#EXTINF:-1,PPV do7 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do7.m3u8
+#EXTINF:-1,PPV do8 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do8.m3u8
+#EXTINF:-1,PPV do9 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do9.m3u8
+#EXTINF:-1,PPV do10 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do10.m3u8
+#EXTINF:-1,PPV do11 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do11.m3u8
+#EXTINF:-1,PPV do12 HDStreamer
+#EXTGRP:Deportes
+https://w.noob4cast.com:999/hls/do12.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
