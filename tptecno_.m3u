@@ -1636,10 +1636,6 @@ http://212.224.98.213:2200/NL/mlaliga1hd-esp/index.m3u8?token=
 #EXTINF:-1,M. LaLiga 2 HD
 #EXTGRP:Deportes
 http://212.224.98.213:2200/NL/mlaliga2hd-esp/index.m3u8?token=
-#EXTINF:-1,SS LaLiga
-#EXTGRP:Deportes
-http://185.53.89.183/hls/ssla.m3u8
-
 
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
@@ -1732,137 +1728,133 @@ http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,PPV Event M1
+#EXTINF:-1,PPV Event M1 CyclingStreams
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M1.m3u8
-#EXTINF:-1,PPV Event M2
+#EXTINF:-1,PPV Event M2 CyclingStreams
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M2.m3u8
-#EXTINF:-1,PPV Event M3
+#EXTINF:-1,PPV Event M3 CyclingStreams
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M3.m3u8
-#EXTINF:-1,PPV Event M4
+#EXTINF:-1,PPV Event M4 CyclingStreams
 #EXTGRP:Deportes
 http://cdn1.cyclingnews.live/hls/M4.m3u8
-#EXTINF:-1,PPV Event s1
-#EXTGRP:Deportes
-http://34.117.53.220/live/s1/chunks.m3u8
-#EXTINF:-1,PPV Event s2
-#EXTGRP:Deportes
-http://34.117.53.220/live/s2/chunks.m3u8
-#EXTINF:-1,PPV Event s3
-#EXTGRP:Deportes
-http://34.117.53.220/live/s3/chunks.m3u8
-#EXTINF:-1,PPV Event s4
-#EXTGRP:Deportes
-http://34.117.53.220/live/s4/chunks.m3u8
-#EXTINF:-1,PPV Event ssf
-#EXTGRP:Deportes
-http://34.117.53.220/live/ssf/chunks.m3u8
-#EXTINF:-1,PPV Event lltv
-#EXTGRP:Deportes
-http://34.117.53.220/live/lltv/chunks.m3u8
-#EXTINF:-1,PPV Event P1
+
+#EXTINF:-1,PPV Event P1 CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1,PPV Event  P1 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
 
-#EXTINF:-1,PPV Event P2
+
+#EXTINF:-1,PPV Event P2 CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1,PPV Event P2 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
-#EXTINF:-1,PPV Event P3
+
+#EXTINF:-1,PPV Event P3 CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1,PPV Event P3 (op2)
-#EXTGRP:Deportes
-http://cdn2.cyclingstreams.xyz/hls/P3.m3u8
-#EXTINF:-1,PPV Event P4
+
+#EXTINF:-1,PPV Event P4 CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingnews.live/hls/P4.m3u8
-#EXTINF:-1,PPV Event P4 (op2)
+#EXTINF:-1,PPV Event P4 (op2) CyclingStreams
 #EXTGRP:Deportes
 http://cdn2.cyclingstreams.xyz/hls/P4.m3u8
-#EXTINF:-1,PPV Event Q1
+#EXTINF:-1,PPV Event Q1 CyclingStreams
 #EXTGRP:Deportes
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1,PPV Event Q2
+#EXTINF:-1,PPV Event Q2 CyclingStreams
 #EXTGRP:Deportes
 http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1,PPV Event Q3
+#EXTINF:-1,PPV Event Q3 CyclingStreams
 #EXTGRP:Deportes
 http://cdn4.cyclingnews.live/hls/Q3.m3u8
-#EXTINF:-1,PPV Event Q4
+#EXTINF:-1,PPV Event Q4 CyclingStreams
 #EXTGRP:Deportes
 http://cdn4.cyclingnews.live/hls/Q4.m3u8
-#EXTINF:-1,PPV Event Q5
+#EXTINF:-1,PPV Event Q5 CyclingStreams
 #EXTGRP:Deportes
 http://cdn4.cyclingnews.live/hls/Q5.m3u8
-#EXTINF:-1,PPV Event W1
+#EXTINF:-1,PPV Event W1 CyclingStreams
 #EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W1.m3u8
-#EXTINF:-1,PPV Event W1 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
 
-#EXTINF:-1,PPV Event W2
+
+#EXTINF:-1,PPV Event W2 CyclingStreams
 #EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W2.m3u8
 
-#EXTINF:-1,PPV Event W2 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
-#EXTINF:-1,PPV Event W3
+
+#EXTINF:-1,PPV Event W3 CyclingStreams
 #EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W3.m3u8
-#EXTINF:-1,PPV Event W3 (op2)
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
+
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,PPV Event a1
+#EXTINF:-1,PPV Event s1 WeakSpell
 #EXTGRP:Deportes
-http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
-#EXTINF:-1,PPV Event b1 (op2)
+http://34.117.53.220/live/s1/chunks.m3u8
+#EXTINF:-1,PPV Event s2 WeakSpell
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
-#EXTINF:-1,PPV Event c1 (op3)
+http://34.117.53.220/live/s2/chunks.m3u8
+#EXTINF:-1,PPV Event s3 WeakSpell
 #EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/1/chunks.m3u8
-
-#EXTINF:-1,PPV Event a2
+http://34.117.53.220/live/s3/chunks.m3u8
+#EXTINF:-1,PPV Event s4 WeakSpell
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Event b2 (op2)
+http://34.117.53.220/live/s4/chunks.m3u8
+#EXTINF:-1,PPV Event s5 WeakSpell
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Event c2 (op3)
+http://34.117.53.220/live/s5/chunks.m3u8
+#EXTINF:-1,PPV Event ssf WeakSpell
 #EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/2/chunks.m3u8
-#EXTINF:-1,PPV Event a3
+http://34.117.53.220/live/ssf/chunks.m3u8
+#EXTINF:-1,PPV Event sspl WeakSpell
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Event b3 (op2)
+http://34.117.53.220/live/sspl/chunks.m3u8
+#EXTINF:-1,PPV Event lltv WeakSpell
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Event c3 (op3)
+http://34.117.53.220/live/lltv/chunks.m3u8
+#EXTINF:-1,PPV Event ps2 WeakSpell
 #EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/3/chunks.m3u8
-#EXTINF:-1,PPV Event a4
+http://34.117.53.220/live/ps2/chunks.m3u8
+#EXTINF:-1,PPV Event ch4 mntvlive13
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
-#EXTINF:-1,PPV Event b4 (op2)
+http://159.223.164.98/live/abr_ch4/live/ch4_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch5 mntvlive13
 #EXTGRP:Deportes
-http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
-#EXTINF:-1,PPV Event c4 (op3)
+http://159.223.168.158/live/abr_ch5/live/ch5_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch6 mntvlive13
 #EXTGRP:Deportes
-http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
-
+http://159.65.250.95/live/abr_ch6/live/ch6_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch7 mntvlive13
+#EXTGRP:Deportes
+http://159.223.164.177/live/abr_ch7/live/ch7_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch8 mntvlive13
+#EXTGRP:Deportes
+http://159.223.164.31/live/abr_ch8/live/ch8_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch9 mntvlive13
+#EXTGRP:Deportes
+http://165.227.218.42/live/abr_ch9/live/ch9_source/chunks.m3u8
+#EXTINF:-1,PPV Event ch12 mntvlive13
+#EXTGRP:Deportes
+http://159.223.160.233/live/abr_ch12/live/ch12_source/chunks.m3u8
+#EXTINF:-1,PPV ssla SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/ssla.m3u8
+#EXTINF:-1,PPV sspl SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/sspl.m3u8
+#EXTINF:-1,PPV sspsl SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/sspsl.m3u8
+#EXTINF:-1,PPV Event S1 Hockeynews
+#EXTGRP:Deportes
+http://45.94.28.83/hls/S1.m3u8
+#EXTINF:-1,PPV Event S3 Hockeynews
+#EXTGRP:Deportes
+http://45.94.28.83/hls/S3.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -1894,89 +1886,89 @@ https://tv4.calcio02.pw/live/moto.m3u8
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,PPV Event A1
+#EXTINF:-1,PPV Event A1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1,PPV Event A2
+#EXTINF:-1,PPV Event A2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1,PPV Event A3
+#EXTINF:-1,PPV Event A3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1,PPV Event A4
+#EXTINF:-1,PPV Event A4 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.101/hls/A4.m3u8
-#EXTINF:-1,PPV Event F1
+#EXTINF:-1,PPV Event F1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.117/hls/F1.m3u8
 
-#EXTINF:-1,PPV Event k1
+#EXTINF:-1,PPV Event k1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k1.m3u8
 
 
-#EXTINF:-1,PPV Event k2
+#EXTINF:-1,PPV Event k2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k2.m3u8
 
-#EXTINF:-1,PPV Event k3
+#EXTINF:-1,PPV Event k3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k3.m3u8
 
-#EXTINF:-1,PPV Event k4
+#EXTINF:-1,PPV Event k4 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.117/hls/k4.m3u8
-#EXTINF:-1,PPV Event Q1
+#EXTINF:-1,PPV Event Q1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q1.m3u8
-#EXTINF:-1,PPV Event Q2
+#EXTINF:-1,PPV Event Q2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q2.m3u8
-#EXTINF:-1,PPV Event Q3
+#EXTINF:-1,PPV Event Q3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q3.m3u8
-#EXTINF:-1,PPV Event Q4
+#EXTINF:-1,PPV Event Q4 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q4.m3u8
-#EXTINF:-1,PPV Event Q5
+#EXTINF:-1,PPV Event Q5 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.250/hls/Q5.m3u8
 
 
-#EXTINF:-1,PPV Event T1
+#EXTINF:-1,PPV Event T1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1,PPV Event T2
+#EXTINF:-1,PPV Event T2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T2.m3u8
-#EXTINF:-1,PPV Event T3
+#EXTINF:-1,PPV Event T3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T3.m3u8
-#EXTINF:-1,PPV Event T4
+#EXTINF:-1,PPV Event T4 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T4.m3u8
-#EXTINF:-1,PPV Event T5
+#EXTINF:-1,PPV Event T5 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.111/hls/T5.m3u8
-#EXTINF:-1,PPV Event y1
+#EXTINF:-1,PPV Event y1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/y1.m3u8
-#EXTINF:-1,PPV Event y2
+#EXTINF:-1,PPV Event y2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/y2.m3u8
-#EXTINF:-1,PPV Event y3
+#EXTINF:-1,PPV Event y3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/y3.m3u8
-#EXTINF:-1,PPV Event W1
+#EXTINF:-1,PPV Event W1 CyclingStreams
 #EXTGRP:Deportes
 http://77.247.109.249/hls/W1.m3u8
-#EXTINF:-1,PPV Event W2
+#EXTINF:-1,PPV Event W2 CyclingStreams
 #EXTGRP:Deportes
 http://77.247.109.249/hls/W2.m3u8
-#EXTINF:-1,PPV Event W3
+#EXTINF:-1,PPV Event W3 CyclingStreams
 #EXTGRP:Deportes
 http://77.247.109.249/hls/W3.m3u8
-#EXTINF:-1,PPV Event W4
+#EXTINF:-1,PPV Event W4 CyclingStreams
 #EXTGRP:Deportes
 http://77.247.109.249/hls/W4.m3u8
 #EXTINF:-1,DONACIONES EN
@@ -2236,46 +2228,46 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Deportes
 https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1,PPV NBA1 US
+#EXTINF:-1,PPV NBA n1 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n1.m3u8
-#EXTINF:-1,PPV NBA1 US(op2)
+#EXTINF:-1,PPV NBA n6
 #EXTGRP:Deportes
 http://95.217.18.125/hls/n6/index.m3u8
-#EXTINF:-1,PPV NBA1 US(op3)
+#EXTINF:-1,PPV NBA NBA6 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/NBA6/chunks.m3u8
 
 
-#EXTINF:-1,PPV NBA2 US
+#EXTINF:-1,PPV NBA n2 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n2.m3u8
-#EXTINF:-1,PPV NBA2 US(op2)
+#EXTINF:-1,PPV NBA n7
 #EXTGRP:Deportes
 http://95.217.18.125/hls/n7/index.m3u8
-#EXTINF:-1,PPV NBA2 US(op3)
+#EXTINF:-1,PPV NBA NBA9 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/NBA9/chunks.m3u8
-#EXTINF:-1,PPV NBA3 US
+#EXTINF:-1,PPV NBA n3 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n3.m3u8
-#EXTINF:-1,PPV NBA3 US(op2)
+#EXTINF:-1,PPV NBA n8
 #EXTGRP:Deportes
 http://95.217.18.125/hls/n8/index.m3u8
-#EXTINF:-1,PPV NBA3 US(op3)
+#EXTINF:-1,PPV NBA NBA10 WeakSpell
 #EXTGRP:Deportes
 http://34.117.53.220/live/NBA10/chunks.m3u8
-#EXTINF:-1,PPV NBA4 US
+#EXTINF:-1,PPV NBA n4 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n4.m3u8
-#EXTINF:-1,PPV NBA4 US(op2)
+#EXTINF:-1,PPV NBA n9
 #EXTGRP:Deportes
 http://95.217.18.125/hls/n9/index.m3u8
-#EXTINF:-1,PPV NBA5 US
+#EXTINF:-1,PPV NBA n5 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n5.m3u8
 
-#EXTINF:-1,PPV NBA6 US
+#EXTINF:-1,PPV NBA n6 Hockeynews
 #EXTGRP:Deportes
 http://77.247.109.92/hls/n6.m3u8
 
