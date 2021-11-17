@@ -1706,7 +1706,7 @@ http://185.53.89.183/hls/skyf.m3u8
 #EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 tvg-ID="SkySpMainEvHD.uk",Sky Sports Main Event UK (op2)
+#EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK (op2)
 #EXTGRP:Deportes
 http://185.53.89.183/hls/main.m3u8
 #EXTINF:-1 tvg-ID="SkySp.PL.uk",Sky Sports Premier League UK
