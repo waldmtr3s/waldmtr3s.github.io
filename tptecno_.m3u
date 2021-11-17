@@ -1876,6 +1876,9 @@ http://185.53.89.183/hls/sspl.m3u8
 #EXTINF:-1,PPV sspsl SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/sspsl.m3u8
+#EXTINF:-1,PPV tnt SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/tnt.m3u8
 #EXTINF:-1,PPV Event S1 Hockeynews
 #EXTGRP:Deportes
 http://45.94.28.83/hls/S1.m3u8
@@ -2231,9 +2234,31 @@ http://77.247.109.92/hls/n1.m3u8
 #EXTINF:-1,PPV NBA n6
 #EXTGRP:Deportes
 http://95.217.18.125/hls/n6/index.m3u8
+#EXTINF:-1,PPV NBA NBA1 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA1/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA2 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA2/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA3 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA3/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA4 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA4/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA5 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA5/chunks.m3u8
+
 #EXTINF:-1,PPV NBA NBA6 WeakSpell
 #EXTGRP:Deportes
 http://35.244.221.114/live/NBA6/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA7 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA7/chunks.m3u8
+#EXTINF:-1,PPV NBA NBA8 WeakSpell
+#EXTGRP:Deportes
+http://35.244.221.114/live/NBA8/chunks.m3u8
 
 
 #EXTINF:-1,PPV NBA n2 Hockeynews
