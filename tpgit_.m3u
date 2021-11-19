@@ -1883,12 +1883,18 @@ http://185.53.89.183/hls/sspsl.m3u8
 #EXTINF:-1,PPV snw SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/snw.m3u8
+#EXTINF:-1,PPV f1 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/f1.m3u8
 #EXTINF:-1,PPV tnt SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/tnt.m3u8
 #EXTINF:-1,PPV Event S1 Hockeynews
 #EXTGRP:Deportes
 http://45.94.28.83/hls/S1.m3u8
+#EXTINF:-1,PPV Event S1 (op2) Hockeynews
+#EXTGRP:Deportes
+http://45.94.28.51/hls/S1.m3u8
 #EXTINF:-1,PPV Event S2 Hockeynews
 #EXTGRP:Deportes
 http://45.94.28.83/hls/S2.m3u8
