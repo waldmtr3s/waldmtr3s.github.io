@@ -561,7 +561,16 @@ http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/1
 #EXTINF:0,NASA TV ISS 2 (op3)
 #EXTGRP:Cultura
 http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:0,ESA TV
+#EXTGRP:Cultura
+https://livestream.com/accounts/362/events/6350312/player
 
+#EXTINF:0,ESA TV (op2)
+#EXTGRP:Cultura
+http://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.m3u8
+#EXTINF:0,ESA TV (op3)
+#EXTGRP:Cultura
+https://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.secure.m3u8
 
 
 
