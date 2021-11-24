@@ -653,7 +653,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0,Locomotion (op2)
 #EXTGRP:Niños
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 tvg-name="AZTV",AZXTV
+#EXTINF:0 tvg-name="AZXTV",AZXTV
 #EXTGRP:Niños
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:0,aztv (op2)
@@ -1886,6 +1886,24 @@ http://rtrswps.azureedge.net/live/ps2/chunks.m3u8
 #EXTINF:-1,PPV ssla SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/ssla.m3u8
+#EXTINF:-1,PPV bt1 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/bt1.m3u8
+#EXTINF:-1,PPV bt2 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/bt2.m3u8
+#EXTINF:-1,PPV bt3 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/bt3.m3u8
+#EXTINF:-1,PPV btespn SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/btespn.m3u8
+#EXTINF:-1,PPV ps1 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/ps1.m3u8
+#EXTINF:-1,PPV ps2 SportingLive
+#EXTGRP:Deportes
+http://185.53.89.183/hls/ps2.m3u8
 #EXTINF:-1,PPV sspl SportingLive
 #EXTGRP:Deportes
 http://185.53.89.183/hls/sspl.m3u8
