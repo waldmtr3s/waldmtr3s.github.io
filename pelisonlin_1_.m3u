@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="2021",DONACIONES EN
+#EXTINF:-1 tvg-logo="" group-title="Clásicos Navidad",DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2021", DONACIONES EN
+#EXTINF:-1 group-title="Clásicos Navidad", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="Clásicos Navidad" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX100_CR0,1,100,148_.jpg",Duro de Matar (1988)
 http://201.172.61.81:85/peliculas/sagas/Duro.de.matar.1.1988.mp4
@@ -45,7 +45,10 @@ http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%2
 https://dl.dropboxusercontent.com/s/hyg3xat44enm0bv/SalynPM-C.D.N.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJiZDc1OWMtNzMwMC00NzM0LTljMDgtZGJjODVhZDMzMmJjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Clásicos Navidad",Las crónicas de Navidad 2 (2020)
 http://vod.tuxchannel.tv/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
-
+#EXTINF:-1 tvg-logo="" group-title="2021",DONACIONES EN
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="2021", DONACIONES EN
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMjE5ZTEtMjgyOC00ODM4LWJjZDAtMjcwZDBlNzZhZTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Beatles: Get Back S01E01 (2021) Sub
 https://archive.org/download/2296.2612213621.8622.21312.2101601.2562201018.26265.101715265/2296.2612213621.8622.21312.2101601.2562201018.26265.101715265.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMjE5ZTEtMjgyOC00ODM4LWJjZDAtMjcwZDBlNzZhZTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Beatles: Get Back S01E02 (2021) Sub
