@@ -667,10 +667,10 @@ http://96.30.193.226:81/hls/kanadetv.m3u8
 https://stmv1.voxhdnet.com/erick3041/erick3041/index.m3u8
 #EXTINF:0,Proyecto GhostScreen Noches Sab-Dom
 #EXTGRP:Niños
-https://video-cdn.angelthump.com/hls/MjAyMS0xMi0zMVQwMDoxMDoyMy40MDRaYW5vbjEyMzQ1_anon12345/index.m3u8
+https://video-cdn.angelthump.com/hls/MjAyMi0wMS0wMlQyMjowMTowMi45ODBaYW5vbjEyMzQ1_anon12345/index.m3u8
 #EXTINF:0,Proyecto YureiScreen Noches Sab-Dom
 #EXTGRP:Niños
-https://sfo-haproxy.angelthump.com/hls/anon_123/index.m3u8
+https://video-cdn.angelthump.com/hls/MjAyMi0wMS0wMlQyMjowMTowMi45ODBaYW5vbjEyMzQ1_anon12345/index.m3u8
 #EXTINF:0,Mi TV
 #EXTGRP:Niños
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
