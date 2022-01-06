@@ -671,7 +671,10 @@ https://video-cdn.angelthump.com/hls/MjAyMi0wMS0wMlQyMjowMTowMi45ODBaYW5vbjEyMzQ
 #EXTINF:0,Proyecto YureiScreen Noches Sab-Dom
 #EXTGRP:Niños
 https://video-cdn.angelthump.com/hls/MjAyMi0wMS0wMlQyMjowMTowMi45ODBaYW5vbjEyMzQ1_anon12345/index.m3u8
-#EXTINF:0,Mi TV
+#EXTINF:0,EnerGeek
+#EXTGRP:Niños
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+#EXTINF:0,Mi TV Clasica
 #EXTGRP:Niños
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:0,Dreiko TV
