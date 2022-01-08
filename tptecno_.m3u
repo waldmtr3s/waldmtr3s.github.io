@@ -1466,9 +1466,43 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLS&s=hkc26
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:0,HBO
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
+#EXTINF:0,HBO (EN)
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/723.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
+#EXTINF:0,HBO 2 (EN)
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/724.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
+#EXTINF:0,HBO Plus
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
+#EXTINF:0,HBO Plus (EN)
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/722.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/814.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:Peliculas
+http://user.tvcluboficial.com/stream/nov/nov/841.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
 
-
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:0,Az Clic
 #EXTGRP:Deportes
@@ -1595,7 +1629,111 @@ https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/live-audio_track_0_0
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:0,Afizzionados
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/878.m3u8
+#EXTINF:0,beIN Sports ñ
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
+#EXTINF:0,beIN Sports ñ
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
+#EXTINF:0,ESPN Chile
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/842.m3u8
+#EXTINF:0,ESPN MX
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
+#EXTINF:0,ESPN Plus
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
+#EXTINF:0,Formula 1 TV (F1)
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
+#EXTINF:0,Fox Sur
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
+#EXTINF:0,Fox Sports
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/52.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/53.m3u8
+#EXTINF:0,Fox Sports 2 MX
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/528.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/54.m3u8
+#EXTINF:0,Fox Sports MX
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/527.m3u8
+#EXTINF:0,Fox Sports MX Sur
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/748.m3u8
+#EXTINF:0,Fox Sports Premium
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/512.m3u8
+#EXTINF:0,Fox Sports Sur
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/402.m3u8
+#EXTINF:0,Fox Sports Sur 2
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
+#EXTINF:0,Fox Sports Sur 3
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
+#EXTINF:0,TigoSports Bolivia
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/764.m3u8
+#EXTINF:0,TigoSports Paraguay
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/843.m3u8
+#EXTINF:0,TNT Sports
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+#EXTINF:0,TUDN
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/698.m3u8
+#EXTINF:0,TUDN (Pocos Datos)
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/822.m3u8
+#EXTINF:0,TUDN USA
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/86.m3u8
+#EXTINF:0,Tyc Sports
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/274.m3u8
+#EXTINF:0,Univisión Deportes
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/373.m3u8
+#EXTINF:0,Univisión TDN
+#EXTGRP:Deportes
+http://user.tvcluboficial.com/stream/nov/nov/100.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,Espn Sur (op2)
 #EXTGRP:Deportes
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
