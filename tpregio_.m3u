@@ -157,15 +157,12 @@ http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 #EXTINF:0,Nuestra Visión
 #EXTGRP:Locales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,UnoTV
+#EXTGRP:Locales
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_1692_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,UnoTV (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
-#EXTINF:0,UnoTV (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
-#EXTINF:0,UnoTV (YT) (op3)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
 
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
@@ -181,13 +178,7 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2195&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,Azteca Deportes - Eventos (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
-#EXTINF:0,Azteca Deportes - Eventos (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
-#EXTINF:0,Azteca Deportes - Eventos (YT) (op3)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
 
 #EXTINF:0,ADN40
 #EXTGRP:Locales
@@ -225,13 +216,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLS&s=hkc2
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:0,Imagen Tv (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
-#EXTINF:0,Imagen Tv (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
-#EXTINF:0,Imagen Tv (YT) (op3)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
 
 
 #EXTINF:0,Excelsior Tv
@@ -239,13 +224,7 @@ https://iptv.dc-team.com/query?url=https://youtube.com/channel/UCl5JKSQsl-_WSU1r
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,ExcelsiorTv (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
-#EXTINF:0,ExcelsiorTv (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
-#EXTINF:0,ExcelsiorTv (YT) (op3)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 
 #EXTINF:0,Canal 5
 #EXTGRP:Locales
@@ -262,13 +241,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLS&s=hkc2
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Multimedios Mty (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
-#EXTINF:0,Multimedios Mty (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
-#EXTINF:0,Multimedios Mty (YT) (op3)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 #EXTINF:0,Multimedios Cdmx
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -315,16 +288,7 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,Televisa Mty (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:0,Televisa Mty (YT) (op2)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:0,Televisa Mty (YT) (op3) Offline
-#EXTGRP:Locales
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:0,Televisa Mty (YT) (op4)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 
 #EXTINF:-1,CANAL 28 NL
 #EXTGRP:Locales
@@ -340,13 +304,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLS&s=hkc26a
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Televisa GDL (YT)
 #EXTGRP:Locales
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-#EXTINF:0,Televisa GDL (YT) (op3)
-#EXTGRP:Locales
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-#EXTINF:0,Televisa GDL (YT) (op4)
-#EXTGRP:Locales
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
 
 
 #EXTINF:0,Televisa del Bajio
@@ -1576,13 +1534,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLS&s=hkc26
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,Claro Sports Eventos (YT)
 #EXTGRP:Deportes
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
-#EXTINF:0,Claro Sports Eventos (YT) (op2)
-#EXTGRP:Deportes
-https://iptv--iptv.repl.co/streamlink?url=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
-#EXTINF:0,Claro Sports Eventos (YT) (op3)
-#EXTGRP:Deportes
-https://iptv.dc-team.com/query?url=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
 
 #EXTINF:0,TVC Deportes
 #EXTGRP:Deportes
