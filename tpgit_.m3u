@@ -2,9 +2,7 @@
 
 
 
-#EXTINF:-1,test
-#EXTGRP:Locales
-http://150.136.49.193/hls/live/mpago.mp4
+
 #EXTINF:-1,SABIAS QUE
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
