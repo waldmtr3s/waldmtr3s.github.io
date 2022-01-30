@@ -1024,15 +1024,11 @@ https://fujitv1.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1,Nippon TV JP 
 #EXTGRP:Internacionales
-https://ntv1.mov3.co/hls/ntv.m3u8
-
-#EXTINF:-1,Nippon TV HDTV (Nippon)
-#EXTGRP:Internacionales
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+https://ntv.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1,TBS JP
 #EXTGRP:Internacionales
-https://tbs.mov3.co/hls/tbs.m3u8
+https://tbs1.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1,NHK General JP 
 #EXTGRP:Internacionales
