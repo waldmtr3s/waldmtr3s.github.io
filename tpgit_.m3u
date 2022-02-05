@@ -221,6 +221,9 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
 
+#EXTINF:0,La Octava (DailyMotion)
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
 
 #EXTINF:0,Excelsior Tv
 #EXTGRP:Locales
