@@ -15,6 +15,10 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,EN VIVO Kiev, Ucrania
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC6qrG3W8SMK0jior2olka3g/live
+
 #EXTINF:-1,NBC
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a07x/index.m3u8
