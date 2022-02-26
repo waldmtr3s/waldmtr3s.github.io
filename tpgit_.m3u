@@ -33,6 +33,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_
 #EXTINF:-1,EN VIVO Moscu 24
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
+#EXTINF:-1,EN VIVO France 24
+#EXTGRP:Locales
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 #EXTINF:-1,NBC
 #EXTGRP:Locales
