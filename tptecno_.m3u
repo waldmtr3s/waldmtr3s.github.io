@@ -33,7 +33,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCI
 #EXTINF:-1,EN VIVO France 24
 #EXTGRP:Locales
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-
+#EXTINF:-1,EN VIVO Deutsche Welle DW
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
 #EXTINF:-1,NBC
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a07x/index.m3u8
