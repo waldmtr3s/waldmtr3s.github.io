@@ -20,6 +20,18 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,EN VIVO Ucrania 24
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
+#EXTINF:-1,Multiples Camaras de Vigilancia Kiev Ucrania EN VIVO
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClEiTusa-SX5NmpsWIRgCDQ/live
+#EXTINF:-1,Multiples Camaras de Vigilancia Kiev Ucrania EN VIVO
+#EXTGRP:Locales
+https://youtube.com/channel/UCrjyygMS1KNuL10AT5AIcBQ/live
+#EXTINF:-1,EN VIVO Rusia 24
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
+#EXTINF:-1,EN VIVO Moscu 24
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
 
 #EXTINF:-1,NBC
 #EXTGRP:Locales
