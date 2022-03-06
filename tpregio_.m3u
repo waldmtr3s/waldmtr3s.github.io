@@ -378,12 +378,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLS&s=hkc26at86kbpzzczc
 #EXTINF:0,TeleFormula
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,Radioformula 103.3FM
-#EXTGRP:Locales
-http://wms10.tecnoxia.com/radiofaudio/RF.FM103.3/playlist.m3u8
-#EXTINF:0,Radioformula 104.1FM
-#EXTGRP:Locales
-http://wms10.tecnoxia.com/radiofaudio/RF.FM104.1/playlist.m3u8
 #EXTINF:0,Milenio
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8

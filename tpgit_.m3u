@@ -381,12 +381,6 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=44&format=HLS&p=PROFILE
 #EXTINF:0,TeleFormula
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=32&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-#EXTINF:0,Radioformula 103.3FM
-#EXTGRP:Locales
-http://wms10.tecnoxia.com/radiofaudio/RF.FM103.3/playlist.m3u8
-#EXTINF:0,Radioformula 104.1FM
-#EXTGRP:Locales
-http://wms10.tecnoxia.com/radiofaudio/RF.FM104.1/playlist.m3u8
 #EXTINF:0,Milenio
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=1252&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
