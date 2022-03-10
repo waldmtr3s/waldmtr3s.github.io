@@ -171,6 +171,8 @@ https://waldmtr3s.github.io/mpago.mp4
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-logo="https://waldmtr3s.github.io/img/22.jpg" group-title="2022", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-logo="https://www.otakustv.com/storage/videos/e/0d/1634161542.jpg" group-title="2022",Ousama Ranking EP21 (2022) Multi-Sub
+https://archive.org/download/1723211141.201151210158.15.72018.142313221021232/621110.2112723.1723211141.201151210158.21.48018.142313221021232.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc1NmNkNDItOWE1MC00NzlkLTk1M2UtYzJiYjNlZmFmOWExXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2022",Orient EP10 (2022) Multi-Sub
 https://archive.org/download/18211061624.48019.07/18211061624.48019.10.mkv
 #EXTINF:-1 tvg-logo="https://www.otakustv.com/storage/videos/d/b3/1633182856.jpg" group-title="2022",86 Eighty-Six 2nd Season EP21.5 (2022) Multi-Sub
@@ -3046,7 +3048,8 @@ http://tux-vod.dynu.com/peliculas/720/the%20man%20called%20flintstone%201966.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",the edge of tomorrow
 http://tux-vod.dynu.com/peliculas/720/edge%20of%20tomorrow.mkv
-
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",edge of tomorrow
+http://vod.tuxchannel.tv/peliculas/720/edge%20of%20tomorrow.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",codigo fuente
 http://tux-vod.dynu.com/peliculas/720/source%20code.mkv
 
