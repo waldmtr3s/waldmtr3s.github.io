@@ -148,7 +148,7 @@ http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1,BBC One HD
 #EXTGRP:Locales
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-#EXTINF:-1,BBC One HD
+#EXTINF:-1,BBC One HD (op3)
 #EXTGRP:Locales
 http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
 #EXTINF:-1,BBC Two HD
@@ -157,16 +157,61 @@ http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1,BBC Two
 #EXTGRP:Locales
 http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-
-
+#EXTINF:-1,BBC Two
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:-1,BBC Three
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_bbc_three_sd/index.m3u8
+#EXTINF:-1,BBC Four
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
 #EXTINF:-1,ITV
 #EXTGRP:Locales
 http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
-
-
+#EXTINF:-1,ITV
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
 #EXTINF:-1,ITV2 HD
 #EXTGRP:Locales
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+#EXTINF:-1,ITV2 HD
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
+#EXTINF:-1,ITV 3
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
+#EXTINF:-1,ITV 4
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8
+#EXTINF:-1,5 USA
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_5_usa_sd/index.m3u8
+#EXTINF:-1,5Action
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_5action_sd/index.m3u8
+#EXTINF:-1,5Star
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_5_star_sd/index.m3u8
+#EXTINF:-1,5Select
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8
+#EXTINF:-1,Channel 4
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+#EXTINF:-1,Channel 5
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
+#EXTINF:-1,E4
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
+#EXTINF:-1,Film 4
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_film_4_sd/index.m3u8
+#EXTINF:-1,Sky Arts
+#EXTGRP:Locales
+http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
+
 #EXTINF:0,Nuestra Visión
 #EXTGRP:Locales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
