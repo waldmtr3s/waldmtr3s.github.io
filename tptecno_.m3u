@@ -4,30 +4,7 @@
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1,EN VIVO Ucrania 24
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
-#EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClEiTusa-SX5NmpsWIRgCDQ/live
-#EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCrjyygMS1KNuL10AT5AIcBQ/live
-#EXTINF:-1,EN VIVO Rusia 1
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC2D0dmLHKbIe9aACnlcTLPg/live
-#EXTINF:-1,EN VIVO Rusia 24
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
-#EXTINF:-1,EN VIVO Moscu 24
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
-#EXTINF:-1,EN VIVO France 24
-#EXTGRP:Locales
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,EN VIVO Deutsche Welle DW
-#EXTGRP:Locales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
+
 #EXTINF:-1,NBC
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a07x/index.m3u8
@@ -1132,7 +1109,30 @@ https://movie.mcas.jp/mcas/mx1_prod.smil/.m3u8
 #EXTINF:-1 ,TokyoMX 2 JP 
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx2_prod.smil/.m3u8
-
+#EXTINF:-1,EN VIVO Ucrania 24
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
+#EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClEiTusa-SX5NmpsWIRgCDQ/live
+#EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCrjyygMS1KNuL10AT5AIcBQ/live
+#EXTINF:-1,EN VIVO Rusia 1
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC2D0dmLHKbIe9aACnlcTLPg/live
+#EXTINF:-1,EN VIVO Rusia 24
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
+#EXTINF:-1,EN VIVO Moscu 24
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
+#EXTINF:-1,EN VIVO France 24
+#EXTGRP:Locales
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1,EN VIVO Deutsche Welle DW
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
 #EXTINF:0,Mundo geek
 #EXTGRP:Internacionales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus

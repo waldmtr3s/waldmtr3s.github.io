@@ -1,8 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://waldmtr3s.github.io/img/22.jpg" group-title="Semana Santa", DONACIONES EN
+#EXTINF:-1 tvg-logo="" group-title="Semana Santa", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="https://waldmtr3s.github.io/img/22.jpg" group-title="Semana Santa", DONACIONES EN
+#EXTINF:-1 tvg-logo="" group-title="Semana Santa", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1NTg5OWQtYzcwNi00ZDFkLWJmZjgtNDM3ZjZiODAxYmE2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",Samson and Delilah (1949) Lat
+https://archive.org/download/23115231816.1165.5613101319.13124/23115231816.1165.5613101319.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1NTg5OWQtYzcwNi00ZDFkLWJmZjgtNDM3ZjZiODAxYmE2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",Samson and Delilah (1949) Sub
+https://archive.org/download/23115231816.1165.5613101319.13124/23115231816.1165.5613101319.23252.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QwZGZkZDEtNjUwNi00NTk5LTg3ZTAtYjE5ZTczMzYzOWRmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="Semana Santa",Quo Vadis (1951) Lat
+https://archive.org/download/202518.26151023.13124/202518.26151023.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QwZGZkZDEtNjUwNi00NTk5LTg3ZTAtYjE5ZTczMzYzOWRmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="Semana Santa",Quo Vadis (1951) Sub
+https://archive.org/download/202518.26151023.13124/202518.26151023.23252.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA1MDYwMTAtYmM5ZC00M2VkLTljOWYtY2JiMWMyMDY5Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",The Robe (1953) Lat
+https://archive.org/download/2496.211826.1953.13124/2496.211826.1953.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA1MDYwMTAtYmM5ZC00M2VkLTljOWYtY2JiMWMyMDY5Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",The Robe (1953) Sub
+https://archive.org/download/2496.211826.1953.13124/2496.211826.1953.23252.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViYzQ4NTQtYjg1OC00ZjkzLWI4NWUtNzgwMTYxNDIyMDgzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_QL75_UY148_CR4,0,100,148_.jpg" group-title="Semana Santa",Marcelino Pan y Vino (1955) Castellano
 https://archive.org/download/151213613101618.19116.29.26101618.1955.31232461411618/151213613101618.19116.29.26101618.1955.31232461411618.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODcxYjUxZDgtYTQ5Zi00YmQ1LWJmZmItODZkOTYyNDhiNWM3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Ten Commandments (1956) Lat
@@ -13,14 +28,29 @@ https://archive.org/download/2496.24616.31815151165156162423.1956.13124/2496.246
 https://archive.org/download/2616.9252.1959.72019.25211019.13124/2616.9252.1959.72019.25211019.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",Ben-Hur (1959) Sub
 https://archive.org/download/2616.9252.1959.72019.25211019.13124/2616.9252.1959.72019.25211019.23252.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNkYmEyOGItNWZiOS00NzMxLWFhNjktMzhhYWZlMTAyMDUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY148_CR1,u0,100,148_.jpg" group-title="Semana Santa",King of Kings (1961) Lat
 https://archive.org/download/12.10.168.187.121016823.1961.72019.13124/12.10.168.187.121016823.1961.72019.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNkYmEyOGItNWZiOS00NzMxLWFhNjktMzhhYWZlMTAyMDUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY148_CR1,u0,100,148_.jpg" group-title="Semana Santa",King of Kings (1961) Sub
 https://archive.org/download/12.10.168.187.121016823.1961.72019.13124/12.10.168.187.121016823.1961.72019.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhiMWM5MzgtNTdkMC00ZTFmLWEzMjEtZmZkOTY2MmQwNzhjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="Semana Santa",Barabbas (1961) Lat
+https://archive.org/download/212212123.1961.13124/212212123.1961.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM3NTU3YWQtN2MzMy00NmRmLTg3YmYtMjAzOWEwYzEyMDNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",The Bible in the Begining (1966) Lat
+https://archive.org/download/2102136.268101610168.1966.13124/2102136.268101610168.1966.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM3NTU3YWQtN2MzMy00NmRmLTg3YmYtMjAzOWEwYzEyMDNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="Semana Santa",The Bible in the Begining (1966) Sub
+https://archive.org/download/2102136.268101610168.1966.13124/2102136.268101610168.1966.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkNmY0OTktYmUyNS00MjI3LWE3ZGItNWU1NzkyMDY3NTlmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="Semana Santa",The Last Temptation of Christ (1988) Lat
+https://archive.org/download/1312324.246151924124101816.421102324.1988.13124/1312324.246151924124101816.421102324.1988.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkNmY0OTktYmUyNS00MjI3LWE3ZGItNWU1NzkyMDY3NTlmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="Semana Santa",The Last Temptation of Christ (1988) Sub
+https://archive.org/download/1312324.246151924124101816.421102324.1988.13124/1312324.246151924124101816.421102324.1988.23252.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjMjgyNmMtNWMzZC00YjI4LWI1NmUtMTY0ZTA0ZDQ4Y2EwXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Prince of Egypt (1998) Lat
 https://archive.org/download/19211016310196.56.6810192418.1998.72019.25211019.13124/19211016310196.56.6810192418.1998.72019.25211019.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjMjgyNmMtNWMzZC00YjI4LWI1NmUtMTY0ZTA0ZDQ4Y2EwXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Prince of Egypt (1998) Sub
 https://archive.org/download/19211016310196.56.6810192418.1998.72019.25211019.13124/19211016310196.56.6810192418.1998.72019.25211019.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Bruce Almighty (2003) Lat
+https://archive.org/download/2212536.1131510892429.2003.13124/2212536.1131510892429.2003.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Bruce Almighty (2003) Sub
+https://archive.org/download/2212536.1131510892429.2003.13124/2212536.1131510892429.2003.23252.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1N2IyYWMtZTY4OS00OGM1LTkxNmUtOTQzYmM5MmI2YmVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Passion of the Christ (2004) Lat
 https://archive.org/download/1912323101816.421102324.13124/1912323101816.421102324.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1N2IyYWMtZTY4OS00OGM1LTkxNmUtOTQzYmM5MmI2YmVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Passion of the Christ (2004) Sub
@@ -30,6 +60,14 @@ https://archive.org/download/1912323101816.421102324.13124/1912323101816.4211023
 https://archive.org/download/2181812.61310.13124/2181812.61310.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1OWI1YzgtZjEyMy00MjQ4LWE0NWMtYTNhYjc0ZDQ3ZGRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="Semana Santa",The Book of Eli (2010) Sub
 https://archive.org/download/2181812.61310.13124/2181812.61310.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNhNzZkZjAtODRjYy00M2JjLTgxYTEtNWEzMDhiMDFhYmU5XkEyXkFqcGdeQXVyOTExODQ3OQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="Semana Santa",Tezuka Osamu no budda: Akai sabaku yo! Utsukushiku / Buddha: The Great Departure (2011) Sub
+https://archive.org/download/22551.821116.26101116.2011.23252/22551.821116.26101116.2011.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMzMjMzOGQtNTEzYy00MDBhLWIyZmUtZjBlNmYwODljNzdhXkEyXkFqcGdeQXVyNTgwNzU4NjM@._V1_QL75_UY148_CR4,0,100,148_.jpg" group-title="Semana Santa",Buddha 2: Tezuka Osamu no Budda - Owarinaki tabi / Buddha 2: The Endless Journey (2014) Sub
+https://archive.org/download/22551.821116.26101116.2011.23252/22551.2.3115101618.10132515101613101816.2014.23252.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Life of Pi (2012) Lat
+https://archive.org/download/131076.1910.2012.13124/131076.1910.2012.13124.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Life of Pi (2012) Sub
+https://archive.org/download/131076.1910.2012.13124/131076.1910.2012.23252.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Exodus: Gods and Kings (2014) Sub
 https://archive.org/download/6281852523.818523.1165.121016823.72019.25211019.13124/6281852523.818523.1165.121016823.72019.25211019.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Exodus: Gods and Kings (2014) Sub
@@ -46,7 +84,7 @@ https://archive.org/download/2616-92521.2016.72019.25211019.13124/2616-92521.201
 https://archive.org/download/15121101.151851136161.13124/15121101.151851136161.13124.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVjYmUxZDQtMDU0ZC00MzU0LWIwOTYtYjM1NjFiZmE1ZDBlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Semana Santa",Mary Magdalene (2018) Sub
 https://archive.org/download/15121101.151851136161.13124/15121101.151851136161.23252.mp4
-#EXTINF:-1 tvg-logo="https://waldmtr3s.github.io/img/22.jpg" group-title="Semana Santa", DONACIONES EN
+#EXTINF:-1 tvg-logo="" group-title="Semana Santa", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-logo="https://waldmtr3s.github.io/img/22.jpg" group-title="2022", DONACIONES EN
 https://waldmtr3s.github.io/mpago.mp4
