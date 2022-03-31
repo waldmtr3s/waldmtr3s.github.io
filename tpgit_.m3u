@@ -1111,29 +1111,29 @@ https://movie.mcas.jp/mcas/mx1_prod.smil/.m3u8
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx2_prod.smil/.m3u8
 #EXTINF:-1,EN VIVO Ucrania 24
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClEiTusa-SX5NmpsWIRgCDQ/live
 #EXTINF:-1,Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCrjyygMS1KNuL10AT5AIcBQ/live
 #EXTINF:-1,EN VIVO Rusia 1
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC2D0dmLHKbIe9aACnlcTLPg/live
 
 #EXTINF:-1,EN VIVO Rusia 24
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
 #EXTINF:-1,EN VIVO Moscu 24
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
 #EXTINF:-1,EN VIVO France 24
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1,EN VIVO Deutsche Welle DW
-#EXTGRP:Locales
+#EXTGRP:Internacionales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
 
 #EXTINF:0,Mundo geek
