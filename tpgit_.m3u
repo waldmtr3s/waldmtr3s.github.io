@@ -9,113 +9,47 @@ https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1,NBC
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a07x/index.m3u8
-#EXTINF:-1,NBC (op3)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
-#EXTINF:-1,NBC (op4)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kntv-dt1.m3u8
-#EXTINF:-1,NBC (op5) TubiTV
-#EXTGRP:Locales
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+http://96.242.237.206:8000/play/a07x/index.m3u8
 
 
 #EXTINF:-1,ABC
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a08l/index.m3u8
-#EXTINF:-1,ABC (op3)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
-#EXTINF:-1,ABC (op4)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
-#EXTINF:-1,ABC (op5)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt2.m3u8
-#EXTINF:-1,ABC (op6) TubiTV
-#EXTGRP:Locales
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+http://96.242.237.206:8000/play/a08l/index.m3u8
 
-#EXTINF:-1,ABC News
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:-1,CBS New York
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a081/index.m3u8
-
-#EXTINF:-1,FOX (op2)
+http://96.242.237.206:8000/play/a081/index.m3u8
+#EXTINF:-1,FOX 5
 #EXTGRP:Locales
-http://stream2.grandma.fit/fox.m3u8
-#EXTINF:-1,FOX (op3)
-#EXTGRP:Locales
-http://71.187.29.220:8000/play/a075/index.m3u8
-#EXTINF:-1,FOX (op4) TubiTV
-#EXTGRP:Locales
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
-
-
-#EXTINF:-1,PIX11
-#EXTGRP:Locales
-http://71.187.29.220:8000/play/a08o/index.m3u8
-#EXTINF:-1,ION (West Network) (ION)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
-#EXTINF:-1,myTV
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
-#EXTINF:-1,myTV (op2)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
-#EXTINF:-1,myTV (op3)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
-#EXTINF:-1,NYCTV Gov
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt2.m3u8
-#EXTINF:-1,NYCTV Life
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
-#EXTINF:-1,StartTV
-#EXTGRP:Locales
-http://71.187.29.220:8000/play/a085/index.m3u8
+http://96.242.237.206:8000/play/a075/index.m3u8
 
 #EXTINF:-1,TELEMUNDO
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a07a/index.m3u8
+http://96.242.237.206:8000/play/a07a/index.m3u8
 #EXTINF:-1,Telemundo Network (East) (TELMUN)
 #EXTGRP:Locales
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Telemundo (op3)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
-
 
 #EXTINF:-1,Estrella TV (East) (ESTRELLA)
 #EXTGRP:Locales
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,Azteca America Network (East) (AZTECA)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xhas-tdt.m3u8
+http://96.242.237.206:8000/play/a08g/index.m3u8
 #EXTINF:-1,UNIMÁS
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a08b/index.m3u8
+http://96.242.237.206:8000/play/a08b/index.m3u8
+
 #EXTINF:-1,UniMás HDTV (Pacific) (UMAS)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
+http://96.242.237.206:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
 #EXTGRP:Locales
-http://71.187.29.220:8000/play/a07t/index.m3u8
-
-
+http://96.242.237.206:8000/play/a07t/index.m3u8
 
 #EXTINF:-1,Univision Network HDTV (UNIHD)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
-#EXTINF:-1,UNIVISION (op4)
-#EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
+http://96.242.237.206:8000/play/a07t/index.m3u8
 #EXTINF:0,BBC Home
 #EXTGRP:Locales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -209,7 +143,7 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=27&format=HLS&p=PROFILE
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Azteca Uno (op3)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8
+http://38.123.205.70:8000/play/a0cc/index.m3u8
 #EXTINF:0,Azteca Uno -2hr
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=2195&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
@@ -233,7 +167,7 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=17&format=HLS&p=PROFILE
 
 #EXTINF:0,XEW Las Estrellas DF (LASESTRE)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
+http://38.123.205.70:8000/play/a0d4/index.m3u8
 #EXTINF:0,XEW Las Estrellas HDTV DF (XEW-DT)
 #EXTGRP:Locales
 http://38.131.11.9:1080/play/a032
@@ -250,7 +184,7 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=19&format=HLS&p=PROFILE
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=2353&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
 #EXTINF:0,Imagen Tv (op2)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
+http://38.123.205.70:8000/play/a0d5/index.m3u8
 #EXTINF:0,Imagen Tv (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
@@ -272,7 +206,7 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=20&format=HLS&p=PROFILE
 
 #EXTINF:0,XHGC 5 Nacional (CANL5)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
+http://38.123.205.70:8000/play/a0fl/index.m3u8
 #EXTINF:0,Canal 6 Mty
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=2305&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
@@ -312,7 +246,7 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=1932&format=HLS&p=PROFI
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0,Azteca 7 (op3)
 #EXTGRP:Locales
-https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
+http://38.123.205.70:8000/play/a0fm/index.m3u8
 #EXTINF:0,A+
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=2318&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
@@ -416,23 +350,33 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,Fox International (Mexico) (FOX)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=46&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-
+#EXTINF:0,STAR Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08v/index.m3u8
 #EXTINF:0,Sony Entertainment Television (Mexico) (SONY)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=48&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-
+#EXTINF:0,Sony
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0aj/index.m3u8
 #EXTINF:0,Warner Channel (México) (WARNER)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=52&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-
+#EXTINF:0,Warner
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0cf/index.m3u8
 #EXTINF:0,Universal Channel (Mexico) (UNIVERS)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=57&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-
+#EXTINF:0,Universal Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bt/index.m3u8
 #EXTINF:0,FX Latin America (México) (FX)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=60&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
-
+#EXTINF:0,FX
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08x/index.m3u8
 #EXTINF:0,E! Entertainment Television (Mexico) (E!)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=55&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
@@ -1429,8 +1373,57 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:0,Fmtv 2
 #EXTGRP:Peliculas
 https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
-
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,SPACE
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cg/index.m3u8
+#EXTINF:-1,TNT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0aq/index.m3u8
+#EXTINF:-1,Multicanal
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0co/index.m3u8
+#EXTINF:-1,CINEMAX
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a093/index.m3u8
+#EXTINF:-1,MULTI PREMIER
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cp/index.m3u8
+#EXTINF:-1,Cinecanal
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cq/index.m3u8
+#EXTINF:-1,Cine Latino
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0k6/index.m3u8
+#EXTINF:-1,FXM
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cr/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0bh/index.m3u8
+#EXTINF:-1,PARAMOUNT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cs/index.m3u8
+#EXTINF:-1,HBO
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0c5/index.m3u8
+#EXTINF:-1,HBO 2
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0ct/index.m3u8
+#EXTINF:-1,HBO FAMILY
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cu/index.m3u8
+#EXTINF:-1,HBO +
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cv/index.m3u8
+#EXTINF:-1,HBO XTREME
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a096/index.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,De Pelicula
 #EXTGRP:Peliculas
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?&lchId=335&format=HLS&p=PROFILE01&session=hk9psvdthd7j01s&v=N&f=.m3u8
