@@ -20,7 +20,9 @@ http://96.242.237.206:8000/play/a081/index.m3u8
 #EXTINF:-1,FOX 5
 #EXTGRP:Locales
 http://96.242.237.206:8000/play/a075/index.m3u8
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,TELEMUNDO
 #EXTGRP:Locales
 http://96.242.237.206:8000/play/a07a/index.m3u8
@@ -48,6 +50,9 @@ http://96.242.237.206:8000/play/a07t/index.m3u8
 #EXTINF:-1,Univision Network HDTV (UNIHD)
 #EXTGRP:Locales
 http://96.242.237.206:8000/play/a07t/index.m3u8
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,BBC Home
 #EXTGRP:Locales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -121,7 +126,9 @@ http://45.153.35.210:8000/play/UK_film_4_sd/index.m3u8
 #EXTINF:-1,Sky Arts
 #EXTGRP:Locales
 http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
-
+#EXTINF:-1,DONACIONES EN
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,Nuestra Visión
 #EXTGRP:Locales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -138,9 +145,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLS&s=hkc26at86kbpzzczc
 #EXTINF:0,XHDF Ciudad de México (Azteca Uno) DF (AZUNO)
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0,Azteca Uno (op3)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0cc/index.m3u8
+
 #EXTINF:0,Azteca Uno -2hr
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2195&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -159,9 +164,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
-#EXTINF:0,XEW Las Estrellas DF (LASESTRE)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0d4/index.m3u8
 #EXTINF:0,XEW Las Estrellas HDTV DF (XEW-DT)
 #EXTGRP:Locales
 http://38.131.11.9:1080/play/a032
@@ -176,9 +178,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczc
 #EXTINF:0,Imagen Tv
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,Imagen Tv (op2)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0d5/index.m3u8
+
 #EXTINF:0,Imagen Tv (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
@@ -198,9 +198,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
-#EXTINF:0,XHGC 5 Nacional (CANL5)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0fl/index.m3u8
 #EXTINF:0,Canal 6 Mty
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -237,9 +234,27 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLS&s=hkc26at86kbpzzc
 #EXTINF:0,XHIMT Azteca 7 DF (AZT-7)
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:0,Azteca Uno (op3)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:0,XEW Las Estrellas DF (LASESTRE)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+#EXTINF:0,Imagen Tv (op2)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:0,XHGC 5 Nacional (CANL5)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0fl/index.m3u8
 #EXTINF:0,Azteca 7 (op3)
 #EXTGRP:Locales
 http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,A+
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -346,33 +361,76 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,Fox International (Mexico) (FOX)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=46&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR Channel
-#EXTGRP:Entretenimiento
-http://38.123.205.70:8000/play/a08v/index.m3u8
+
 #EXTINF:0,Sony Entertainment Television (Mexico) (SONY)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,Sony
-#EXTGRP:Entretenimiento
-http://38.123.205.70:8000/play/a0aj/index.m3u8
+
 #EXTINF:0,Warner Channel (México) (WARNER)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=52&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,Warner
-#EXTGRP:Entretenimiento
-http://38.123.205.70:8000/play/a0cf/index.m3u8
+
 #EXTINF:0,Universal Channel (Mexico) (UNIVERS)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,Universal Channel
-#EXTGRP:Entretenimiento
-http://38.123.205.70:8000/play/a0bt/index.m3u8
+
 #EXTINF:0,FX Latin America (México) (FX)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Entretenimiento
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:0,STAR Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08v/index.m3u8
+#EXTINF:0,Sony
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0aj/index.m3u8
+#EXTINF:0,Warner
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0cf/index.m3u8
+#EXTINF:0,Universal Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bt/index.m3u8
 #EXTINF:0,FX
 #EXTGRP:Entretenimiento
 http://38.123.205.70:8000/play/a08x/index.m3u8
+#EXTINF:-1,AXN
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08w/index.m3u8
+#EXTINF:-1,SYFY
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+#EXTINF:-1,A&E
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bv/index.m3u8
+#EXTINF:-1,STAR Life
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08y/index.m3u8
+#EXTINF:-1,HolaTV
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0db/index.m3u8
+#EXTINF:-1,E!
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0by/index.m3u8
+#EXTINF:-1,TBS
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0dc/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0b3/index.m3u8
+#EXTINF:-1,Discovery H&H
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bw/index.m3u8
+#EXTINF:-1,TLC
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bx/index.m3u8
+#EXTINF:-1,LIFE TIME
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0ci/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Entretenimiento
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,E! Entertainment Television (Mexico) (E!)
 #EXTGRP:Entretenimiento
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -556,6 +614,36 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=98&f=HLS&s=hkc26at86kbpzzczc
 #EXTINF:0,Discovery World
 #EXTGRP:Cultura
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Cultura
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ep/index.m3u8
+#EXTINF:-1,NATGEO LA
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0cl/index.m3u8
+#EXTINF:-1,NATGEO WILD
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0c2/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1,History Channel
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ap/index.m3u8
+#EXTINF:-1,H2
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0dj/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0c4/index.m3u8
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ch/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Cultura
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,LoveNature 4k SamsungTv
 #EXTGRP:Cultura
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -612,7 +700,45 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLS&s=hkc26at86kbpzzc
 #EXTINF:0,Bitme 
 #EXTGRP:Niños
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Niños
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,DISNEY CHANNEL
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1,DISNEY JR
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0bz/index.m3u8
+#EXTINF:-1,Disney XD
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0j0/index.m3u8
+#EXTINF:-1,Nick Music
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0df/index.m3u8
+#EXTINF:-1,Nickelodeon
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1,NICK JR
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0ck/index.m3u8
+#EXTINF:-1,Discovery Kids
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0an/index.m3u8
+#EXTINF:-1,Natgeo Kids
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0dh/index.m3u8
+#EXTINF:-1,BABY TV
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0b9/index.m3u8
+#EXTINF:-1,Boomerang
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0c1/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Niños
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0 tvg-name="Locomotion",Locomotion
 #EXTGRP:Niños
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -807,7 +933,18 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLS&s=hkc26at86kbpzzcz
 #EXTINF:0,A3 Series
 #EXTGRP:Internacionales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Internacionales
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,A3 SERIES
+#EXTGRP:Internacionales
+http://38.123.205.70:8000/play/a0b0/index.m3u8
+#EXTINF:-1,Antena 3
+#EXTGRP:Internacionales
+http://38.123.205.70:8000/play/a0bu/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Internacionales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,La 1 HD
 #EXTGRP:Internacionales
 http://93.152.174.144:4000/play/la1sp/index.m3u8
@@ -1373,7 +1510,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:0,Fmtv 2
 #EXTGRP:Peliculas
 https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
-#EXTINF:-1,DONACIONES EN
+#EXTINF:-1,DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,SPACE
@@ -1382,6 +1519,12 @@ http://38.123.205.70:8000/play/a0cg/index.m3u8
 #EXTINF:-1,TNT
 #EXTGRP:Peliculas
 http://38.123.205.70:8000/play/a0aq/index.m3u8
+#EXTINF:-1,TNT SERIES
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0da/index.m3u8
+#EXTINF:-1,ISAT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0b2/index.m3u8
 #EXTINF:-1,Multicanal
 #EXTGRP:Peliculas
 http://38.123.205.70:8000/play/a0co/index.m3u8
@@ -1421,7 +1564,16 @@ http://38.123.205.70:8000/play/a0cv/index.m3u8
 #EXTINF:-1,HBO XTREME
 #EXTGRP:Peliculas
 http://38.123.205.70:8000/play/a096/index.m3u8
-#EXTINF:-1,DONACIONES EN
+#EXTINF:-1,PLAY BOY
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a09a/index.m3u8
+#EXTINF:-1,VENUS
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a09b/index.m3u8
+#EXTINF:-1,Sextreme
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a09c/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,De Pelicula
@@ -1652,7 +1804,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCq
 #EXTINF:0,TVC Deportes
 #EXTGRP:Deportes
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1,DONACIONES EN
+#EXTINF:-1,DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
@@ -1670,14 +1822,15 @@ http://38.123.205.70:8000/play/a0dk/index.m3u8
 http://38.123.205.70:8000/play/a0cm/index.m3u8
 #EXTINF:-1,ESPN
 #EXTGRP:Deportes
-http://38.123.205.70:8000/play/a091/index.m3u8
+http://38.123.205.70:8000/play/a092/index.m3u8
 #EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
-http://38.123.205.70:8000/play/a092/index.m3u8
+http://38.123.205.70:8000/play/a091/index.m3u8
+
 #EXTINF:-1,ESPN 3
 #EXTGRP:Deportes
 http://38.123.205.70:8000/play/a0c3/index.m3u8
-#EXTINF:-1,DONACIONES EN
+#EXTINF:-1,DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
@@ -3503,6 +3656,27 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=203&f=HLS&s=hkc26at86kbpzzcz
 #EXTINF:0,France24 En Español 
 #EXTGRP:Noticias y Documentales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2402&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Noticias y Documentales
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,CNN en Español
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0dl/index.m3u8
+#EXTINF:-1,CNN Internacional
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0bd/index.m3u8
+#EXTINF:-1,RT Español
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0cn/index.m3u8
+#EXTINF:-1,Teleformula
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0be/index.m3u8
+#EXTINF:-1,Milenio
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0dm/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Noticias y Documentales
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,DW EN ESPANOL
 #EXTGRP:Noticias y Documentales
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -3620,8 +3794,60 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLS&s=hkc26at86kbpzzcz
 #EXTINF:0,Telehit Musica Plus
 #EXTGRP:Musica
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
-
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Musica
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1,MTV Latino
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0ak/index.m3u8
+#EXTINF:-1,MTV HITS Europa
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b4/index.m3u8
+#EXTINF:-1,VIDEO ROLA
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b5/index.m3u8
+#EXTINF:-1,MTV 00'S
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b6/index.m3u8
+#EXTINF:-1,HTV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b7/index.m3u8
+#EXTINF:-1,TLR
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0em/index.m3u8
+#EXTINF:-1,EXA TV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0je/index.m3u8
+#EXTINF:-1,La Mejor TV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0jf/index.m3u8
+#EXTINF:-1,Ritmo Digital
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j3/index.m3u8
+#EXTINF:-1,Decades
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j4/index.m3u8
+#EXTINF:-1,Rock Clasico
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j5/index.m3u8
+#EXTINF:-1,EXA FM CDMX
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j6/index.m3u8
+#EXTINF:-1,LA MEJOR FM
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j8/index.m3u8
+#EXTINF:-1,Fiesta Latina
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j9/index.m3u8
+#EXTINF:-1,Stereo Rey
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0ja/index.m3u8
+#EXTINF:-1,Ambient
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0jb/index.m3u8
+#EXTINF:-1,DONACIONES EN (ALT)
+#EXTGRP:Musica
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:0,Bandamax
 #EXTGRP:Musica
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
