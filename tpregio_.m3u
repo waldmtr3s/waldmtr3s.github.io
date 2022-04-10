@@ -1536,6 +1536,10 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-name="",Fmtv 2
 #EXTGRP:Peliculas
 https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
+#EXTINF:-1 tvg-name="",MooviMex
+#EXTGRP:Peliculas
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
