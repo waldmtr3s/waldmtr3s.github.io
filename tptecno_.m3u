@@ -144,45 +144,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",XHIMT Azteca 7 DF (AZT-7)
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-ID="AztecaUno.mx",Azteca Uno (op3)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas México" tvg-ID="LasEstrellasMexico.mx",XEW Las Estrellas DF (LASESTRE)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-name="",Imagen Tv (op2)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-name="Canal 5" tvg-ID="Canal5.mx",XHGC 5 Nacional (CANL5)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 Mexico City" tvg-ID="Azteca7MexicoCity.mx",Azteca 7 (op3)
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-name="Multimedios Plus" tvg-ID="MultimediosPlus.mx",Canal 6 CDMX
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0bp/index.m3u8
-#EXTINF:-1 tvg-name="Once México" tvg-ID="OnceMexico.mx",Canal Once
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-name="Canal Catorce" tvg-ID="CanalCatorce.mx",Canal 14 CDMX
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-name="TV UNAM" tvg-ID="TVUnam.mx",TV UNAM
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-name="Canal 22 Nacional",CANAL 22
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-name="",MVS TV
-#EXTGRP:Locales
-http://38.123.205.70:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
-https://waldmtr3s.github.io/mpago.mp4
+
 #EXTINF:-1 tvg-name="",A+
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
@@ -275,7 +237,45 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLS&s=hkc2
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2167&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
-
+#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-ID="AztecaUno.mx",Azteca Uno (op3)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas México" tvg-ID="LasEstrellasMexico.mx",XEW Las Estrellas DF (LASESTRE)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-name="",Imagen Tv (op2)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5" tvg-ID="Canal5.mx",XHGC 5 Nacional (CANL5)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-name="Azteca 7 Mexico City" tvg-ID="Azteca7MexicoCity.mx",Azteca 7 (op3)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-name="Multimedios Plus" tvg-ID="MultimediosPlus.mx",Canal 6 CDMX
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+#EXTINF:-1 tvg-name="Once México" tvg-ID="OnceMexico.mx",Canal Once
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-name="Canal Catorce" tvg-ID="CanalCatorce.mx",Canal 14 CDMX
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="TV UNAM" tvg-ID="TVUnam.mx",TV UNAM
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-name="Canal 22 Nacional",CANAL 22
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-name="",MVS TV
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
+#EXTGRP:Locales
+https://waldmtr3s.github.io/mpago.mp4
 
 
 
@@ -471,39 +471,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",TLC (Mexico) (TLC)
 #EXTGRP:Cultura
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-name="",NASA Television (NASA)
-#EXTGRP:Cultura
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="",NASA TV 2
-#EXTGRP:Cultura
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="",NASA TV ISS
-#EXTGRP:Cultura
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-name="",NASA TV ISS (op2)
-#EXTGRP:Cultura
-http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS (op3)
-#EXTGRP:Cultura
-http://a92ccb54-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS 2
-#EXTGRP:Cultura
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-name="",NASA TV ISS 2 (op2)
-#EXTGRP:Cultura
-http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS 2 (op3)
-#EXTGRP:Cultura
-http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",ESA TV
-#EXTGRP:Cultura
-https://livestream.com/accounts/362/events/6350312/player
-#EXTINF:-1 tvg-name="",ESA TV (op2)
-#EXTGRP:Cultura
-http://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.m3u8
-#EXTINF:-1 tvg-name="",ESA TV (op3)
-#EXTGRP:Cultura
-https://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.secure.m3u8
 
 #EXTINF:-1 tvg-name="",The Discovery Channel (Mexico) (DSC)
 #EXTGRP:Cultura
@@ -582,6 +549,39 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="",Clarity 4k SamsungTv
 #EXTGRP:Cultura
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="",NASA Television (NASA)
+#EXTGRP:Cultura
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="",NASA TV 2
+#EXTGRP:Cultura
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="",NASA TV ISS
+#EXTGRP:Cultura
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-name="",NASA TV ISS (op2)
+#EXTGRP:Cultura
+http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1 tvg-name="",NASA TV ISS (op3)
+#EXTGRP:Cultura
+http://a92ccb54-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1 tvg-name="",NASA TV ISS 2
+#EXTGRP:Cultura
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-name="",NASA TV ISS 2 (op2)
+#EXTGRP:Cultura
+http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1 tvg-name="",NASA TV ISS 2 (op3)
+#EXTGRP:Cultura
+http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1 tvg-name="",ESA TV
+#EXTGRP:Cultura
+https://livestream.com/accounts/362/events/6350312/player
+#EXTINF:-1 tvg-name="",ESA TV (op2)
+#EXTGRP:Cultura
+http://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.m3u8
+#EXTINF:-1 tvg-name="",ESA TV (op3)
+#EXTGRP:Cultura
+https://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.secure.m3u8
 
 #EXTINF:-1 tvg-name="",NatGeo People HK
 #EXTGRP:Cultura
@@ -1430,122 +1430,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",Local Now Movies of the 70's
-#EXTGRP:Peliculas
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Movies of the 80's
-#EXTGRP:Peliculas
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Movies of the 90's
-#EXTGRP:Peliculas
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Movies of the 2000's
-#EXTGRP:Peliculas
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Movies of the 2010's
-#EXTGRP:Peliculas
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Movies of the 2020's
-#EXTGRP:Peliculas
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",Local Now Mr Box Office
-#EXTGRP:Peliculas
-https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="",AMC Presents
-#EXTGRP:Peliculas
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="",IFC Films Picks
-#EXTGRP:Peliculas
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="",Rush by AMC
-#EXTGRP:Peliculas
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="",Redbox Spotlight US
-#EXTGRP:Peliculas
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="",Redbox Comedy US
-#EXTGRP:Peliculas
-https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="",Redbox Comedy US
-#EXTGRP:Peliculas
-https://rush-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",Rakuten Viki PlexTv
-#EXTGRP:Peliculas
-https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-name="",Pluto TV Cine Acción
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Cine Estelar
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Series Retro
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Series Latinas
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-name="",Estrellas de Acción
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="",Pluto TV Sci-Fi
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV 007 en español
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV 007
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Mission Impossible
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Paramount Movie Channel
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Paramount+ Picks
-#EXTGRP:Peliculas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="",RecOnline
-#EXTGRP:Peliculas
-https://master.tucableip.com/reconline/live/video.m3u8
-#EXTINF:-1 tvg-name="",Expreszion
-#EXTGRP:Peliculas
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-#EXTINF:-1 tvg-name="",Geovision
-#EXTGRP:Peliculas
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
-#EXTINF:-1 tvg-name="",Flixtube
-#EXTGRP:Peliculas
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
-#EXTINF:-1 tvg-name="",Horrorfy
-#EXTGRP:Peliculas
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
-#EXTINF:-1 tvg-name="",RetroPlus
-#EXTGRP:Peliculas
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",RetroPlus2
-#EXTGRP:Peliculas
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-name="",RetroPlus3
-#EXTGRP:Peliculas
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",Fmtv 1
-#EXTGRP:Peliculas
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-name="",Fmtv 2
-#EXTGRP:Peliculas
-https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
-#EXTINF:-1 tvg-name="",MooviMex
-#EXTGRP:Peliculas
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="",De Pelicula
 #EXTGRP:Peliculas
@@ -1716,6 +1600,129 @@ http://190.92.95.37:8000/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",RecOnline
+#EXTGRP:Peliculas
+https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:-1 tvg-name="",Expreszion
+#EXTGRP:Peliculas
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 tvg-name="",Geovision
+#EXTGRP:Peliculas
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
+#EXTINF:-1 tvg-name="",Flixtube
+#EXTGRP:Peliculas
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+#EXTINF:-1 tvg-name="",Horrorfy
+#EXTGRP:Peliculas
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
+#EXTINF:-1 tvg-name="",RetroPlus
+#EXTGRP:Peliculas
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",RetroPlus2
+#EXTGRP:Peliculas
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-name="",RetroPlus3
+#EXTGRP:Peliculas
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",Fmtv 1
+#EXTGRP:Peliculas
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-name="",Fmtv 2
+#EXTGRP:Peliculas
+https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
+#EXTINF:-1 tvg-name="",MooviMex
+#EXTGRP:Peliculas
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="",Pluto TV Cine Acción
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Cine Estelar
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Series Retro
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Series Latinas
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-name="",Estrellas de Acción
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",Pluto TV Sci-Fi
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV 007 en español
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV 007
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Mission Impossible
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Paramount Movie Channel
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Paramount+ Picks
+#EXTGRP:Peliculas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",AMC Presents
+#EXTGRP:Peliculas
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="",IFC Films Picks
+#EXTGRP:Peliculas
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="",Rush by AMC
+#EXTGRP:Peliculas
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="",Redbox Spotlight US
+#EXTGRP:Peliculas
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="",Redbox Comedy US
+#EXTGRP:Peliculas
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="",Redbox Comedy US
+#EXTGRP:Peliculas
+https://rush-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",Rakuten Viki PlexTv
+#EXTGRP:Peliculas
+https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-name="",Local Now Movies of the 70's
+#EXTGRP:Peliculas
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Movies of the 80's
+#EXTGRP:Peliculas
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Movies of the 90's
+#EXTGRP:Peliculas
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Movies of the 2000's
+#EXTGRP:Peliculas
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Movies of the 2010's
+#EXTGRP:Peliculas
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Movies of the 2020's
+#EXTGRP:Peliculas
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Local Now Mr Box Office
+#EXTGRP:Peliculas
+https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:Peliculas
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Fox Premium Action HDTV (East) (FACHD)
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
@@ -1757,66 +1764,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",Az Clic
-#EXTGRP:Deportes
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-
-#EXTINF:-1 tvg-name="",GameSpot
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f186626dcd00d0007936443/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Gameplay: Call of Duty
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Gameplay: Fortnite
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd769ccef5c000781c342/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",MinecrafTV
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Gameplay: Roblox
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Gameplay: Sports
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="",Pluto TV Gamer
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Game Show Central
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",GAMR 365 SamsungTv
-#EXTGRP:Deportes
-https://d10ux3u9s5gh2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Gamer3652-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-name="",IGN SamsungTv
-#EXTGRP:Deportes
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-name="",IGN
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="",IGN PlexTv
-#EXTGRP:Deportes
-https://ign-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="",IGN Sportstribal
-#EXTGRP:Deportes
-https://ign-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="",CNET
-#EXTGRP:Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="",LevelUp PlexTv
-#EXTGRP:Deportes
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
-#EXTINF:-1 tvg-name="",LevelUp PlexTv (op2)
-#EXTGRP:Deportes
-https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/195.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=6041643175c115002dc5125b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-name="",LevelUp Live (op3)
-#EXTGRP:Deportes
-https://stream-us-east-1.getpublica.com/cl/76c5cfc9-458e-43c5-b54c-517a504ee22f/1280x720_3600000_0_false.m3u8
 
 #EXTINF:-1 tvg-name="",U-Beat
 #EXTGRP:Deportes
@@ -2053,6 +2000,70 @@ http://93.152.174.144:4000/play/skysports3/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-ID="SkySp.Golf.HD.uk",Sky Sports Golf UK
 #EXTGRP:Deportes
 http://93.152.174.144:4000/play/skysports4/index.m3u8
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:Deportes
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",Az Clic
+#EXTGRP:Deportes
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+
+#EXTINF:-1 tvg-name="",GameSpot
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f186626dcd00d0007936443/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Gameplay: Call of Duty
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Gameplay: Fortnite
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd769ccef5c000781c342/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",MinecrafTV
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Gameplay: Roblox
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Gameplay: Sports
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",Pluto TV Gamer
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Game Show Central
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",GAMR 365 SamsungTv
+#EXTGRP:Deportes
+https://d10ux3u9s5gh2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Gamer3652-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-name="",IGN SamsungTv
+#EXTGRP:Deportes
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-name="",IGN
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",IGN PlexTv
+#EXTGRP:Deportes
+https://ign-plex.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="",IGN Sportstribal
+#EXTGRP:Deportes
+https://ign-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="",CNET
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",LevelUp PlexTv
+#EXTGRP:Deportes
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
+#EXTINF:-1 tvg-name="",LevelUp PlexTv (op2)
+#EXTGRP:Deportes
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/195.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=6041643175c115002dc5125b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 tvg-name="",LevelUp Live (op3)
+#EXTGRP:Deportes
+https://stream-us-east-1.getpublica.com/cl/76c5cfc9-458e-43c5-b54c-517a504ee22f/1280x720_3600000_0_false.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -3792,38 +3803,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",PartyTime Karaoke PlexTv
-#EXTGRP:Musica
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605674085f0040ddc7ac
-#EXTINF:-1 tvg-name="",PartyTime Karaoke (op2)
-#EXTGRP:Musica
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
-
-#EXTINF:-1 tvg-name="",PartyTime Karaoke PlexTv (op2)
-#EXTGRP:Musica
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=602d56bef867c4002c897e22&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=602d56bef867c4002c897e22
-
-#EXTINF:-1 tvg-name="",Vevo 2K
-#EXTGRP:Musica
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo Country
-#EXTGRP:Musica
-https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo HipHop
-#EXTGRP:Musica
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo Holiday
-#EXTGRP:Musica
-https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo Latino
-#EXTGRP:Musica
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo PopEurope
-#EXTGRP:Musica
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-name="",Vevo R&B
-#EXTGRP:Musica
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 #EXTINF:-1 tvg-name="",MTV Live (MTVNHD European for US Lineups) (MTVLIVHD)
 #EXTGRP:Musica
@@ -3847,6 +3826,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Telehit Musica Plus
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="",Bandamax
+#EXTGRP:Musica
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
@@ -3901,9 +3884,42 @@ http://38.123.205.70:8000/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",Bandamax
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",PartyTime Karaoke PlexTv
+#EXTGRP:Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605674085f0040ddc7ac
+#EXTINF:-1 tvg-name="",PartyTime Karaoke (op2)
+#EXTGRP:Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+
+#EXTINF:-1 tvg-name="",PartyTime Karaoke PlexTv (op2)
+#EXTGRP:Musica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=602d56bef867c4002c897e22&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=602d56bef867c4002c897e22
+#EXTINF:-1 tvg-name="",Vevo 2K
+#EXTGRP:Musica
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo Country
+#EXTGRP:Musica
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo HipHop
+#EXTGRP:Musica
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo Holiday
+#EXTGRP:Musica
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo Latino
+#EXTGRP:Musica
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo PopEurope
+#EXTGRP:Musica
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-name="",Vevo R&B
+#EXTGRP:Musica
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
