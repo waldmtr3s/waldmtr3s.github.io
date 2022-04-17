@@ -1897,29 +1897,30 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-name="Fox Sports México" tvg-ID="FoxSportsMexico.us",FOX Sports
-#EXTGRP:Deportes
-http://38.123.205.70:8000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 México" tvg-ID="FoxSports2Mexico.us",FOX Sports 2
-#EXTGRP:Deportes
-http://38.123.205.70:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 3 México" tvg-ID="FoxSports3Mexico.us",FOX Sports 3
-#EXTGRP:Deportes
-http://38.123.205.70:8000/play/a0dk/index.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports
-#EXTGRP:Deportes
-http://38.123.205.70:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-name="ESPN México" tvg-ID="ESPNMexico.us",ESPN
+#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
 #EXTGRP:Deportes
 http://38.123.205.70:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 América Latina" tvg-ID="ESPN2AmericaLatina.us",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
 #EXTGRP:Deportes
 http://38.123.205.70:8000/play/a091/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 3 América Latina" tvg-ID="ESPN3AmericaLatina.us",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
 #EXTGRP:Deportes
 http://38.123.205.70:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-name="",Claro Sports
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports Latin America (Cono Norte) (FSA)",Fox Sports
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a0dk/index.m3u8
+
+
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
