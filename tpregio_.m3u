@@ -104,7 +104,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl
 #EXTINF:-1 tvg-name="",La Octava (DailyMotion)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
-#EXTINF:-1 tvg-name="",Excelsior Tv
+#EXTINF:-1 tvg-name="Excélsior TV",Excelsior Tv
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-name="",ExcelsiorTv (YT)
@@ -209,10 +209,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",TVC
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-name="",Ingenio Tv
+#EXTINF:-1 tvg-name="",Ingenio TV
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-name="",Aprende En Casa
+#EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3316&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -289,7 +289,7 @@ http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
 #EXTGRP:Locales
 http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
-#EXTINF:-1 tvg-name="",Excelsior
+#EXTINF:-1 tvg-name="Excélsior TV",Excelsior
 #EXTGRP:Locales
 http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
 #EXTINF:-1 tvg-name="Foro TV (FOROTV)",ForoTV
@@ -481,7 +481,7 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-name="",Az Corazon
+#EXTINF:-1 tvg-name="",Az Corazón
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-name="",Az Cinema
@@ -1517,20 +1517,20 @@ https://waldmtr3s.github.io/mpago.mp4
 https://waldmtr3s.github.io/mpago.mp4
 
 
-#EXTINF:-1 tvg-name="",De Pelicula
+#EXTINF:-1 tvg-name="De Película",De Pelicula
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-name="",De Pelicula Plus
+#EXTINF:-1 tvg-name="De Película Multiplex",De Pelicula Plus
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-name="",Golden Plus
+#EXTINF:-1 tvg-name="Golden Plus",Golden Plus
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-name="",Golden
+#EXTINF:-1 tvg-name="Golden",Golden
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-name="",Golden Edge
+#EXTINF:-1 tvg-name="Golden Edge",Golden Edge
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-name="",TNT Latin America (Mexico) (TNT)
@@ -1538,7 +1538,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLS&s=hkc26
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
-#EXTINF:-1 tvg-name="",TNT Series
+#EXTINF:-1 tvg-name="TNT Series México",TNT Series
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -1551,7 +1551,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLS&s=hkc26
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
-#EXTINF:-1 tvg-name="",AMC
+#EXTINF:-1 tvg-name="AMC México",AMC
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-name="",Studio Universal (Mexico) (STUNI)
@@ -1598,7 +1598,7 @@ http://38.123.205.70:8000/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-name="TNT Latin America (Mexico) (TNT)",TNT
 #EXTGRP:Peliculas
 http://38.123.205.70:8000/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-name="TNT Series Latin America (Mexico) (TNTSeries)",TNT Series
+#EXTINF:-1 tvg-name="TNT Series México",TNT Series
 #EXTGRP:Peliculas
 http://38.123.205.70:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-name="I-SAT (Pan-Regional) (I-SAT)",ISAT
@@ -1680,13 +1680,13 @@ http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden Plus",Golden Plus
 #EXTGRP:Peliculas
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Latinoamérica",AMC
+#EXTINF:-1 tvg-name="AMC México",AMC
 #EXTGRP:Peliculas
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
 #EXTINF:-1 tvg-name="Morbido Latinoamérica",Morbido
 #EXTGRP:Peliculas
 http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
-#EXTINF:-1 tvg-name="DPelicula Latinoamérica",DPelicula
+#EXTINF:-1 tvg-name="De Película",De Pelicula
 #EXTGRP:Peliculas
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 
