@@ -252,7 +252,39 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2167&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)" tvg-ID="AztecaUno.mx",Azteca Uno
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" tvg-ID="LasEstrellasMexico.mx",Las Estrellas
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-name="",Imagen Tv (op2)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)" tvg-ID="Canal5.mx",Canal 5
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)" tvg-ID="Azteca7MexicoCity.mx",Azteca 7 (op3)
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-name="Multimedios Plus" tvg-ID="MultimediosPlus.mx",Canal 6 CDMX
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+#EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-name="Canal Catorce" tvg-ID="CanalCatorce.mx",Canal 14 CDMX
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="Teveunam (UNAM)" tvg-ID="TVUnam.mx",TV UNAM
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-name="XEIMT 22 Nacional (XEIMT)",CANAL 22
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-name="MVStv (Mexico) (MVSTV)",MVS TV
+#EXTGRP:Locales
+http://38.123.205.70:8000/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-name="",A+
 #EXTGRP:Locales
 http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
@@ -372,7 +404,54 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Entretenimiento
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="Fox International (Mexico) (FOX)",STAR Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08v/index.m3u8
+#EXTINF:-1 tvg-name="Sony Entertainment Television (Mexico) (SONY)", Sony
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)",Warner
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-name="Universal Channel (Mexico) (UNIVERS)",Universal Channel
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-name="FX Latin America (México) (FX)",FX
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-name="AXN (México) (AXN)",AXN
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08w/index.m3u8
+#EXTINF:-1 tvg-name="Syfy (Latin America) (Syfy)",Syfy
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-name="A and E (Mexico) (AandE)",A&E
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-name="Fox Life (Mexico) (FOXLF)",STAR Life
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-name="",HolaTV
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-name="E! Entertainment Television (Mexico) (E!)",E!
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0by/index.m3u8
+#EXTINF:-1 tvg-name="TBS Latin America (TBS)",TBS
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (Latin America - North) (COMDC)",Comedy Central
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Home and Health (Mexico) (DHandH)",Home&Health
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-name="TLC (Mexico) (TLC)",TLC
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime (México) (LIFETIME)",Lifetime
+#EXTGRP:Entretenimiento
+http://38.123.205.70:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)",Warner
 #EXTGRP:Entretenimiento
@@ -498,7 +577,30 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Cultura
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="The Discovery Channel (Mexico) (DSC)",Discovery Channel
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Channel (West / Mexico) (NGC)",NatGeo
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (Latin America) (NGWILD)",NatGeo Wild
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet International (Mexico) (ANIMAL)",Animal Planet
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-name="The History Channel (Mexico) (THCMX)",History Channel
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-name="History 2 Latinoamérica" tvg-ID="History2LatinAmerica.us",H2
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-name="",DISCOVERY TURBO
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (Mexico) (ID)",ID
+#EXTGRP:Cultura
+http://38.123.205.70:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Channel (West / Mexico) (NGC)",NatGeo
 #EXTGRP:Cultura
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
@@ -763,7 +865,39 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Niños
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="Disney en Español (North Feed) (DISNEY)",Disney Channel
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (North Feed) (DISJR)",Disney Jr
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-name="Disney XD Latin America (North) (DISXD)",Disney XD
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-name="",Nick Music
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon (Latin America / North) (NICK)",Nickelodeon
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network (Latin America - Mexico) (TOON)",Cartoon Network
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. (NICKJR)",Nick Jr
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids (Mexico) (DKIDS)",Discovery Kids
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Kids (Chile - México) (NGK)",Natgeo Kids
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-name="Baby TV (Latin America) (BABYTV)",BabyTv
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-name="Boomerang (Mexico) (BOOM)",Boomerang
+#EXTGRP:Niños
+http://38.123.205.70:8000/play/a0c1/index.m3u8
 #EXTINF:-1 tvg-name="",Bitme 
 #EXTGRP:Niños
 http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
@@ -1453,7 +1587,57 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="SPACE (Mexico) (SPACE)",Space
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-name="TNT Latin America (Mexico) (TNT)",TNT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-name="TNT Series México",TNT Series
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0da/index.m3u8
+#EXTINF:-1 tvg-name="I-SAT (Pan-Regional) (I-SAT)",ISAT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-name="MC (Multicinema) (MC)",Multicinema
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax (Mexico) (CINEMAX)",Cinemax
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-name="Multipremier (MULPRE)",MULTI PREMIER
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal (Mexico) (CINE-O)",Cinecanal
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-name="FXM Oeste" tvg-ID="FXMWest.us",FXM
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)",Studio Universal
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network Latin America" tvg-ID="ParamountNetworkLatinAmerica.us",PARAMOUNT
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO 2
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO FAMILY
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO +
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a0cv/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://38.123.205.70:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
 http://190.92.95.37:8000/play/a0k3/index.m3u8
@@ -1709,6 +1893,28 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-name="",Claro Sports
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports Latin America (Cono Norte) (FSA)",Fox Sports
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
+#EXTGRP:Deportes
+http://38.123.205.70:8000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
@@ -3610,7 +3816,21 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2402&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Noticias y Documentales
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="Cable News Network en Español (Mexico) (CNNMEX)",CNN en Español
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-name="Cable News Network International (CNNI)",CNN Internacional
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-name="",RT Español
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-name="TeleFórmula" tvg-ID="TeleFormula.mx",Teleformula
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0be/index.m3u8
+#EXTINF:-1 tvg-name="Milenio TV" tvg-ID="MilenioTV.mx",Milenio
+#EXTGRP:Noticias y Documentales
+http://38.123.205.70:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-name="Cable News Network en Español (Mexico) (CNNMEX)",CNN en Español
 #EXTGRP:Noticias y Documentales
 http://51.79.18.128:8081/LATINO%7CCNN/LATINO%7CCNN/playlist.m3u8
@@ -3711,7 +3931,54 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
-
+#EXTINF:-1 tvg-name="MTV Latino" tvg-ID="MTVLatinAmericaNorth.mx",MTV Latino
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-name="",MTV HITS Europa
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-name="Video Rola" tvg-ID="VideoRola.mx",VIDEO ROLA
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-name="",MTV 00'S
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-name="",HTV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0b7/index.m3u8
+#EXTINF:-1 tvg-name="",TLR
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-name="Exa TV (EXATV)" tvg-ID="ExaTV.mx",EXA TV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-name="",La Mejor TV
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-name="",Ritmo Digital
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j3/index.m3u8
+#EXTINF:-1 tvg-name="",Decades
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j4/index.m3u8
+#EXTINF:-1 tvg-name="",Rock Clasico
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-name="",EXA FM CDMX
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-name="",LA MEJOR FM
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-name="",Fiesta Latina
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-name="",Stereo Rey
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0ja/index.m3u8
+#EXTINF:-1 tvg-name="",Ambient
+#EXTGRP:Musica
+http://38.123.205.70:8000/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
@@ -3854,4 +4121,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1977&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Canal TP FHD
 #EXTGRP:unsorted
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2361&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
+#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
+#EXTGRP:unsorted
+http://38.123.205.70:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
+#EXTGRP:unsorted
+http://38.123.205.70:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-name="Sextreme - Premium (SEXTR)",Sextreme
+#EXTGRP:unsorted
+http://38.123.205.70:8000/play/a09c/index.m3u8
