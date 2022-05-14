@@ -729,6 +729,10 @@ https://watch.8ch.moe/live/b4ff54b8-bc05-4f98-80b9-d4ae5227ef55/index.m3u8
 #EXTINF:-1 tvg-name="",Proyecto YureiScreen TardeNoches Dom
 #EXTGRP:Niños
 https://watch.8ch.moe/live/39acc5c7-5508-4daa-bb85-602d0ab91d04/index.m3u8
+#EXTINF:-1 tvg-name="",ZAZ TV La
+#EXTGRP:Niños
+https://content-ause1-up-1.uplynk.com/90638dbe17514d19866de0b04b05327f/e.m3u8
+
 #EXTINF:-1 tvg-name="",EnerGeek
 #EXTGRP:Niños
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
