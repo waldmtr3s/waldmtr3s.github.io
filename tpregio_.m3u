@@ -78,6 +78,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 
+#EXTINF:-1 tvg-name="",Canal de las Estrellas (VIX)
+#EXTGRP:Locales
+https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
+
 
 
 
@@ -96,6 +100,13 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2662&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Foro TV (FOROTV)
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Foro TV (VIX)
+#EXTGRP:Locales
+https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",N+ (VIX)
+#EXTGRP:Locales
+https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Imagen Tv
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -116,6 +127,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+
+#EXTINF:-1 tvg-name="",Canal 5 (VIX)
+#EXTGRP:Locales
+https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 
 
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
@@ -224,6 +239,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Ingenio TV
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
+#EXTGRP:Locales
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3314&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+
 #EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3316&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -367,6 +386,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1734&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Unicable
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Unicable (VIX)
+#EXTGRP:Deportes
+https://linear-423.frequency.stream/423/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",Syfy (Latin America) (Syfy)
 #EXTGRP:Entretenimiento
@@ -386,6 +408,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-name="",Distrito Comedia
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Distrito Comedia (VIX)
+#EXTGRP:Entretenimiento
+https://linear-405.frequency.stream/405/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Comedy Central (Latin America - North) (COMDC)
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -715,6 +741,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Bitme 
 #EXTGRP:Niños
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Bitme (VIX)
+#EXTGRP:Niños
+https://linear-401.frequency.stream/401/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Bitme 
 #EXTGRP:Niños
 http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
@@ -1604,7 +1633,51 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Morbido Tv
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",DPelicula (VIX)
+#EXTGRP:Peliculas
+https://linear-354.frequency.stream/354/hls/master/playlist_1920x1080.m3u8
+ 
+#EXTINF:-1 tvg-name="",DPelicula + (VIX)
+#EXTGRP:Peliculas
+https://linear-404.frequency.stream/404/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Golden Edge (VIX)
+#EXTGRP:Peliculas
+https://linear-407.frequency.stream/407/hls/master/playlist_1920x1080.m3u8
+ 
+#EXTINF:-1 tvg-name="",Golden Plus (VIX)
+#EXTGRP:Peliculas
+https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Golden South (VIX)
+#EXTGRP:Peliculas
+https://linear-409.frequency.stream/409/hls/master/playlist_1920x1080.m3u8
+ 
+#EXTINF:-1 tvg-name="",RetroPelis (VIX)
+#EXTGRP:Peliculas
+https://linear-304.frequency.stream/304/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",My Time Movies (VIX)
+#EXTGRP:Peliculas
+https://linear-261.frequency.stream/261/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Cine (VIX)
+#EXTGRP:Peliculas
+https://linear-449.frequency.stream/449/hls/master/playlist_1920x1080.m3u8
 
+#EXTINF:-1 tvg-name="",Cine 1 (VIX)
+#EXTGRP:Peliculas
+https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Cine 2 (VIX)
+#EXTGRP:Peliculas
+https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",Cine 3 (VIX)
+#EXTGRP:Peliculas
+https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Cine Club - Prendetv (VIX)
+#EXTGRP:Peliculas
+https://linear-192.frequency.stream/192/hls/master/playlist_1920x1080.m3u8
+ 
+#EXTINF:-1 tvg-name="",Cine del Ayer (VIX)
+#EXTGRP:Peliculas
+https://linear-429.frequency.stream/429/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",FX Movies (Mexico) (FXM)
 #EXTGRP:Peliculas
@@ -1881,6 +1954,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3335&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="TUDN México" tvg-ID="TUDNMexico.mx",TUDN
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",TUDN (VIX)
+#EXTGRP:Deportes
+https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",ESPN Extra Centroamérica HDTV (ESPNXTRA)
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -1907,6 +1984,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Claro Sports 
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Afizzionados (VIX)
+#EXTGRP:Deportes
+https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",beIN Sports Xtra ñ (VIX)
+#EXTGRP:Deportes
+https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",LevelUp Games (VIX)
+#EXTGRP:Deportes
+https://linear-263.frequency.stream/263/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Claro Sports Eventos (YT)
 #EXTGRP:Deportes
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
@@ -3939,9 +4026,17 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Telehit Musica
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Telehit (VIX)
+#EXTGRP:Musica
+https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Telehit Musica Plus
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Telehit  Musica Plus (VIX)
+#EXTGRP:Musica
+https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Bandamax
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
