@@ -1651,24 +1651,27 @@ https://linear-404.frequency.stream/404/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Golden Edge (VIX)
 #EXTGRP:Peliculas
 https://linear-407.frequency.stream/407/hls/master/playlist_1920x1080.m3u8
- 
 #EXTINF:-1 tvg-name="",Golden Plus (VIX)
 #EXTGRP:Peliculas
-https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Golden South (VIX)
+https://linear-410.frequency.stream/410/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="",Golden Premier (VIX)
+#EXTGRP:Peliculas
+https://linear-411.frequency.stream/411/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Golden (VIX)
 #EXTGRP:Peliculas
 https://linear-409.frequency.stream/409/hls/master/playlist_1920x1080.m3u8
  
 #EXTINF:-1 tvg-name="",RetroPelis (VIX)
 #EXTGRP:Peliculas
-https://linear-304.frequency.stream/304/hls/master/playlist_1920x1080.m3u8
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",My Time Movies (VIX)
 #EXTGRP:Peliculas
 https://linear-261.frequency.stream/261/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Cine (VIX)
 #EXTGRP:Peliculas
-https://linear-449.frequency.stream/449/hls/master/playlist_1920x1080.m3u8
-
+https://linear-449.frequency.stream/449/hls/master/playlist.m3u8
+ 
 #EXTINF:-1 tvg-name="",Cine 1 (VIX)
 #EXTGRP:Peliculas
 https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
@@ -1681,7 +1684,7 @@ https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
 https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",Cine Club - Prendetv (VIX)
 #EXTGRP:Peliculas
-https://linear-192.frequency.stream/192/hls/master/playlist_1920x1080.m3u8
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
  
 #EXTINF:-1 tvg-name="",Cine del Ayer (VIX)
 #EXTGRP:Peliculas
@@ -4034,6 +4037,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Telehit Musica
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Telehit Musica (VIX)
+#EXTGRP:Musica
+https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Telehit (VIX)
 #EXTGRP:Musica
 https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
