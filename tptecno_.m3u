@@ -190,6 +190,10 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-name="Televisa (XEFB-TDT) Monterrey, Nuevo León" tvg-ID="XEFBTDT.mx",Televisa Mty
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Televis Mty (VIX)
+#EXTGRP:Locales
+https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Televisa Mty (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
@@ -208,6 +212,9 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd
 #EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-name="",Televis Gdl (VIX)
+#EXTGRP:Locales
+https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",Televisa del Bajio
 #EXTGRP:Locales
@@ -4047,13 +4054,16 @@ https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Telehit Musica Plus
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
-#EXTINF:-1 tvg-name="",Telehit  Musica Plus (VIX)
+#EXTINF:-1 tvg-name="",Telehit Musica Plus (VIX)
 #EXTGRP:Musica
 https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",Bandamax
 #EXTGRP:Musica
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="",Bandamax (VIX)
+#EXTGRP:Musica
+https://linear-400.frequency.stream/400/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
