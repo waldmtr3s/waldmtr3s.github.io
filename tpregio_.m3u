@@ -2007,8 +2007,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLS&s=hkc26
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
-https://sfo1.angelthump.com/hls/MjAyMi0wNy0yM1QxNToxNTowOS43MDBac3BmMWdlbmVyYWw=_spf1general_src/index.m3u8
-
+https://sfo1.angelthump.com/hls/MjAyMi0wNy0yNFQxMjowMzoxMy4wMzhac3BmMWdlbmVyYWw=_spf1general/index.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
