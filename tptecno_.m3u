@@ -1979,6 +1979,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",TUDN (VIX)
 #EXTGRP:Deportes
 https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",TUDN (VIX) op2
+#EXTGRP:Deportes
+https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",TUDN (VIX) op3
+#EXTGRP:Deportes
+https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",ESPN Extra Centroamérica HDTV (ESPNXTRA)
 #EXTGRP:Deportes
@@ -2012,12 +2018,21 @@ https://bc66642fe0b0d5800827733ef50c83d5.angelthump.com/hls/MjAyMi0wNy0zMFQxMzo0
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Afizzionados (VIX) op2
+#EXTGRP:Deportes
+https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",beIN Sports Xtra ñ (VIX)
 #EXTGRP:Deportes
 https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",beIN Sports Xtra ñ (VIX) op2
+#EXTGRP:Deportes
+https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",LevelUp Games (VIX)
 #EXTGRP:Deportes
 https://linear-263.frequency.stream/263/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",LevelUp Games (VIX) op2
+#EXTGRP:Deportes
+https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",Claro Sports Eventos (YT)
 #EXTGRP:Deportes
