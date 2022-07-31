@@ -5,25 +5,25 @@
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",TELEMUNDO
+#EXTINF:-1 tvg-name="TELEMUNDO", Telemundo LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Estrella TV (East) (ESTRELLA)
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)", EstrellaTv NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/650.m3u8
-#EXTINF:-1 tvg-name="",Azteca America Network (East) (AZTECA)
+#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)", Azteca America NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="",UNIMÁS
+#EXTINF:-1 tvg-name="UNIMÁS", Unimas NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 tvg-name="",UniMás HDTV (Pacific) (UMAS)
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)", Unimas LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 tvg-name="",UNIVISION
+#EXTINF:-1 tvg-name="UNIVISION", Univision LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/178/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Univision Network HDTV (UNIHD)
+#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)", Univision NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 #EXTINF:-1 tvg-name="",TELEMUNDO
