@@ -9,6 +9,27 @@
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",TELEMUNDO
 #EXTGRP:Locales
+https://v-la.mybtv.net/live/267/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Estrella TV (East) (ESTRELLA)
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/650.m3u8
+#EXTINF:-1 tvg-name="",Azteca America Network (East) (AZTECA)
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/645/1280x720.m3u8
+#EXTINF:-1 tvg-name="",UNIMÁS
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/713/1280x720.m3u8
+#EXTINF:-1 tvg-name="",UniMás HDTV (Pacific) (UMAS)
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/299/1280x720.m3u8
+#EXTINF:-1 tvg-name="",UNIVISION
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/178/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Univision Network HDTV (UNIHD)
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/643/1280x720.m3u8
+#EXTINF:-1 tvg-name="",TELEMUNDO
+#EXTGRP:Locales
 http://96.242.237.206:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="",Telemundo Network (East) (TELMUN)
 #EXTGRP:Locales
@@ -100,7 +121,32 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2671&f=HLS&s=hkc2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2662&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 
 
+#EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Foro TV (FOROTV)", Foro TV (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="ADN 40",ADN40 (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve (op2)
+#EXTGRP:Locales
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",Foro TV (FOROTV)
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -386,7 +432,32 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-name="",FX Latin America (México) (FX)
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="Fox International (Mexico) (FOX)", Star Channel (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Sony Entertainment Television (Mexico) (SONY)", Sony (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)", Warner (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Universal Channel (Mexico) (UNIVERS)", Universal (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 
+#EXTINF:-1 tvg-name="FX Latin America (México) (FX)", FX (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="A and E (Mexico) (AandE)", A&E (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-name="Syfy (Latin America) (Syfy)", Syfy (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="truTV HDTV (Latin America) (TRUTVD)", truTV (op2)
+#EXTGRP:Entretenimiento
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",E! Entertainment Television (Mexico) (E!)
 #EXTGRP:Entretenimiento
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -602,7 +673,15 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-name="",National Geographic Wild (Latin America) (NGWILD)
 #EXTGRP:Cultura
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
-
+#EXTINF:-1 tvg-name="Discovery Theater HDTV (Latin America) (THEATER)", Discovery Theater (op2)
+#EXTGRP:Cultura
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="The History Channel (Mexico) (THCMX)", History Channel (op2)
+#EXTGRP:Cultura
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (Latin America) (NGWILD)", NatGeo (op2)
+#EXTGRP:Cultura
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",Discovery Theater HDTV (Latin America) (THEATER)
 #EXTGRP:Cultura
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -734,6 +813,20 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-name="",Disney en Español (North Feed) (DISNEY)
 #EXTGRP:Niños
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+
+#EXTINF:-1 tvg-name="Disney en Español (North Feed) (DISNEY)", Disney (op2)
+#EXTGRP:Niños
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network (Latin America - Mexico) (TOON)", Cartoon Network (op2)
+#EXTGRP:Niños
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon (Latin America / North) (NICK)", Nickelodeon (op2)
+#EXTGRP:Niños
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Bitme", Bitme (op2)
+#EXTGRP:Niños
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-name="",Boomerang (Mexico) (BOOM)
 #EXTGRP:Niños
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -1631,7 +1724,47 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLS&s=hkc26
 #EXTINF:-1 tvg-name="",Paramount
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
+#EXTINF:-1 tvg-name="De Película",De Pelicula (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="De Película Multiplex",De Pelicula Plus (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Golden",Golden (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Golden Plus",Golden Plus (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 
+#EXTINF:-1 tvg-name="Golden Edge",Golden Edge (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="TNT Latin America (Mexico) (TNT)", TNT (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-name="TCM - Turner Classic Movies (Pan-Regional) (TCMLA)", TCM (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="SPACE (Mexico) (SPACE)", Space (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="AMC México",AMC (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)", Studio Universal (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Cinecanal (Mexico) (CINE-O)", Cinecanal (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="Cinemax (Mexico) (CINEMAX)", Cinemax (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+#EXTINF:-1 tvg-name="",Paramount (op2)
+#EXTGRP:Peliculas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",I-SAT (Pan-Regional) (I-SAT)
 #EXTGRP:Peliculas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
