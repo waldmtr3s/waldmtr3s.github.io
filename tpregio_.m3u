@@ -6,16 +6,62 @@
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
 
+#EXTINF:-1 tvg-name="",ABC
+#EXTGRP:Locales
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-name="",ABC (West)
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/119/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",ABC HD
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/554/1280x720.m3u8
+#EXTINF:-1 tvg-name="",NBC (West)
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/121/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",NBC HD
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/548/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",CBS (West)
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/162/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",CBS New York HD
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/545/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",FOX 5 (West)
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/14/1280x720.m3u8
+#EXTINF:-1 tvg-name="FOX 5",FOX 5 NY
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/550/1280x720.m3u8
+#EXTINF:-1 tvg-name="",The CW (West)
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/160/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",The CW
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/562/1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="",PBS (West)
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/120/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",PBS
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/567/1920x1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO",Telemundo LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO",Telemundo NY (op2)
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/659/1920x1080.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv LA (op2)
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/112/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv NY (op2)
 #EXTGRP:Locales
-https://v-ny.mybtv.net/live/650.m3u8
+https://v-ny.mybtv.net/live/650/640x480.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)",Azteca America NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)",Azteca America SD (op2)
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America SD (op2)
 #EXTGRP:Locales
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 #EXTINF:-1 tvg-name="UNIMÁS",Unimas NY (op2)
@@ -30,9 +76,7 @@ https://v-la.mybtv.net/live/178/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision MI
-#EXTGRP:Locales
-https://v-ny.mybtv.net/live/643/1280x720.m3u8
+
 #EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision MI (op2)
 #EXTGRP:Locales
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
@@ -93,7 +137,9 @@ https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/73b2076
 #EXTINF:-1 tvg-name="",XHDF Ciudad de México (Azteca Uno) DF (AZUNO)
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
+#EXTINF:-1 tvg-name="",Azteca Uno TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/760/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno +2" tvg-ID="AztecaUnoPlus2.mx",Azteca Uno -2hr
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2195&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
@@ -110,7 +156,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-
+#EXTINF:-1 tvg-name="",Las Estrellas TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/497/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas (VIX)
 #EXTGRP:Locales
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
@@ -198,7 +246,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-name="",Canal 5 (VIX)
 #EXTGRP:Locales
 https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
-
+#EXTINF:-1 tvg-name="",Canal 5 TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/486/1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
 #EXTGRP:Locales
@@ -222,6 +272,9 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-name="",Multimedios TJ
 #EXTGRP:Locales
 https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
+#EXTINF:-1 tvg-name="",Multimedios TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/515/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Costa Rica
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -260,7 +313,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2318&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",A+ (Web)
 #EXTGRP:Locales
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/74941557-c536-4c85-8dc4-7c80bbf2cd59:CBF2/variant/d52a64e6ddcc695fd5e78d6cf69ef822/bandwidth/712800.m3u8
-
+#EXTINF:-1 tvg-name="",A+ TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/503/768x432.m3u8
 #EXTINF:-1 tvg-name="",A+ (op2)
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -285,7 +340,9 @@ https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-
+#EXTINF:-1 tvg-name="",Nu9ve TJ
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/761/768x432.m3u8
 
 #EXTINF:-1 tvg-name="",Televisa NEWS
 #EXTGRP:Locales
@@ -963,10 +1020,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 #EXTINF:-1 tvg-name="",La Vida Moderna de Rocko PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Nick Clasico PlutoTV
+#EXTINF:-1 tvg-name="",Nick Clásico PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-name="",Toons Clásico PlutoTV
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",CONtv Anime LocalNow
 #EXTGRP:Niños
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
@@ -1010,7 +1069,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 #EXTINF:-1 tvg-name="",Anime Clásico
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Garfield
+#EXTINF:-1 tvg-name="",Garfield PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",Pluto TV Anime
@@ -2226,7 +2285,13 @@ https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",beIN Sports Xtra ñ (VIX) op2
 #EXTGRP:Deportes
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="",beIN Sports Xtra (Español) op2
+#EXTGRP:Deportes
+https://v-fn.mybtv.net/live/948/768x432.m3u8
 
+#EXTINF:-1 tvg-name="",beIN Sports Xtra (Ingles) op2
+#EXTGRP:Deportes
+https://v-ca.mybtv.net/live/249/768x432.m3u8
 #EXTINF:-1 tvg-name="",LevelUp Games (VIX)
 #EXTGRP:Deportes
 https://linear-263.frequency.stream/263/hls/master/playlist_1920x1080.m3u8
