@@ -38,14 +38,14 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTINF:-1 tvg-name="",The CW (West)
 #EXTGRP:Locales
 https://v-px.mybtv.net/live/160/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",The CW
+#EXTINF:-1 tvg-name="WPIX-TV",The CW
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/562/1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="PBS Buffalo CA",PBS (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/120/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",PBS
+#EXTINF:-1 tvg-name="WNET",PBS
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/567/1920x1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO",Telemundo LA (op2)
