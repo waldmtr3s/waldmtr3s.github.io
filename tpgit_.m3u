@@ -34,7 +34,7 @@ https://v-ny.mybtv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
 #EXTGRP:Locales
 https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX HD",FOX 5 WNYW
+#EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTINF:-1 tvg-name="",The CW (West)
