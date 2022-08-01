@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_IN4.xml.gz?raw=true" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml" 
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_IN4.xml.gz?raw=true" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml" x-tvg-url="http://epg.it999.ru/epg.xml.gz"  
 
 
 
@@ -11,28 +11,28 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",ABC
 #EXTGRP:Locales
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-name="",ABC (West)
+#EXTINF:-1 tvg-name="ABC Buffalo CA",ABC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
 #EXTINF:-1 tvg-name="",ABC HD
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/554/1280x720.m3u8
-#EXTINF:-1 tvg-name="",NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/121/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",NBC HD
+#EXTINF:-1 tvg-name="",NBC
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",CBS (West)
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",CBS New York HD
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",FOX 5 (West)
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
 #EXTGRP:Locales
 https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5",FOX 5 NY
+#EXTINF:-1 tvg-name="FOX HD",FOX 5 WNYW
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTINF:-1 tvg-name="",The CW (West)
@@ -42,7 +42,7 @@ https://v-px.mybtv.net/live/160/1920x1080.m3u8
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/562/1920x1080.m3u8
 
-#EXTINF:-1 tvg-name="",PBS (West)
+#EXTINF:-1 tvg-name="PBS Buffalo CA",PBS (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/120/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",PBS
@@ -946,13 +946,13 @@ https://linear-401.frequency.stream/401/hls/master/playlist_1920x1080.m3u8
 #EXTGRP:Niños
 http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-name="Locomotion",Locomotion
+#EXTINF:-1 tvg-name="Locomotion",Locomotion
 #EXTGRP:Niños
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-name="",Locomotion (op2)
 #EXTGRP:Niños
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-name="AZXTV",AZXTV
+#EXTINF:-1 tvg-name="AZTV",AZXTV
 #EXTGRP:Niños
 http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="",aztv (op2)
@@ -1033,10 +1033,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 #EXTINF:-1 tvg-name="",La Vida Moderna de Rocko PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Nick Clásico PlutoTV
+#EXTINF:-1 tvg-name="Nick Clásico",Nick Clásico PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Toons Clásico PlutoTV
+#EXTINF:-1 tvg-name="Classic Toons TV",Toons Clásico PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1084,7 +1084,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 #EXTINF:-1 tvg-name="",Anime Clásico
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Garfield PlutoTV
+#EXTINF:-1 tvg-name="Garfield and friends",Garfield PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",Pluto TV Anime
