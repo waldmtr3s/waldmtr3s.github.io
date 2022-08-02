@@ -13,7 +13,7 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",ABC
 #EXTGRP:Locales
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC Buffalo CA",ABC (West)
+#EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
 #EXTINF:-1 tvg-name="",ABC HD
@@ -50,7 +50,7 @@ https://v-ca.mybtv.net/live/120/1920x1080.m3u8
 #EXTINF:-1 tvg-name="WNET",PBS
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/567/1920x1080.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO",Telemundo LA (op2)
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO",Telemundo NY (op2)
@@ -81,7 +81,7 @@ https://v-la.mybtv.net/live/178/1920x1080.m3u8
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision MI (op2)
+#EXTINF:-1 tvg-name="",Univision MI (op2)
 #EXTGRP:Locales
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
 
