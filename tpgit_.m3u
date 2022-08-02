@@ -2035,19 +2035,19 @@ http://54.215.227.94:8000/play/a0cv/index.m3u8
 http://54.215.227.94:8000/play/a096/index.m3u8
 #EXTINF:-1tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family HD
 #EXTGRP:Peliculas
-http://8.242.179.181:58001/play/a00v/index.m3u8
+http://45.5.117.138:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO HD
 #EXTGRP:Peliculas
-http://8.242.179.181:58001/play/a00s/index.m3u8
+http://45.5.117.138:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus HD
 #EXTGRP:Peliculas
-http://8.242.179.181:58001/play/a00u/index.m3u8
+http://45.5.117.138:8000/play/a00f/index.m3u8
 #EXTINF:-1tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
 #EXTGRP:Peliculas
-http://8.242.179.181:58001/play/a00w/index.m3u8
+http://45.5.117.138:8000/play/a00h/index.m3u8
 #EXTINF:-1tvg-name="HBO 2 (Mexico) (HBO2)",HBO2 HD
 #EXTGRP:Peliculas
-http://8.242.179.181:58001/play/a00t/index.m3u8
+http://45.5.117.138:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
 http://190.92.95.37:8000/play/a0k3/index.m3u8
