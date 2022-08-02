@@ -2005,6 +2005,9 @@ http://54.215.227.94:8000/play/a0cp/index.m3u8
 http://54.215.227.94:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
 #EXTGRP:Peliculas
+http://54.215.227.94:8000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-name="Europa",Europa
+#EXTGRP:Peliculas
 http://54.215.227.94:8000/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-name="FXM Oeste" tvg-ID="FXMWest.us",FXM
 #EXTGRP:Peliculas
