@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true"  x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_IN4.xml.gz?raw=true"  x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml" x-tvg-url="http://epg.it999.ru/epg.xml.gz"  
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://github.com/HelmerLuzo/TDTChannels_EPG/blob/master/TDTChannels_EPG.xml.gz?raw=true" x-tvg-url="https://github.com/dracohe/SMARTIPTV/blob/master/guide.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/locomotiontv.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MX1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_US1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz?raw=true"  x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_MY1.xml.gz?raw=true" x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_IN4.xml.gz?raw=true"  x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" x-tvg-url="http://epg.it999.ru/epg.xml.gz"  
 
 
 
@@ -134,7 +134,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC-
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (Web)
 #EXTGRP:Locales
 https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/73b2076b-0916-4411-9cb6-7219fbac433d:DLS/variant/64167ffb84a9281039c39eae05bd4fc1/bandwidth/1320000.m3u8
@@ -499,6 +498,7 @@ http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
@@ -1454,46 +1454,57 @@ http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 #EXTGRP:Internacionales
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="",Fuji TV JP 
+#EXTINF:-1 tvg-name="BS Fuji",Fuji TV JP 
 #EXTGRP:Internacionales
 https://fujitv2.mov3.co/hls/fujitv.m3u8
-
-#EXTINF:-1 tvg-name="",Nippon TV JP 
+#EXTINF:-1 tvg-name="Fuji TV (JOCX-DTV)",Fuji TV JP 
+#EXTGRP:Internacionales
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="BS Nippon TV",Nippon TV JP 
 #EXTGRP:Internacionales
 https://ntv.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="",Nippon TV JP (op2)
+#EXTINF:-1 tvg-name="Nippon TV",Nippon TV JP (op2)
 #EXTGRP:Internacionales
 https://ntv2.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP 
+#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP 
 #EXTGRP:Internacionales
 http://main1.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP (op2)
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op2)
 #EXTGRP:Internacionales
 http://main2.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP (op4)
+#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op4)
 #EXTGRP:Internacionales
 http://main4.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP (op5)
+#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op5)
 #EXTGRP:Internacionales
 http://main5.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP (op7)
+#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op7)
 #EXTGRP:Internacionales
 http://main7.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TV Tokyo JP (op9)
+#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op9)
 #EXTGRP:Internacionales
 http://main9.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="",TBS JP
+#EXTINF:-1 tvg-name="BS-TBS",TBS JP
 #EXTGRP:Internacionales
 https://tbs1.mov3.co/hls/tbs.m3u8
-
-#EXTINF:-1 tvg-name="",NHK General JP 
+#EXTINF:-1 tvg-name="TBS (JORX-DTV)",TBS JP
+#EXTGRP:Internacionales
+https://tbs1.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="TV Asahi",Asahi
+#EXTGRP:Internacionales
+https://asahi1.mov3.co/hls/asahi.m3u8
+#EXTINF:-1 tvg-name="NHK General TV",NHK General JP 
 #EXTGRP:Internacionales
 https://nhk2.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="" ,TokyoMX JP
+#EXTINF:-1 tvg-name="NHK BS 1",NHK General JP 
+#EXTGRP:Internacionales
+https://nhk2.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-name="Tokyo MX (JOMX-DTV)",TokyoMX JP
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx1_prod.smil/.m3u8
 
-#EXTINF:-1 tvg-name="" ,TokyoMX 2 JP 
+#EXTINF:-1 tvg-name="",TokyoMX 2 JP 
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx2_prod.smil/.m3u8
 #EXTINF:-1 tvg-name="",EN VIVO Ucrania 24
