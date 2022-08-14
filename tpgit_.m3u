@@ -37,6 +37,13 @@ https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
+#EXTINF:-1 tvg-name="",MyNetworkTV (West)
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/270/1280x720.m3u8
+
+#EXTINF:-1 tvg-name="",MyNetworkTV 
+#EXTGRP:Locales
+https://v-ny.mybtv.net/live/559/1280x720.m3u8
 #EXTINF:-1 tvg-name="",The CW (West)
 #EXTGRP:Locales
 https://v-px.mybtv.net/live/160/1920x1080.m3u8
