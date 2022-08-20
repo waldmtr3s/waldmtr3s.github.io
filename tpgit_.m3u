@@ -2543,6 +2543,52 @@ http://190.83.119.67:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Deportes
 http://190.92.95.37:8000/play/a0sn/index.m3u8
+#EXTINF:-1,Band Sports
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0a3/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0i0/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0i1/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0i2/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0i3/index.m3u8
+#EXTINF:-1,ESPN
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0a2/index.m3u8
+#EXTINF:-1,ESPN2
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0am/index.m3u8
+#EXTINF:-1,ESPN3
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a092/index.m3u8
+#EXTINF:-1,ESPN4
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a09k/index.m3u8
+#EXTINF:-1,Fox Sports 2
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0aj/index.m3u8
+#EXTINF:-1,SporTV
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a06y/index.m3u8
+#EXTINF:-1,SporTV 2
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a04i/index.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a07h/index.m3u8
+#EXTINF:-1,SporTV 3
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0dy/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+#EXTGRP:Deportes
+http://45.175.61.242:4000/play/a0ef/index.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -4791,3 +4837,13 @@ http://190.83.119.67:8000/play/a0td/index.m3u8
 #EXTINF:-1 tvg-name="",Pasiones
 #EXTGRP:unsorted
 http://190.92.95.37:8000/play/a0td/index.m3u8
+#EXTINF:-1,Playboy TV
+#EXTGRP:unsorted
+http://45.175.61.242:4000/play/a07y/index.m3u8
+#EXTINF:-1,Sextreme
+#EXTGRP:unsorted
+http://45.175.61.242:4000/play/a09c/index.m3u8
+#EXTINF:-1,Sexy Hot
+#EXTGRP:unsorted
+http://45.175.61.242:4000/play/a09f/index.m3u8
+
