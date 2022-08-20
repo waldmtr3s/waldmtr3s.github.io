@@ -1046,16 +1046,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 #EXTINF:-1 tvg-name="Pluto TV Toons Clásico",Toons Clásico PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Retro Cartoons
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Pluto TV Anime Héroes
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Anime Clásico
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="",Pluto TV Anime
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-name="",Death Note
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-name="",CONtv Anime LocalNow
 #EXTGRP:Niños
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:,One Piece
+#EXTINF:-1 tvg-name="",One Piece
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:,One Piece
+#EXTINF:-1 tvg-name="",One Piece
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-name="",Naruto
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1066,31 +1085,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f
 #EXTINF:-1 tvg-name="",Naruto
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Yu-Gi-Oh
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-name="",Yu-Gi-Oh! en español
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",Yu-Gi-Oh
 #EXTGRP:Niños
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Yu-Gi-Oh
-#EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",Lupin the 3rd
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",Las Tortugas Ninja
+#EXTGRP:Niños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-name="",MTV Animaciones
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Retro Cartoons
-#EXTGRP:Niños
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",South Park
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Anime Clásico
-#EXTGRP:Niños
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="Garfield and friends",Garfield and friends
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1098,9 +1115,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a59
 #EXTINF:-1 tvg-name="Garfield and friends",Garfield PlutoTV
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",Pluto TV Anime
-#EXTGRP:Niños
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",Los Simpsons TV
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
@@ -2022,6 +2036,9 @@ http://54.215.227.94:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
 #EXTGRP:Peliculas
 http://54.215.227.94:8000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-name="Europa",Europa
 #EXTGRP:Peliculas
 http://54.215.227.94:8000/play/a0k6/index.m3u8
@@ -2049,6 +2066,68 @@ http://54.215.227.94:8000/play/a0cv/index.m3u8
 #EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
 #EXTGRP:Peliculas
 http://54.215.227.94:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0os/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0ov/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL CINEMA HD
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL CINEMA HD
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL COMEDY HD
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL COMEDY HD
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL CRIME HD
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL CRIME HD
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0t0/index.m3u8
+
+#EXTINF:-1 tvg-name="",UNIVERSAL PREMIERE HD
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL PREMIERE HD
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL REALITY HD
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0sz/index.m3u8
+#EXTINF:-1 tvg-name="",UNIVERSAL REALITY HD
+#EXTGRP:Peliculas
+http://190.92.95.37:8000/play/a0sz/index.m3u8
 #EXTINF:-1tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family HD
 #EXTGRP:Peliculas
 http://45.5.117.138:8000/play/a00g/index.m3u8
@@ -2064,31 +2143,7 @@ http://45.5.117.138:8000/play/a00h/index.m3u8
 #EXTINF:-1tvg-name="HBO 2 (Mexico) (HBO2)",HBO2 HD
 #EXTGRP:Peliculas
 http://45.5.117.138:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0k3/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0k6/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0f4/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0k5/index.m3u8
-#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0f3/index.m3u8 
-#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)",Studio Universal
 #EXTGRP:Peliculas
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
@@ -2340,6 +2395,11 @@ https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX) op2
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="",La Liga Premier | Paramount+
+#EXTGRP:Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA en español",beIN Sports Xtra ñ (VIX)
 #EXTGRP:Deportes
 https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
@@ -2424,8 +2484,67 @@ http://54.215.227.94:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
 #EXTGRP:Deportes
 http://54.215.227.94:8000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Extra Centroamérica HDTV (ESPNXTRA)",ESPN Extra (op2)
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Extra Centroamérica HDTV (ESPNXTRA)",ESPN Extra (op2)
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0t4/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0t6/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0t5/index.m3u8
+#EXTINF:-1 tvg-name="",Claro Sports
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-name="",Claro Sports
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0t7/index.m3u8
 
-
+#EXTINF:-1 tvg-name="",Bein Sports
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+#EXTINF:-1 tvg-name="",Bein Sports
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0v6/index.m3u8
+#EXTINF:-1 tvg-name="",Movistar La Liga
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-name="",Movistar La Liga
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-name="",Tigo Sports
+#EXTGRP:Deportes
+http://190.83.119.67:8000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-name="",Tigo Sports
+#EXTGRP:Deportes
+http://190.92.95.37:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -4647,3 +4766,22 @@ http://54.215.227.94:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-name="Sextreme - Premium (SEXTR)",Sextreme
 #EXTGRP:unsorted
 http://54.215.227.94:8000/play/a09c/index.m3u8
+#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
+#EXTGRP:unsorted
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
+#EXTGRP:unsorted
+http://190.92.95.37:8000/play/a0ow/index.m3u8
+
+#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
+#EXTGRP:unsorted
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
+#EXTGRP:unsorted
+http://190.92.95.37:8000/play/a0rn/index.m3u8
+#EXTINF:-1 tvg-name="",Pasiones
+#EXTGRP:unsorted
+http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1 tvg-name="",Pasiones
+#EXTGRP:unsorted
+http://190.92.95.37:8000/play/a0td/index.m3u8
