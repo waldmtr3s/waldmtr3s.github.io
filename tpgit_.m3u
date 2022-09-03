@@ -881,7 +881,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="",NASA TV ISS (op2)
 #EXTGRP:Cultura
-http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
+http://a93e545e-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/1/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=2ad69386fed5d0f09d00f72cc3f32e7b8a1777da&cdnHost=uhs-akamai.ustream.tv/
 #EXTINF:-1 tvg-name="",NASA TV ISS (op3)
 #EXTGRP:Cultura
 http://a92ccb54-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
@@ -890,7 +890,7 @@ http://a92ccb54-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="",NASA TV ISS 2 (op2)
 #EXTGRP:Cultura
-http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
+http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
 #EXTINF:-1 tvg-name="",NASA TV ISS 2 (op3)
 #EXTGRP:Cultura
 http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
@@ -899,7 +899,7 @@ http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/1
 https://livestream.com/accounts/362/events/6350312/player
 #EXTINF:-1 tvg-name="",ESA TV (op2)
 #EXTGRP:Cultura
-http://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.m3u8
+https://playback.akamaized.net/streams/362_6350312_lsi9t17zv9fuq19dwuu_1/media/362_6350312_lsi9t17zv9fuq19dwuu_1@5256000p.m3u8?dw=80&ts=1662220800&hdnts=exp=1662394783~acl=/streams/362_6350312_lsi9t17zv9fuq19dwuu_1/media*~hmac=5a10efd521080ad4f064a8065bbce42b76ced06f7da11360033b57fcc9a431c6
 #EXTINF:-1 tvg-name="",ESA TV (op3)
 #EXTGRP:Cultura
 https://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.secure.m3u8
