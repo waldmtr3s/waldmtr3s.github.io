@@ -69,6 +69,9 @@ https://v-la.mybtv.net/live/112/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/650/640x480.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv IN (op2)
+#EXTGRP:Locales
+https://v-in.mybtv.net/live/845/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)",Azteca America NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
@@ -103,7 +106,7 @@ https://waldmtr3s.github.io/mpago.mp4
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",TELEMUNDO
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a07a/index.m3u8
+http://71.187.29.54:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="",Telemundo Network (East) (TELMUN)
 #EXTGRP:Locales
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
@@ -113,21 +116,21 @@ https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&reb
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="",Azteca America Network (East) (AZTECA)
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a08g/index.m3u8
+http://71.187.29.54:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-name="",UNIMÁS
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a08b/index.m3u8
+http://71.187.29.54:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-name="",UniMás HDTV (Pacific) (UMAS)
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a08b/index.m3u8
+http://71.187.29.54:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVISION
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a07t/index.m3u8
+http://71.187.29.54:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-name="",Univision Network HDTV (UNIHD)
 #EXTGRP:Locales
-http://96.242.237.206:8000/play/a07t/index.m3u8
+http://71.187.29.54:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
@@ -1567,19 +1570,19 @@ https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-name="",NBC
 #EXTGRP:Internacionales
-http://96.242.237.206:8000/play/a07x/index.m3u8
+http://71.187.29.54:8000/play/a07x/index.m3u8
 
 
 #EXTINF:-1 tvg-name="",ABC
 #EXTGRP:Internacionales
-http://96.242.237.206:8000/play/a08l/index.m3u8
+http://71.187.29.54:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-name="",CBS New York
 #EXTGRP:Internacionales
-http://96.242.237.206:8000/play/a081/index.m3u8
+http://71.187.29.54:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-name="",FOX 5
 #EXTGRP:Internacionales
-http://96.242.237.206:8000/play/a075/index.m3u8
+http://71.187.29.54:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
@@ -1613,10 +1616,16 @@ http://45.153.35.210:8000/play/UK_bbc_three_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
 #EXTINF:-1 tvg-name="",ITV
 #EXTGRP:Internacionales
+http://93.152.174.144:4000/play/itv1/index.m3u8
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Internacionales
 http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
 #EXTINF:-1 tvg-name="",ITV
 #EXTGRP:Internacionales
 http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
+#EXTINF:-1 tvg-name="",ITV2 HD
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/itv2/index.m3u8
 #EXTINF:-1 tvg-name="",ITV2 HD
 #EXTGRP:Internacionales
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
