@@ -315,6 +315,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLS&s=hkc2
 #EXTINF:-1 tvg-name="",Televisa Mty (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+#EXTINF:-1 tvg-name="",Televisa Mty (YT)
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/televisamonterreytv/live
+
 #EXTINF:-1 tvg-name="",Televis Mty (VIX)
 #EXTGRP:Locales
 https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
@@ -336,6 +340,9 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd
 #EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
 #EXTGRP:Locales
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
+#EXTGRP:Locales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelevisaGuadalajara/live
 
 #EXTINF:-1 tvg-name="",Televis Gdl (VIX)
 #EXTGRP:Locales
@@ -2390,7 +2397,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc2
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index_122.m3u8
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
-https://sfo1.angelthump.com/hls/MjAyMi0wOS0wNFQxMjoxNTo0Ny4zMzZac3BmMWdlbmVyYWw=_spf1general/index.m3u8
+https://sfo1.angelthump.com/hls/MjAyMi0wOS0xMVQxMjowNjowMi42MzVac3BmMWdlbmVyYWw=_spf1general/index.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
