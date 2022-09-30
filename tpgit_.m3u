@@ -25,6 +25,7 @@ https://v-ca.mybtv.net/live/121/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",NBC
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
@@ -1042,7 +1043,8 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1420737736.m3u8
 https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
 #EXTINF:-1 tvg-name="",Gaki No Tsukai sub JP (op2)
 #EXTGRP:Niños
-https://video-cdn.vaughnsoft.net/play/live_salk.flv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://vk.com/video_ext.php?oid=537117800&id=456239024&hash=6f372257bb8b010b
+
 #EXTINF:-1 tvg-name="",Pluto TV Anime
 #EXTGRP:Niños
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2403,7 +2405,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
-https://5b11f527e48c76994609cede10bb9744.angelthump.com/hls/MjAyMi0wOS0xMVQxMjowNjowMi42MzVac3BmMWdlbmVyYWw=_spf1general/index.m3u8
+https://3c2d953ea9a54127759d53164ef15d6f.angelthump.com/hls/MjAyMi0wOS0xMVQxMjowNjowMi42MzVac3BmMWdlbmVyYWw=_spf1general/index.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
@@ -4542,6 +4544,9 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-name="",NBC NEWS
 #EXTGRP:Noticias y Documentales
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+#EXTINF:-1 tvg-name="CNBC",CNBC (YT)
+#EXTGRP:Noticias y Documentales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNBC/live
 
 #EXTINF:-1 tvg-name="",BBC WORLD NEWS
 #EXTGRP:Noticias y Documentales
