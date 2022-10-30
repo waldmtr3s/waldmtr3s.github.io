@@ -2401,14 +2401,18 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc2
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index_122.m3u8
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
-https://sfo1.angelthump.com/hls/MjAyMi0xMC0yOVQxNjo1NTo1OC45MzFac3BmMWdlbmVyYWw=_spf1general/index.m3u8
+https://sfo1.angelthump.com/hls/MjAyMi0xMC0yOVQyMTo1MzozOC41MzJac3BmMWdlbmVyYWw=_spf1general/index.m3u8
 #EXTINF:-1 tvg-name="DAZN F1 HD",DAZN F1 (ES)
 #EXTGRP:Deportes
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698.m3u8
 
+#EXTINF:-1 tvg-name="",F1 TV (en ingles) op2
+#EXTGRP:Deportes
+http://exoolo.azureedge.net/scripts/NTgzOA==/1080p.m3u8
 #EXTINF:-1 tvg-name="",F1 TV (en ingles) op3
 #EXTGRP:Deportes
-http://cdn34.azureedge.net/hls/f1/chunks.m3u8
+http://waskteryaj.azureedge.net/live/F1/chunks.m3u8
+
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
