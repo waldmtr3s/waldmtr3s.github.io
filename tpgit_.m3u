@@ -1494,37 +1494,41 @@ http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 #EXTGRP:Internacionales
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="BS Fuji",Fuji TV JP 
-#EXTGRP:Internacionales
-https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="Fuji TV (JOCX-DTV)",Fuji TV JP 
 #EXTGRP:Internacionales
-https://fujitv2.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-name="BS Nippon TV",Nippon TV JP 
+https://fujitv3.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="Fuji TV (JOCX-DTV)",Fuji TV JP 
 #EXTGRP:Internacionales
-https://ntv.mov3.co/hls/ntv.m3u8
+https://fujitv3.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="Nippon TV",Nippon TV JP 
+#EXTGRP:Internacionales
+https://ntv3.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="Nippon TV",Nippon TV JP (op2)
 #EXTGRP:Internacionales
-https://ntv2.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP 
+https://ntv3.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP 
 #EXTGRP:Internacionales
 http://main1.mov3.co/hls/main.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op2)
 #EXTGRP:Internacionales
 http://main2.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op4)
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op4)
 #EXTGRP:Internacionales
 http://main4.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op5)
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op5)
 #EXTGRP:Internacionales
 http://main5.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op7)
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op7)
 #EXTGRP:Internacionales
 http://main7.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo",TV Tokyo JP (op9)
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op9)
 #EXTGRP:Internacionales
 http://main9.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-name="BS-TBS",TBS JP
+#EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP (op10)
+#EXTGRP:Internacionales
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/3924387962497
+
+#EXTINF:-1 tvg-name="TBS (JORX-DTV)",TBS JP
 #EXTGRP:Internacionales
 https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="TBS (JORX-DTV)",TBS JP
@@ -1532,22 +1536,21 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="TV Asahi",TV Asahi JP
 #EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/3811469303425
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/4542601961076
 
 #EXTINF:-1 tvg-name="NHK General TV",NHK General JP 
 #EXTGRP:Internacionales
-https://nhk2.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="NHK BS 1",NHK General JP 
+https://nhk3.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK General TV"",NHK General JP 
 #EXTGRP:Internacionales
-https://nhk2.mov3.co/hls/nhk.m3u8
+https://nhk3.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-name="Tokyo MX (JOMX-DTV)",TokyoMX JP
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx1_prod.smil/.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX (JOMX-DTV)",TokyoMX JP
 #EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/3176970985207
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/4654517591799
 #EXTINF:-1 tvg-name="",TokyoMX 2 JP 
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx2_prod.smil/.m3u8
