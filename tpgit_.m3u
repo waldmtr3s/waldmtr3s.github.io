@@ -2410,11 +2410,11 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
-https://sfo1.angelthump.com/hls/MjAyMi0xMC0zMFQxODo1ODowOS4xNTdac3BmMWdlbmVyYWw=_spf1general/index.m3u8
-
+https://sfo1.angelthump.com/hls/MjAyMi0xMS0xMlQwMjowNToxMi4xNDVac3BmMWdlbmVyYWw=_spf1general/index.m3u8
 #EXTINF:-1 tvg-name="",F1 TV (en ingles) op2
 #EXTGRP:Deportes
-http://nhttrfnk.azureedge.net/live/F1/chunks.m3u8
+https://d3ovbsd0khcbb4.cloudfront.net/out/v1/467c385716eb4004a581c5e9360317ca/push17eu_5.m3u8
+
 #EXTINF:-1 tvg-name="",F1 TV (en ingles) op3
 #EXTGRP:Deportes
 http://slive.webhockey.xyz/hls/S22.m3u8
