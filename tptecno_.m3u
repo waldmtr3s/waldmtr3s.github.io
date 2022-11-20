@@ -234,7 +234,12 @@ https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 TJ
 #EXTGRP:Locales
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
-
+#EXTINF:-1 tvg-name="",Canal 5 MX
+#EXTGRP:Locales
+http://189.203.160.152:10803/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-name="",Canal 5 MX (op2)
+#EXTGRP:Locales
+http://51.222.26.249:25461/T3XgaLFVJb/cWNfRm6qAP/60?token=HhFfA0ZZGghHAgBTUAUHUgVdV1IDCwcACVtXWlQEWVRRAwBaVlRaUQcUTxQWFRNUAAltC1AbDQEITkMWEFETagxXFVgXAwgARxpBQgwMBBNbVQRUDAABBQ1QVk9BRAhRRwkVUAQHDgNHGkFTHRUEQw8FXj1QXEFeWwdDWQ1BDVlJEVgMalVdXwRYBxRfQ1ETTUZbEUQbDVlNDg1PQVYIQRdSQwcXCxoDXQFQFElDAl4UCkYQTRsNFXU6Q09BURlBAF1EC1pfGghHQhAUSUMIQj4WVxFAS1JWVQcTQVkWURdJEVoDTW5bXQtYBlURCA5fEkYIQAQbGxVVDQ8KF1sTahVaU0APEwoDUQRbFBg=
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
 #EXTGRP:Locales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
