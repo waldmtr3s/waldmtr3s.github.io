@@ -1493,6 +1493,45 @@ http://190.61.43.117:45000/play/a05t
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Internacionales
 http://190.61.40.190:45000/play/a05t
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://170.239.188.253:50000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://170.247.204.18:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://45.167.194.11:8000/play/a00x
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://45.232.211.196:1080/play/a00e
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://45.232.211.196:1080/play/a04d
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://45.232.211.195:1080/play/a00e
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://45.232.211.195:1080/play/a04d
+#EXTINF:-1 tvg-name="",Chilevision
+#EXTGRP:Internacionales
+http://200.24.141.3:4000/play/a0xv/index.m3u8
+#EXTINF:-1 tvg-name="",Canal 13 Chile
+#EXTGRP:Internacionales
+http://170.247.204.18:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-name="",Canal 13 Chile
+#EXTGRP:Internacionales
+http://45.167.194.11:8000/play/a00y
+#EXTINF:-1 tvg-name="",Canal 13 Chile
+#EXTGRP:Internacionales
+http://45.232.211.196:1080/play/a00f
+#EXTINF:-1 tvg-name="",Canal 13 Chile
+#EXTGRP:Internacionales
+http://45.232.211.195:1080/play/a00f
+#EXTINF:-1 tvg-name="",Latina
+#EXTGRP:Internacionales
+http://170.239.188.253:50000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Internacionales
 http://45.5.117.239:8000/play/a062/index.m3u8
@@ -1530,6 +1569,9 @@ http://190.43.92.98:8000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-name="",TyC Sports
 #EXTGRP:Internacionales
 http://45.232.211.196:1080/play/a02a
+#EXTINF:-1 tvg-name="",TyC Sports
+#EXTGRP:Internacionales
+http://200.24.141.3:4000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-name="",TUDN
 #EXTGRP:Internacionales
 http://201.159.115.175:2000/play/a08d/index.m3u8
