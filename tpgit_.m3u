@@ -16,12 +16,24 @@ https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
+#EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/27/1280x720.m3u8
 #EXTINF:-1 tvg-name="",ABC HD
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/554/1280x720.m3u8
 #EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/121/1920x1080.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/82/1920x1080.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
+#EXTGRP:Locales
+https://v-lv.mybtv.net/live/1059/768x432.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/55/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",NBC
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
@@ -29,12 +41,18 @@ https://v-ny.mybtv.net/live/548/1920x1080.m3u8
 #EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/48/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",CBS New York HD
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
 #EXTGRP:Locales
 https://v-px.mybtv.net/live/14/1280x720.m3u8
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
@@ -61,12 +79,33 @@ https://v-ny.mybtv.net/live/567/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Telemundo
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO",Telemundo NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/659/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/112/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/137/768x432.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
+#EXTGRP:Locales
+https://v-sd.mybtv.net/live/490/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
+#EXTGRP:Locales
+https://v-fn.mybtv.net/live/887/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
+#EXTGRP:Locales
+https://v-lv.mybtv.net/live/1015/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/45/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/650/640x480.m3u8
@@ -76,6 +115,18 @@ https://v-in.mybtv.net/live/845/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)",Azteca America NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/731/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/107/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
+#EXTGRP:Locales
+https://v-lv.mybtv.net/live/1028/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/41/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America SD (op2)
 #EXTGRP:Locales
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
@@ -85,9 +136,27 @@ https://v-ny.mybtv.net/live/713/1280x720.m3u8
 #EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/299/1280x720.m3u8
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
+#EXTGRP:Locales
+https://v-la.mybtv.net/live/168/768x432.m3u8
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/147/1280x720.m3u8
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/201/1280x720.m3u8
 #EXTINF:-1 tvg-name="UNIVISION",Univision LA (op2)
 #EXTGRP:Locales
 https://v-la.mybtv.net/live/178/1920x1080.m3u8
+#EXTINF:-1 tvg-name="UNIVISION",Univision
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/148/1280x720.m3u8
+#EXTINF:-1 tvg-name="UNIVISION",Univision
+#EXTGRP:Locales
+https://v-ca.mybtv.net/live/163/1280x720.m3u8
+#EXTINF:-1 tvg-name="UNIVISION",Univision
+#EXTGRP:Locales
+https://v-px.mybtv.net/live/28/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision NY (op2)
 #EXTGRP:Locales
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
@@ -2386,18 +2455,43 @@ http://142.44.210.132:25461/T3XgaLFVJb/cWNfRm6qAP/54?token=HhFfA0ZZGghHUlMGUFJVV
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
 #EXTGRP:Mundial
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://201.159.115.175:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://45.5.117.239:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://45.228.234.77:4430/play/tudn
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://190.61.102.67:444/play/a07e
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://190.61.102.67:8000/play/a07e
 #EXTINF:-1 tvg-name="",Telemundo
 #EXTGRP:Mundial
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
+
 #EXTINF:-1 tvg-name="",Telemundo
 #EXTGRP:Mundial
 https://v-ny.mybtv.net/live/659/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Telemundo
+#EXTGRP:Mundial
+https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Telemundo
+#EXTGRP:Mundial
+https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",TELEMUNDO
 #EXTGRP:Mundial
 http://71.187.29.54:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
 #EXTGRP:Mundial
 https://v-px.mybtv.net/live/14/1280x720.m3u8
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
+#EXTGRP:Mundial
+https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
 #EXTGRP:Mundial
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
@@ -2420,6 +2514,9 @@ http://190.61.43.117:45000/play/a05t
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 http://190.61.40.190:45000/play/a05t
+#EXTINF:-1 tvg-name="",Directv SPORT Sur
+#EXTGRP:Mundial
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-name="",Chilevision
 #EXTGRP:Mundial
 http://170.239.188.253:50000/play/a03x/index.m3u8
@@ -2463,21 +2560,7 @@ http://170.239.188.253:50000/play/a03t/index.m3u8
 #EXTGRP:Mundial
 http://45.5.117.239:8000/play/a062/index.m3u8
 
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://201.159.115.175:2000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://45.5.117.239:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://45.228.234.77:4430/play/tudn
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://190.61.102.67:444/play/a07e
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://190.61.102.67:8000/play/a07e
+
 #EXTINF:-1 tvg-name="",RCN
 #EXTGRP:Mundial
 http://190.61.43.119:45000/play/a039
