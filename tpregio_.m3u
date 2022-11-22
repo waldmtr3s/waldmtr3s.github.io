@@ -2447,9 +2447,7 @@ http://142.44.210.132:25461/T3XgaLFVJb/cWNfRm6qAP/54?token=HhFfA0ZZGghHUlMGUFJVV
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
 #EXTGRP:Mundial
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",TUDN
-#EXTGRP:Mundial
-http://201.159.115.175:2000/play/a08d/index.m3u8
+
 #EXTINF:-1 tvg-name="",TUDN
 #EXTGRP:Mundial
 http://45.5.117.239:8000/play/a076/index.m3u8
@@ -2462,6 +2460,9 @@ http://190.61.102.67:444/play/a07e
 #EXTINF:-1 tvg-name="",TUDN
 #EXTGRP:Mundial
 http://190.61.102.67:8000/play/a07e
+#EXTINF:-1 tvg-name="",TUDN
+#EXTGRP:Mundial
+http://201.159.115.175:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-name="",Telemundo
 #EXTGRP:Mundial
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
@@ -2478,6 +2479,9 @@ https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",TELEMUNDO
 #EXTGRP:Mundial
 http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-name="",TELEMUNDO
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
 #EXTGRP:Mundial
 https://v-px.mybtv.net/live/14/1280x720.m3u8
@@ -2491,22 +2495,18 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTGRP:Mundial
 http://71.187.29.54:8000/play/a075/index.m3u8
 
-#EXTINF:-1 tvg-name="",TV Pública ARG 1080
-#EXTGRP:Mundial
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-#EXTINF:-1 tvg-name="",TV Pública ARG 480
-#EXTGRP:Mundial
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
-http://190.61.43.119:45000/play/a05t
-#EXTINF:-1 tvg-name="",TV Pública ARG
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+#EXTINF:-1 tvg-name="",Claro Sports CO
 #EXTGRP:Mundial
-http://190.61.43.117:45000/play/a05t
-#EXTINF:-1 tvg-name="",TV Pública ARG
+http://186.5.31.251:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-name="",Directv SPORT Sur
 #EXTGRP:Mundial
-http://190.61.40.190:45000/play/a05t
-
+http://200.52.154.125:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-name="",Directv SPORT 2 Sur
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-name="",Directv SPORT Sur
 #EXTGRP:Mundial
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -2546,14 +2546,18 @@ http://45.232.211.196:1080/play/a00f
 #EXTINF:-1 tvg-name="",Canal 13 Chile
 #EXTGRP:Mundial
 http://45.232.211.195:1080/play/a00f
+#EXTINF:-1 tvg-name="",Canal 13 Chile
+#EXTGRP:Mundial
+http://186.5.31.251:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-name="",Latina
 #EXTGRP:Mundial
 http://170.239.188.253:50000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Mundial
 http://45.5.117.239:8000/play/a062/index.m3u8
-
-
+#EXTINF:-1 tvg-name="",Tigo Sports
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-name="",RCN
 #EXTGRP:Mundial
 http://190.61.43.119:45000/play/a039
@@ -2581,6 +2585,9 @@ http://190.61.43.117:45000/play/a039
 #EXTINF:-1 tvg-name="",RCN
 #EXTGRP:Mundial
 http://45.232.211.196:1080/play/a059
+#EXTINF:-1 tvg-name="",RCN
+#EXTGRP:Mundial
+http://186.5.31.251:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-name="",CaracolTV
 #EXTGRP:Mundial
 http://190.61.40.190:45000/play/a038
@@ -2599,6 +2606,9 @@ http://190.61.43.117:45000/play/a038
 #EXTINF:-1 tvg-name="",CaracolTV
 #EXTGRP:Mundial
 http://190.61.43.117:45000/play/a038
+#EXTINF:-1 tvg-name="",CaracolTV
+#EXTGRP:Mundial
+http://186.5.31.251:8000/play/a0de/index.m3u8
 #EXTINF:-1,SporTV
 #EXTGRP:Mundial
 http://45.175.61.242:4000/play/a06y/index.m3u8
