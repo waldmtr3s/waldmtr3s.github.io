@@ -2561,6 +2561,15 @@ http://45.5.117.239:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Mundial
 http://200.52.154.125:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-name="",Canal 4 Pan
+#EXTGRP:Mundial
+http://200.76.0.24:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-name="",Canal 4 Pan
+#EXTGRP:Mundial
+http://190.61.102.67:444/play/a06h
+#EXTINF:-1 tvg-name="",Canal 4 Pan
+#EXTGRP:Mundial
+http://190.61.102.67:8000/play/a06h
 #EXTINF:-1 tvg-name="",RCN
 #EXTGRP:Mundial
 http://190.61.43.119:45000/play/a039
