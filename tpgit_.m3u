@@ -10,9 +10,13 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Locales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",ABC
+#EXTINF:-1 tvg-name="",ABC (OFFLINE)
 #EXTGRP:Locales
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="",ABC
+#EXTGRP:Locales
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
 #EXTGRP:Locales
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
