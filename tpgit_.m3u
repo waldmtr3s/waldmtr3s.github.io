@@ -2459,7 +2459,9 @@ http://142.44.210.132:25461/T3XgaLFVJb/cWNfRm6qAP/54?token=HhFfA0ZZGghHUlMGUFJVV
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
 #EXTGRP:Mundial
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
-
+#EXTINF:-1 tvg-name="",VIX+
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-name="",TUDN
 #EXTGRP:Mundial
 http://45.5.117.239:8000/play/a076/index.m3u8
@@ -2571,6 +2573,13 @@ http://45.5.117.239:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Mundial
 http://200.52.154.125:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-name="",Tigo Sports
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-name="",Tigo Sports+
+#EXTGRP:Mundial
+http://200.52.154.125:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-name="",Canal 4 Pan
 #EXTGRP:Mundial
 http://200.76.0.24:8000/play/a06r/index.m3u8
