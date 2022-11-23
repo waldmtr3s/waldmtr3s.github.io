@@ -2519,7 +2519,21 @@ http://87.212.248.44:60130/play/a05n
 #EXTINF:-1 tvg-name="",BBC One
 #EXTGRP:Mundial
 http://86.89.104.199:60330/play/a032
-
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Mundial
+http://87.212.248.44:60450/play/a094/index.m3u8
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Mundial
+http://87.212.248.44:60230/play/a06u/index.m3u8
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Mundial
+http://87.212.248.44:60130/play/a07d
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Mundial
+http://86.89.104.199:60450/play/a094/index.m3u8
+#EXTINF:-1 tvg-name="",ITV
+#EXTGRP:Mundial
+http://62.131.92.221:60450/play/a094/index.m3u8
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
