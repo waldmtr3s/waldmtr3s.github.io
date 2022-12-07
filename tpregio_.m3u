@@ -3,258 +3,264 @@
 
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",ABC (OFFLINE)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-name="",ABC
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
 #EXTINF:-1 tvg-name="ABC Spark CA",ABC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/27/1280x720.m3u8
 #EXTINF:-1 tvg-name="",ABC HD
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/554/1280x720.m3u8
 #EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/121/1920x1080.m3u8
 #EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/82/1920x1080.m3u8
 #EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-lv.mybtv.net/live/1059/768x432.m3u8
 #EXTINF:-1 tvg-name="NBC Buffalo HD CA",NBC (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/55/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",NBC
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
 #EXTINF:-1 tvg-name="CBS Buffalo HD CA",CBS
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/48/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",CBS New York HD
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTINF:-1 tvg-name="",MyNetworkTV (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/270/1280x720.m3u8
 
 #EXTINF:-1 tvg-name="",MyNetworkTV 
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/559/1280x720.m3u8
 #EXTINF:-1 tvg-name="",The CW (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/160/1920x1080.m3u8
 #EXTINF:-1 tvg-name="WPIX-TV",The CW
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/562/1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="PBS Buffalo CA",PBS (West)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/120/1920x1080.m3u8
 #EXTINF:-1 tvg-name="WNET",PBS
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/567/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo LA (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/140/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Telemundo
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO",Telemundo NY (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/659/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv LA (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/112/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/137/768x432.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-sd.mybtv.net/live/490/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-fn.mybtv.net/live/887/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-lv.mybtv.net/live/1015/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)",EstrellaTv
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/45/1280x720.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv NY (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/650/640x480.m3u8
 #EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)",EstrellaTv IN (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-in.mybtv.net/live/845/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)",Azteca America NY (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/731/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/107/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-lv.mybtv.net/live/1028/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/41/1280x720.m3u8
 #EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)",Azteca America SD (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 #EXTINF:-1 tvg-name="UNIMÁS",Unimas NY (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
 #EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas LA (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/299/1280x720.m3u8
 #EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/168/768x432.m3u8
 #EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/147/1280x720.m3u8
 #EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)",Unimas
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/201/1280x720.m3u8
 #EXTINF:-1 tvg-name="UNIVISION",Univision LA (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-la.mybtv.net/live/178/1920x1080.m3u8
 #EXTINF:-1 tvg-name="UNIVISION",Univision
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
 #EXTINF:-1 tvg-name="UNIVISION",Univision
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ca.mybtv.net/live/163/1280x720.m3u8
 #EXTINF:-1 tvg-name="UNIVISION",Univision
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-px.mybtv.net/live/28/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)",Univision NY (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
 #EXTINF:-1 tvg-name="",Univision MI (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="Televisa",Televisa (SamsungTv) (Italia)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://televisa-televisa-1-it.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",TELEMUNDO
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 http://71.187.29.54:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="",Telemundo Network (East) (TELMUN)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-name="",Estrella TV (East) (ESTRELLA)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="",Azteca America Network (East) (AZTECA)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 http://71.187.29.54:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-name="",UNIMÁS
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 http://71.187.29.54:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-name="",UNIVISION
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 http://71.187.29.54:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-name="Nuestra Visión",NuestraVision
-#EXTGRP:Locales
+#EXTGRP:Locales USA
 https://v-sd.mybtv.net/live/524/1280x720.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
+#EXTGRP:Locales USA
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
+#EXTGRP:Locales MX
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Nuestra Visión
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="",UnoTV
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_1692_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="",UnoTV (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
 
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (Web)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/73b2076b-0916-4411-9cb6-7219fbac433d:DLS/variant/64167ffb84a9281039c39eae05bd4fc1/bandwidth/1320000.m3u8
 
 #EXTINF:-1 tvg-name="",XHDF Ciudad de México (Azteca Uno) DF (AZUNO)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-name="",Azteca Uno TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/760/1920x1080.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno +2" tvg-ID="AztecaUnoPlus2.mx",Azteca Uno -2hr
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2195&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Azteca Deportes - Eventos (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
 #EXTINF:-1 tvg-name="ADN 40",ADN40
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",ADN40 (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/497/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas -1 (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
 
 
 
 #EXTINF:-1 tvg-name="",Las Estrellas -2 (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
 
 
@@ -262,345 +268,345 @@ https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
 
 
 #EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",XEW Las Estrellas HDTV DF (XEW-DT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://38.131.11.9:1080/play/a032
 #EXTINF:-1 tvg-name="Las Estrellas México +1" tvg-ID="LasEstrellasMexicoPlus1.mx",Las Estrellas -1hr
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2671&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas México +2" tvg-ID="LasEstrellasMexicoPlus2.mx",Las Estrellas -2hr
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2662&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Foro TV (FOROTV)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Foro TV (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",N+ (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",Imagen Tv
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Imagen Tv (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
 #EXTINF:-1 tvg-name="",La Octava (DailyMotion)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
 #EXTINF:-1 tvg-name="Excélsior TV",Excelsior Tv
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",ExcelsiorTv (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Canal 5 (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 MX
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://189.203.160.152:10803/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 MX (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.222.26.249:25461/T3XgaLFVJb/cWNfRm6qAP/60?token=HhFfA0ZZGghHUAUGVQNZBgMFBgRXXQcGXVVSV1JWBFdSVQ9QBgEKCgYUTxQWFRNUAAltC1AbDQEITkMWEFETagxXFVgXAwgARxpBQgwMBBNbVQRUDAABDwBbWE9BRAhRRwkVUAQGAAtHGkFTHRUEQw8FXj1QXEFeWwdDWQ1BDVlJEVgMalVdXwRYBxRfQ1ETTUZbEUQbDVlNDg1PQVYIQRdSQwcXCxoAVA5bFElDAl4UCkYQTRsNFXU6Q09BURlBAF1EC1pfGghHQhAUSUMIQj4WVxFAS1JWVQcTQVkWURdJEVoDTW5bXQtYBlURCA5fEkYIQAQbGxVVDQ8KF1sTahVaU0APEwoDUQRbFBg=
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Mty (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 #EXTINF:-1 tvg-name="",Multimedios Cdmx
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Gdl
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Laguna
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 tvg-name="",Multimedios TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-name="",Multimedios TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/515/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Costa Rica
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 Gdl
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Azteca 7 Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 MX
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://189.203.160.152:10803/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 MX (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://142.44.210.132:25461/T3XgaLFVJb/cWNfRm6qAP/54?token=HhFfA0ZZGghHUlMGUFJVVwVVUAANClFUCQRRBVoHVFQHBgRaA1cJClcUTxQWFRNUAAltC1AbDQIMTkMWEFETagxXFVgXAwgARxpBQgwMBBNbVQRUDAABBg1QU09BRAhRRwkVVAcGCxBJFAZOEQQTXwAIbQZRT15UXUBbDRZYDRlHXFk9UVRVUwtSQQxHUUMdQw1BEhYDWUJUDk1BAV0VRwRHUkAPEwkGUAFBGkcCDkQPEEAbFgMVemBATUEGTBVQC0BeDVsTAhARRUEaRwgSbhMBQRZGXFZaXRBDWUEEQxlHXlYaalJXXAtTAEIMDg9CQ14QUhYVFVpXDAgXDEY+RQxXFVgXAggGUAFBSw==
 
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (Web)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/d8d2affa-f854-4412-aa8f-7754ad5c74f6:DLS/variant/a776efa5a0aa27143816625ba3177a62/bandwidth/712800.m3u8
 
 #EXTINF:-1 tvg-name="",XHIMT Azteca 7 DF (AZT-7)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-name="A+",A+
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2319&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="A+",A+ Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",A+ Gdl
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",A+ (Web)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/74941557-c536-4c85-8dc4-7c80bbf2cd59:CBF2/variant/d52a64e6ddcc695fd5e78d6cf69ef822/bandwidth/712800.m3u8
 #EXTINF:-1 tvg-name="",A+ TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/503/768x432.m3u8
 #EXTINF:-1 tvg-name="",A+ (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-name="",A+ (op3)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-name="Televisa (XEFB-TDT) Monterrey, Nuevo León" tvg-ID="XEFBTDT.mx",Televisa Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Televisa Mty (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 #EXTINF:-1 tvg-name="",Televisa Mty (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/televisamonterreytv/live
 
 #EXTINF:-1 tvg-name="",Televis Mty (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",CANAL 28 NL
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Nu9ve TJ
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/761/768x432.m3u8
 
 #EXTINF:-1 tvg-name="",Televisa NEWS
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
 #EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelevisaGuadalajara/live
 
 #EXTINF:-1 tvg-name="",Televis Gdl (VIX)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-name="",Televisa del Bajio
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2355&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Televisa Puebla
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2312&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Canal Once XEIPN (CANL11)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Once Niños 
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",MVStv (Mexico) (MVSTV)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",TVC
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Ingenio TV
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3318&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3314&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3316&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Aprende En Casa 2
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3319&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Aprende En Casa 3
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3317&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Aprende En Casa 4
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3320&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Canal 4
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2357&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",TVMas
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",Mexiquense
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 #EXTINF:-1 tvg-name="",TeleFormula
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",Milenio
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",El Financiero Bloomberg
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2167&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Foro TV (FOROTV)",Foro TV (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="ADN 40",ADN40 (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)" tvg-ID="AztecaUno.mx",Azteca Uno
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" tvg-ID="LasEstrellasMexico.mx",Las Estrellas
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-name="",Imagen Tv (op2)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)" tvg-ID="Canal5.mx",Canal 5
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)" tvg-ID="Azteca7MexicoCity.mx",Azteca 7 (op3)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-name="Multimedios Plus" tvg-ID="MultimediosPlus.mx",Canal 6 CDMX
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-name="Canal Catorce" tvg-ID="CanalCatorce.mx",Canal 14 CDMX
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-name="Teveunam (UNAM)" tvg-ID="TVUnam.mx",TV UNAM
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-name="XEIMT 22 Nacional (XEIMT)",CANAL 22
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-name="MVStv (Mexico) (MVSTV)",MVS TV
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://54.215.227.94:8000/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-name="",A+
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
 #EXTINF:-1 tvg-name="Excélsior TV",Excelsior
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
 #EXTINF:-1 tvg-name="Foro TV (FOROTV)",ForoTV
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8
 #EXTINF:-1 tvg-name="",ImagenTV
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
 #EXTINF:-1 tvg-name="",Milenio
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CMILENIONOTICIAS/LATINO%7CMILENIONOTICIAS/playlist.m3u8
 #EXTINF:-1 tvg-name="",Canal 6 Mexicali
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CMULTIMEDIOS/LATINO%7CMULTIMEDIOS/playlist.m3u8
 #EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa (XEFB-TDT) Monterrey, Nuevo León" tvg-ID="XEFBTDT.mx",Televisa Mty
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Locales
+#EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
