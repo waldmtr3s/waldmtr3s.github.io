@@ -2539,6 +2539,9 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/18577.ts
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
 #EXTGRP:Mundial
 http://axr.life:80/testepainelp2p/aqzFw8hBeN/1044450
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3215
 #EXTINF:-1 tvg-name="",VIX+
 #EXTGRP:Mundial
 http://200.52.154.125:8000/play/a06w/index.m3u8
@@ -2630,6 +2633,12 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 http://190.131.247.82:8000/play/a0jf
+#EXTINF:-1 tvg-name="",TV Pública ARG
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3417
+#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43633
 #EXTINF:-1 tvg-name="",Claro Sports CO
 #EXTGRP:Mundial
 http://186.5.31.251:8000/play/a061/index.m3u8
