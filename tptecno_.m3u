@@ -2476,6 +2476,9 @@ https://lshstream.xyz/hls/Sy5K9kzq/index.m3u8?st=cnLOfTLoz3j0VLwDcVfwHA&e=167138
 #EXTINF:-1 tvg-name="TSN1",TSN1 Ca
 #EXTGRP:Mundial
 https://vcloud2.onionplay.live:8443/hls/L1TG2ldFjhzz/index.m3u8?st=Ei0Vtx5SiMgni0fQ7zKB1w&e=1671386924
+#EXTINF:-1 tvg-name="TSN1",TSN1 Ca
+#EXTGRP:Mundial
+https://wpasuceta.azureedge.net/live/TSN1/chunks.m3u8
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 MX
 #EXTGRP:Mundial
 http://189.203.160.152:10803/play/a0fl/index.m3u8
