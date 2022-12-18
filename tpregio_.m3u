@@ -2438,21 +2438,40 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Mundial
 #EXTGRP:Mundial
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
 #EXTGRP:Mundial
-http://189.203.160.152:10803/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+https://s5.capoplay.com:999/hls/do10.m3u8?md5=K4Ju9zORJ6uF6mu-Gb7qZA&expires=1671382160
+#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
 #EXTGRP:Mundial
-http://45.174.84.154:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+https://webdi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
 #EXTGRP:Mundial
-http://45.5.117.138:8005/play/a00j/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+http://snews.t4news.live/hls/S1.m3u8
+#EXTINF:-1 tvg-name="La 1",La 1 Esp
 #EXTGRP:Mundial
-https://app.ultimate2019.com/stream/get/411|user-agent=http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+https://lshstream.xyz/hls/ga13/index.m3u8?st=kK6duJNctN2a0_cOLarjmA&e=1671385936
+#EXTINF:-1 tvg-name="BBC One",BBC One
 #EXTGRP:Mundial
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4030
+http://snews.t4news.live/hls/S1.m3u8
+#EXTINF:-1 tvg-name="BBC One",BBC One
+#EXTGRP:Mundial
+http://cdn2.cyclingnews.live/abr/abr-stream1/hls/stream1_720p/chunks.m3u8?nimblesessionid=15915235&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiAyOjU2Cjo0NAogUE0maGFzaF92YWx1ZT0xNjE2ZnFydngvSWN1THhXM3dmL1hnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA==
+#EXTINF:-1 tvg-name="TF1",TF1 Fra
+#EXTGRP:Mundial
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/6jmuc94a795ahy.m3u8?s=s9o_FXTx2Ofybx7ViNCunw&e=1671397479
+#EXTINF:-1 tvg-name="TF1",TF1 Fra
+#EXTGRP:Mundial
+https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/6jmuc94a795ahy.m3u8?s=x5ikTZK9ctQTJFzsmQToiw&e=1671397662
+#EXTINF:-1 tvg-name="beIN Sports Fra",beIN Sports Fra
+#EXTGRP:Mundial
+https://t2.switchcast2.com:999/hls/do9.m3u8?md5=n8AtrC9Hbfe3ubjdcgYhKg&expires=1671383418
+#EXTINF:-1 tvg-name="beIN Sports Fra",beIN Sports Fra
+#EXTGRP:Mundial
+https://lshstream.xyz/hls/Sy5K9kzq/index.m3u8?st=cnLOfTLoz3j0VLwDcVfwHA&e=1671387094
+#EXTINF:-1 tvg-name="TSN1",TSN1 Ca
+#EXTGRP:Mundial
+https://vcloud2.onionplay.live:8443/hls/L1TG2ldFjhzz/index.m3u8?st=Ei0Vtx5SiMgni0fQ7zKB1w&e=1671386924
+
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 MX
 #EXTGRP:Mundial
 http://189.203.160.152:10803/play/a0fl/index.m3u8
