@@ -2490,6 +2490,18 @@ https://app.ultimate2019.com/stream/get/14|user-agent=http-user-agent=Dalvik/2.1
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
 #EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4028
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/18593.ts
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044465
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/18593.ts
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://axr.life:80/testepainelp2p/aqzFw8hBeN/1044465
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 MX
 #EXTGRP:Mundial
 http://189.203.160.152:10803/play/a0fm/index.m3u8
@@ -2505,6 +2517,18 @@ https://app.ultimate2019.com/stream/get/5|user-agent=http-user-agent=Dalvik/2.1.
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
 #EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4027
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/18577.ts
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044450
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/18577.ts
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://axr.life:80/testepainelp2p/aqzFw8hBeN/1044450
 #EXTINF:-1 tvg-name="",VIX+
 #EXTGRP:Mundial
 http://200.52.154.125:8000/play/a06w/index.m3u8
