@@ -2452,6 +2452,15 @@ http://189.203.160.152:10803/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
 #EXTGRP:Mundial
 http://45.174.84.154:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+#EXTGRP:Mundial
+http://45.5.117.138:8005/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+#EXTGRP:Mundial
+https://app.ultimate2019.com/stream/get/411|user-agent=http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",Las Estrellas
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4030
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 MX
 #EXTGRP:Mundial
 http://189.203.160.152:10803/play/a0fl/index.m3u8
@@ -2461,6 +2470,15 @@ http://45.174.84.154:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 TJ
 #EXTGRP:Mundial
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://45.5.117.138:8005/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+https://app.ultimate2019.com/stream/get/14|user-agent=http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4028
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 MX
 #EXTGRP:Mundial
 http://189.203.160.152:10803/play/a0fm/index.m3u8
@@ -2470,6 +2488,12 @@ http://45.174.84.154:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 TJ
 #EXTGRP:Mundial
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+https://app.ultimate2019.com/stream/get/5|user-agent=http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
+#EXTGRP:Mundial
+http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4027
 #EXTINF:-1 tvg-name="",VIX+
 #EXTGRP:Mundial
 http://200.52.154.125:8000/play/a06w/index.m3u8
@@ -2488,6 +2512,9 @@ http://190.61.102.67:8000/play/a07e
 #EXTINF:-1 tvg-name="TUDN México",TUDN
 #EXTGRP:Mundial
 http://201.159.115.175:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-name="TUDN México",TUDN
+#EXTGRP:Mundial
+http://45.5.117.138:8005/play/a00f/index.m3u8
 #EXTINF:-1 tvg-name="",Telemundo
 #EXTGRP:Mundial
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
@@ -2555,6 +2582,9 @@ http://62.131.92.221:60450/play/a094/index.m3u8
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+#EXTINF:-1 tvg-name="",TV Pública ARG
+#EXTGRP:Mundial
+http://190.131.247.82:8000/play/a0jf
 #EXTINF:-1 tvg-name="",Claro Sports CO
 #EXTGRP:Mundial
 http://186.5.31.251:8000/play/a061/index.m3u8
