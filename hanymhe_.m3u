@@ -1,12 +1,17 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIwZmI4ZTAtZDE4Zi00YzFkLWIzNTAtYWRiNjYzNjU2ZGRkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2023",NieR: Automata Ver1.1a (2023) sub
+https://g.wmedia.workers.dev/0:/media/NieR/%5BErai-raws%5D%20NieR-Automata%20Ver1.1a%20-%2001%20%5B480p%5D%5BMultiple%20Subtitle%5D%5B9EB2BF21%5D.mkv
+
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Robotech
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1,DONACIONES EN
 #EXTGRP:Robotech
 https://waldmtr3s.github.io/mpago.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwNDA0NjAxN15BMl5BanBnXkFtZTgwMDU5MjAxMzE@._V1_QL75_UY148_CR46,0,100,148_.jpg",Robotech EP01 Lat
 #EXTGRP:Robotech
