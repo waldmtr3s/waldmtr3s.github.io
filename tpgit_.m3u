@@ -2198,50 +2198,93 @@ http://54.215.227.94:8000/play/a0bh/index.m3u8
 http://54.215.227.94:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
 #EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0c5/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO 2
+http://209.45.3.210:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0ct/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO FAMILY
+http://209.45.52.14:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO +
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cv/index.m3u8
-#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a096/index.m3u8
+http://45.175.164.232:5022/play/a0p8/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0or/index.m3u8
+http://200.4.96.59:8041/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO 2
+#EXTGRP:Peliculas
+http://209.45.3.210:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
+#EXTGRP:Peliculas
+http://209.45.52.14:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
+#EXTGRP:Peliculas
+http://209.45.52.14:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
+#EXTGRP:Peliculas
+http://45.175.164.232:5022/play/a0p9/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO2
 #EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0os/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+http://200.4.96.59:8041/play/a024/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO +
 #EXTGRP:Peliculas
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+http://209.45.3.210:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
 #EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0ou/index.m3u8
-
+http://45.175.164.232:5022/play/a0pa/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
+#EXTGRP:Peliculas
+http://209.45.52.14:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 #EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus
 #EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0ot/index.m3u8
+http://200.4.96.59:8041/play/a025/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://209.45.3.210:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://45.175.164.232:5022/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://45.175.164.232:5022/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+#EXTGRP:Peliculas
+http://209.45.52.14:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
+
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO FAMILY
 #EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0ov/index.m3u8
+http://209.45.3.210:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO FAMILY
+#EXTGRP:Peliculas
+http://45.175.164.232:5022/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO FAMILY
+#EXTGRP:Peliculas
+http://209.45.52.14:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+#EXTGRP:Peliculas
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family
+#EXTGRP:Peliculas
+http://200.4.96.59:8041/play/a026/index.m3u8
+#EXTINF:-1,HBO POP HD +
+#EXTGRP:Peliculas
+http://45.175.164.232:5022/play/a05l/index.m3u8
+#EXTINF:-1,HBO POP HD +
+#EXTGRP:Peliculas
+http://200.4.96.59:8041/play/a028/index.m3u8
+#EXTINF:-1 tvg-name="HBO Signature (HBOSIG)",HBO Signature
+#EXTGRP:Peliculas
+http://200.4.96.59:8041/play/a027/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVERSAL CINEMA HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0v2/index.m3u8
