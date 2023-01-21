@@ -175,13 +175,9 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Locales USA
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",TELEMUNDO
+#EXTINF:-1 tvg-name="Telemundo Network (East) (TELMUN)",TELEMUNDO
 #EXTGRP:Locales USA
 http://71.187.29.54:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-name="",Telemundo Network (East) (TELMUN)
-#EXTGRP:Locales USA
-https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-name="",Estrella TV (East) (ESTRELLA)
 #EXTGRP:Locales USA
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
@@ -211,19 +207,10 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Nuestra Visión
 #EXTGRP:Locales MX
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="",UnoTV
-#EXTGRP:Locales MX
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_1692_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="",UnoTV (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
 
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (Web)
-#EXTGRP:Locales MX
-https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/73b2076b-0916-4411-9cb6-7219fbac433d:DLS/variant/64167ffb84a9281039c39eae05bd4fc1/bandwidth/1320000.m3u8
 
 #EXTINF:-1 tvg-name="",XHDF Ciudad de México (Azteca Uno) DF (AZUNO)
 #EXTGRP:Locales MX
@@ -231,12 +218,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-name="",Azteca Uno TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/760/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Azteca Uno +2" tvg-ID="AztecaUnoPlus2.mx",Azteca Uno -2hr
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2195/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Azteca Deportes - Eventos (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw/live
 #EXTINF:-1 tvg-name="ADN 40",ADN40
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
@@ -267,15 +248,6 @@ https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist_1920x1080.m
 
 
 
-#EXTINF:-1 tvg-name="XEW Las Estrellas HDTV DF (XEW-DT)",XEW Las Estrellas HDTV DF (XEW-DT)
-#EXTGRP:Locales MX
-http://38.131.11.9:1080/play/a032
-#EXTINF:-1 tvg-name="Las Estrellas México +1" tvg-ID="LasEstrellasMexicoPlus1.mx",Las Estrellas -1hr
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2671/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas México +2" tvg-ID="LasEstrellasMexicoPlus2.mx",Las Estrellas -2hr
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2662/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Foro TV (FOROTV)
 #EXTGRP:Locales MX
@@ -291,18 +263,9 @@ https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist_1920x1080.m
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2353/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-name="",Imagen Tv (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
-#EXTINF:-1 tvg-name="",La Octava (DailyMotion)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
 #EXTINF:-1 tvg-name="Excélsior TV",Excelsior Tv
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",ExcelsiorTv (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
 #EXTGRP:Locales MX
@@ -314,21 +277,12 @@ https://linear-351.frequency.stream/dist/vix/351/hls/master/playlist_1920x1080.m
 #EXTINF:-1 tvg-name="",Canal 5 TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Canal 5 MX
-#EXTGRP:Locales MX
-http://189.203.160.152:10803/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-name="",Canal 5 MX (op2)
-#EXTGRP:Locales MX
-http://51.222.26.249:25461/T3XgaLFVJb/cWNfRm6qAP/60?token=HhFfA0ZZGghHUAUGVQNZBgMFBgRXXQcGXVVSV1JWBFdSVQ9QBgEKCgYUTxQWFRNUAAltC1AbDQEITkMWEFETagxXFVgXAwgARxpBQgwMBBNbVQRUDAABDwBbWE9BRAhRRwkVUAQGAAtHGkFTHRUEQw8FXj1QXEFeWwdDWQ1BDVlJEVgMalVdXwRYBxRfQ1ETTUZbEUQbDVlNDg1PQVYIQRdSQwcXCxoAVA5bFElDAl4UCkYQTRsNFXU6Q09BURlBAF1EC1pfGghHQhAUSUMIQj4WVxFAS1JWVQcTQVkWURdJEVoDTW5bXQtYBlURCA5fEkYIQAQbGxVVDQ8KF1sTahVaU0APEwoDUQRbFBg=
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Mty
 #EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-name="",Multimedios Mty (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 #EXTINF:-1 tvg-name="",Multimedios Cdmx
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1253/PROFILE03.m3u8
@@ -341,9 +295,6 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 tvg-name="",Multimedios TJ
 #EXTGRP:Locales MX
-https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
-#EXTINF:-1 tvg-name="",Multimedios TJ
-#EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/515/1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Multimedios Costa Rica
 #EXTGRP:Locales MX
@@ -352,9 +303,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Azteca 7 Gdl
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Azteca 7 Mty
 #EXTGRP:Locales MX
@@ -362,16 +310,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1932/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Azteca 7 MX
-#EXTGRP:Locales MX
-http://189.203.160.152:10803/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-name="",Azteca 7 MX (op2)
-#EXTGRP:Locales MX
-http://142.44.210.132:25461/T3XgaLFVJb/cWNfRm6qAP/54?token=HhFfA0ZZGghHUlMGUFJVVwVVUAANClFUCQRRBVoHVFQHBgRaA1cJClcUTxQWFRNUAAltC1AbDQIMTkMWEFETagxXFVgXAwgARxpBQgwMBBNbVQRUDAABBg1QU09BRAhRRwkVVAcGCxBJFAZOEQQTXwAIbQZRT15UXUBbDRZYDRlHXFk9UVRVUwtSQQxHUUMdQw1BEhYDWUJUDk1BAV0VRwRHUkAPEwkGUAFBGkcCDkQPEEAbFgMVemBATUEGTBVQC0BeDVsTAhARRUEaRwgSbhMBQRZGXFZaXRBDWUEEQxlHXlYaalJXXAtTAEIMDg9CQ14QUhYVFVpXDAgXDEY+RQxXFVgXAggGUAFBSw==
-
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (Web)
-#EXTGRP:Locales MX
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/d8d2affa-f854-4412-aa8f-7754ad5c74f6:DLS/variant/a776efa5a0aa27143816625ba3177a62/bandwidth/712800.m3u8
 
 #EXTINF:-1 tvg-name="",XHIMT Azteca 7 DF (AZT-7)
 #EXTGRP:Locales MX
@@ -387,9 +325,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",A+ Gdl
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2318/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",A+ (Web)
-#EXTGRP:Locales MX
-https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/74941557-c536-4c85-8dc4-7c80bbf2cd59:CBF2/variant/d52a64e6ddcc695fd5e78d6cf69ef822/bandwidth/712800.m3u8
 #EXTINF:-1 tvg-name="",A+ TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/503/768x432.m3u8
@@ -397,18 +332,9 @@ https://v-sd.mybtv.net/live/503/768x432.m3u8
 #EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-name="",A+ (op3)
-#EXTGRP:Locales MX
-https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-name="Televisa (XEFB-TDT) Monterrey, Nuevo León" tvg-ID="XEFBTDT.mx",Televisa Mty
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Televisa Mty (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:-1 tvg-name="",Televisa Mty (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/televisamonterreytv/live
 
 #EXTINF:-1 tvg-name="",Televis Mty (VIX)
 #EXTGRP:Locales MX
@@ -425,15 +351,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/761/768x432.m3u8
 
-#EXTINF:-1 tvg-name="",Televisa NEWS
-#EXTGRP:Locales MX
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-#EXTINF:-1 tvg-name="XHG Canal 4 (XHG-TDT) Guadalajara, Jalisco" tvg-ID="XHGTDT.mx",Televisa GDL (YT)
-#EXTGRP:Locales MX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelevisaGuadalajara/live
 
 #EXTINF:-1 tvg-name="",Televis Gdl (VIX)
 #EXTGRP:Locales MX
@@ -467,19 +384,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3318/PROFILE03.m3u8
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3314/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-name="Aprende TV",Aprende En Casa
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3316/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-name="",Aprende En Casa 2
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3319/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Aprende En Casa 3
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3317/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Aprende En Casa 4
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3320/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Canal 4
 #EXTGRP:Locales MX
@@ -507,9 +411,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE03.m3u8
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (op2)
 #EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (op2)
-#EXTGRP:Locales MX
 http://45.182.21.251:33334/play/a07x/index.m3u8
 #EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)",Azteca Uno (op2)
 #EXTGRP:Locales MX
@@ -519,20 +420,7 @@ http://45.182.21.251:33334/play/a08p/index.m3u8
 http://201.190.40.45:58002/play/a00q/index.m3u
 #EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas (op2)
 #EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)",Las Estrellas (op2)
-#EXTGRP:Locales MX
 http://45.5.118.226:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-name="Foro TV (FOROTV)",Foro TV (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="ADN 40",ADN40 (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 (op2)
 #EXTGRP:Locales MX
@@ -541,13 +429,6 @@ http://45.5.118.226:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 (op2)
 #EXTGRP:Locales MX
 http://45.5.118.226:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (op2)
 #EXTGRP:Locales MX
 http://45.5.118.226:8000/play/a04w/index.m3u8
@@ -557,78 +438,12 @@ http://45.182.21.251:33334/play/a07w/index.m3u8
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 (op2)
 #EXTGRP:Locales MX
 http://201.190.40.45:58002/play/a00r/index.m3u8
-#EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve (op2)
-#EXTGRP:Locales MX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Locales MX
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)" tvg-ID="AztecaUno.mx",Azteca Uno
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" tvg-ID="LasEstrellasMexico.mx",Las Estrellas
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-name="",Imagen Tv (op2)
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)" tvg-ID="Canal5.mx",Canal 5
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)" tvg-ID="Azteca7MexicoCity.mx",Azteca 7 (op3)
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-name="Multimedios Plus" tvg-ID="MultimediosPlus.mx",Canal 6 CDMX
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0bp/index.m3u8
-#EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-name="Canal Catorce" tvg-ID="CanalCatorce.mx",Canal 14 CDMX
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-name="Teveunam (UNAM)" tvg-ID="TVUnam.mx",TV UNAM
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-name="XEIMT 22 Nacional (XEIMT)",CANAL 22
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-name="MVStv (Mexico) (MVSTV)",MVS TV
-#EXTGRP:Locales MX
-http://54.215.227.94:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-name="",A+
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Once XEIPN (CANL11)" tvg-ID="OnceMexico.mx",Canal Once
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
-#EXTINF:-1 tvg-name="Excélsior TV",Excelsior
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
-#EXTINF:-1 tvg-name="Foro TV (FOROTV)",ForoTV
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8
-#EXTINF:-1 tvg-name="",ImagenTV
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
-#EXTINF:-1 tvg-name="",Milenio
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CMILENIONOTICIAS/LATINO%7CMILENIONOTICIAS/playlist.m3u8
-#EXTINF:-1 tvg-name="",Canal 6 Mexicali
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
-#EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CMULTIMEDIOS/LATINO%7CMULTIMEDIOS/playlist.m3u8
-#EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
-#EXTINF:-1 tvg-name="Televisa (XEFB-TDT) Monterrey, Nuevo León" tvg-ID="XEFBTDT.mx",Televisa Mty
-#EXTGRP:Locales MX
-http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Locales MX
@@ -726,32 +541,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Entretenimiento
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Fox International (Mexico) (FOX)",Star Channel (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Sony Entertainment Television (Mexico) (SONY)",Sony (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)",Warner (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Universal Channel (Mexico) (UNIVERS)",Universal (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="FX Latin America (México) (FX)",FX (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="A and E (Mexico) (AandE)",A&E (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="Syfy (Latin America) (Syfy)",Syfy (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="truTV HDTV (Latin America) (TRUTVD)",truTV (op2)
-#EXTGRP:Entretenimiento
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Entretenimiento
 https://waldmtr3s.github.io/mpago.mp4
@@ -759,76 +548,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Entretenimiento
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="Fox International (Mexico) (FOX)",STAR Channel
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a08v/index.m3u8
-#EXTINF:-1 tvg-name="Sony Entertainment Television (Mexico) (SONY)",Sony
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)",Warner
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-name="Universal Channel (Mexico) (UNIVERS)",Universal Channel
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-name="FX Latin America (México) (FX)",FX
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="AXN (México) (AXN)",AXN
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a08w/index.m3u8
-#EXTINF:-1 tvg-name="Syfy (Latin America) (Syfy)",Syfy
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-name="A and E (Mexico) (AandE)",A&E
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-name="Fox Life (Mexico) (FOXLF)",STAR Life
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a08y/index.m3u8
-#EXTINF:-1 tvg-name="",HolaTV
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0db/index.m3u8
-#EXTINF:-1 tvg-name="E! Entertainment Television (Mexico) (E!)",E!
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0by/index.m3u8
-#EXTINF:-1 tvg-name="TBS Latin America (TBS)",TBS
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-name="Comedy Central (Latin America - North) (COMDC)",Comedy Central
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Home and Health (Mexico) (DHandH)",Home&Health
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-name="TLC (Mexico) (TLC)",TLC
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-name="Lifetime (México) (LIFETIME)",Lifetime
-#EXTGRP:Entretenimiento
-http://54.215.227.94:8000/play/a0ci/index.m3u8
-#EXTINF:-1 tvg-name="Warner Channel (México) (WARNER)",Warner
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Entertainment Television (Mexico) (SONY)",Sony
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-name="FX Latin America (México) (FX)",FX
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
-
-#EXTINF:-1 tvg-name="A and E (Mexico) (AandE)",A&E
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
-#EXTINF:-1 tvg-name="Comedy Central (Latin America - North) (COMDC)",Comedy Central
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8
-#EXTINF:-1 tvg-name="",Distrito Comedia
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8
-#EXTINF:-1 tvg-name="E! Entertainment Television (Mexico) (E!)",E!
-#EXTGRP:Entretenimiento
-http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Entretenimiento
@@ -932,53 +651,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Cultura
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Discovery Theater HDTV (Latin America) (THEATER)",Discovery Theater (op2)
-#EXTGRP:Cultura
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="The History Channel (Mexico) (THCMX)",History Channel (op2)
-#EXTGRP:Cultura
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="National Geographic Channel (West / Mexico) (NGC)",NatGeo (op2)
-#EXTGRP:Cultura
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Cultura
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Cultura
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="The Discovery Channel (Mexico) (DSC)",Discovery Channel
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Channel (West / Mexico) (NGC)",NatGeo
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Wild (Latin America) (NGWILD)",NatGeo Wild
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0c2/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet International (Mexico) (ANIMAL)",Animal Planet
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-name="The History Channel (Mexico) (THCMX)",History Channel
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-name="History 2 Latinoamérica" tvg-ID="History2LatinAmerica.us",H2
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0dj/index.m3u8
-#EXTINF:-1 tvg-name="",DISCOVERY TURBO
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0c4/index.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery (Mexico) (ID)",ID
-#EXTGRP:Cultura
-http://54.215.227.94:8000/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Channel (West / Mexico) (NGC)",NatGeo
-#EXTGRP:Cultura
-http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",Food Network
-#EXTGRP:Cultura
-http://51.79.18.128:8081/LATINO%7CFOODNETWORK/LATINO%7CFOODNETWORK/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Cultura
@@ -998,47 +676,12 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="",NASA TV 2
 #EXTGRP:Cultura
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="",NASA TV ISS
-#EXTGRP:Cultura
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="",NASA TV ISS (op2)
 #EXTGRP:Cultura
 http://a93e545e-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/1/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=2ad69386fed5d0f09d00f72cc3f32e7b8a1777da&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS (op3)
-#EXTGRP:Cultura
-http://a92ccb54-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/9408562/7/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=b3df645229a9adde5cf93d8652d06a51efb57902&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS 2
-#EXTGRP:Cultura
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="",NASA TV ISS 2 (op2)
 #EXTGRP:Cultura
 http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",NASA TV ISS 2 (op3)
-#EXTGRP:Cultura
-http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=1c03815316af7184ba7a12f269c1a47e45336d0e&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-name="",ESA TV
-#EXTGRP:Cultura
-https://livestream.com/accounts/362/events/6350312/player
-#EXTINF:-1 tvg-name="",ESA TV (op2)
-#EXTGRP:Cultura
-https://playback.akamaized.net/streams/362_6350312_lsi9t17zv9fuq19dwuu_1/media/362_6350312_lsi9t17zv9fuq19dwuu_1@5256000p.m3u8?dw=80&ts=1662220800&hdnts=exp=1662394783~acl=/streams/362_6350312_lsi9t17zv9fuq19dwuu_1/media*~hmac=5a10efd521080ad4f064a8065bbce42b76ced06f7da11360033b57fcc9a431c6
-#EXTINF:-1 tvg-name="",ESA TV (op3)
-#EXTGRP:Cultura
-https://api.new.livestream.com/accounts/362/events/6350312/broadcasts/227554823.secure.m3u8
-
-
-#EXTINF:-1 tvg-name="",NatGeo People HK
-#EXTGRP:Cultura
-http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
-#EXTINF:-1 tvg-name="",Discovery Eve HK
-#EXTGRP:Cultura
-http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-#EXTINF:-1 tvg-name="",BBC Earth HD HK
-#EXTGRP:Cultura
-http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-#EXTINF:-1 tvg-name="",BBC Earth Lifestyle HK
-#EXTGRP:Cultura
-http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Cultura
 https://waldmtr3s.github.io/mpago.mp4
@@ -1047,7 +690,7 @@ https://waldmtr3s.github.io/mpago.mp4
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Nickelodeon (Latin America / North) (NICK)
 #EXTGRP:Niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Disney XD Latin America (North) (DISXD)
 #EXTGRP:Niños
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
@@ -1077,75 +720,22 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Bitme (VIX)
 #EXTGRP:Niños
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Bitme 
-#EXTGRP:Niños
-http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
 #EXTINF:-1 tvg-name="wmedia",wmedia
 #EXTGRP:Niños
 http://193.122.159.148/live?app=on&stream=test
-#EXTINF:-1 tvg-name="Locomotion",Locomotion
-#EXTGRP:Niños
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-name="",Locomotion (op2)
 #EXTGRP:Niños
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-name="AZTV",AZXTV
-#EXTGRP:Niños
-http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="",aztv (op2)
 #EXTGRP:Niños
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="",KanadeTV
-#EXTGRP:Niños
-http://96.30.193.226:81/hls/kanadetv.m3u8
-#EXTINF:-1 tvg-name="",Proyecto ANIMAX Latam
-#EXTGRP:Niños
-https://stmv1.voxhdnet.com/erick3041/erick3041/index.m3u8
-#EXTINF:-1 tvg-name="",Proyecto GhostScreen TardeNoches Sab
-#EXTGRP:Niños
-https://watch.8ch.moe/live/b4ff54b8-bc05-4f98-80b9-d4ae5227ef55/index.m3u8
-#EXTINF:-1 tvg-name="",Proyecto YureiScreen TardeNoches Dom
-#EXTGRP:Niños
-https://watch.8ch.moe/live/39acc5c7-5508-4daa-bb85-602d0ab91d04/index.m3u8
-#EXTINF:-1 tvg-name="",ZAZ TV La
-#EXTGRP:Niños
-https://stream-us-east-1.getpublica.com/cl/93527f7a-8802-41d8-a152-edf8fff2f449/654x480_2750601_2_false.m3u8
-#EXTINF:-1 tvg-name="",ZAZ TV La (op2)
-#EXTGRP:Niños
-https://content-ause1-up-1.uplynk.com/90638dbe17514d19866de0b04b05327f/e.m3u8
-#EXTINF:-1 tvg-name="",EnerGeek
-#EXTGRP:Niños
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1 tvg-name="",Mi TV Clasica
 #EXTGRP:Niños
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-#EXTINF:-1 tvg-name="",Dreiko TV
-#EXTGRP:Niños
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-name="",RetroCartoon BR
 #EXTGRP:Niños
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-name="",Animax JP eng sub
-#EXTGRP:Niños
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-name="",Animax ID
-#EXTGRP:Niños
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-name="" ,Animax ID (op2)
-#EXTGRP:Niños
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-name="",Animax ID (op3)
-#EXTGRP:Niños
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065984
-
-
-#EXTINF:-1 tvg-name="" ,Animax VN
-#EXTGRP:Niños
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 tvg-name="" ,AniPlus ID
-#EXTGRP:Niños
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065985
 
 #EXTINF:-1 tvg-name="" ,AniPlus ID (op2)
 #EXTGRP:Niños
@@ -1156,9 +746,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1420737736.m3u8
 #EXTINF:-1 tvg-name="",Gaki No Tsukai sub JP
 #EXTGRP:Niños
 https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
-#EXTINF:-1 tvg-name="",Gaki No Tsukai sub JP (op2)
-#EXTGRP:Niños
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://vk.com/video_ext.php?oid=537117800&id=456239024&hash=6f372257bb8b010b
 
 #EXTINF:-1 tvg-name="",Pluto TV Anime
 #EXTGRP:Niños
@@ -1275,68 +862,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Niños
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Disney en Español (North Feed) (DISNEY)",Disney (op2)
-#EXTGRP:Niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network (Latin America - Mexico) (TOON)",Cartoon Network (op2)
-#EXTGRP:Niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon (Latin America / North) (NICK)",Nickelodeon (op2)
-#EXTGRP:Niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Bitme",Bitme (op2)
-#EXTGRP:Niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Niños
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Niños
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Disney en Español (North Feed) (DISNEY)",Disney Channel
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0al/index.m3u8
-#EXTINF:-1 tvg-name="Disney Junior (North Feed) (DISJR)",Disney Jr
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-name="Disney XD Latin America (North) (DISXD)",Disney XD
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0j0/index.m3u8
-#EXTINF:-1 tvg-name="",Nick Music
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon (Latin America / North) (NICK)",Nickelodeon
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0am/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network (Latin America - Mexico) (TOON)",Cartoon Network
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. (NICKJR)",Nick Jr
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0ck/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids (Mexico) (DKIDS)",Discovery Kids
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Kids (Chile - México) (NGK)",Natgeo Kids
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-name="Baby TV (Latin America) (BABYTV)",BabyTv
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-name="Boomerang (Mexico) (BOOM)",Boomerang
-#EXTGRP:Niños
-http://54.215.227.94:8000/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-name="",Bitme 
-#EXTGRP:Niños
-http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
-
-#EXTINF:-1,LOS-SIMPSON
-#EXTGRP:Niños
-http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
-
-#EXTINF:-1,BOB-ESPONJA
-#EXTGRP:Niños
-http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Niños
@@ -1387,133 +918,28 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE03.m3u8
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="La 1 HD",La 1
-#EXTGRP:Internacionales
-http://51.79.18.128:8081/ESP%7CLA1/ESP%7CLA1/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",La 1 HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/la1sp/index.m3u8
-
-#EXTINF:-1 tvg-name="",La 1 ES (op3)
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:-1 tvg-name="",La 2
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/la2sp/index.m3u8
-#EXTINF:-1 tvg-name="",Cuatro HD
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/51/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",Cuatro (op2)
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/cuatrosp/index.m3u8
-
-
-
-#EXTINF:-1 tvg-name="",TeleCinco HD
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/61/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="",TeleCinco (op2)
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/telecincosp/index.m3u8
-
-#EXTINF:-1 tvg-name="",TeleDeporte
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-name="",TVG2
 #EXTGRP:Internacionales
 https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1 tvg-name="",TVGalicia 2 ES (op2)
 #EXTGRP:Internacionales
 https://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
-#EXTINF:-1 tvg-name="",Be Mad
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/bemadsp/index.m3u8
-
-#EXTINF:-1 tvg-name="",La Sexta HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/lasexta/index.m3u8
-#EXTINF:-1 tvg-name="",La sexta ES
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:-1 tvg-name="",Antena3 ES
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/antena3sp/index.m3u8
-
-#EXTINF:-1 tvg-name="",Mega
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/megasp/index.m3u8
-#EXTINF:-1 tvg-name="",Mega ES (op2)
-#EXTGRP:Internacionales
-http://91.126.138.141:1935/live/mega/chunks.m3u8
-#EXTINF:-1 tvg-name="",Neox
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/neoxsp/index.m3u8
-#EXTINF:-1 tvg-name="",TF1 FR
-#EXTGRP:Internacionales
-http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
-#EXTINF:-1 tvg-name="",TF1 HD FR
-#EXTGRP:Internacionales
-https://tf1-hls-live.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_1.m3u8
-
-#EXTINF:-1 tvg-name="",M6 FR
-#EXTGRP:Internacionales
-https://shls-m6-france-prod-dub.shahid.net:443/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
-
-
 
 #EXTINF:-1 tvg-name="",TRT 1
 #EXTGRP:Internacionales
 http://stream.suboroiptv.tv:80/TRT1/playlist.m3u8
-#EXTINF:-1 tvg-name="",TRT1 (op2) TUR
-#EXTGRP:Internacionales
-http://6.oldbozcdn1.cc/nirvana1/index.m3u8
 #EXTINF:-1 tvg-name="",TRT2 TUR
 #EXTGRP:Internacionales
 http://stream.suboroiptv.tv:80/TRT2/playlist.m3u8
 #EXTINF:-1 tvg-name="",Global Haber tv TR
 #EXTGRP:Internacionales
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1 tvg-name="",TV 8.5 HD TR
-#EXTGRP:Internacionales
-https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-name="",HRT1 CRO
-#EXTGRP:Internacionales
-http://109.105.201.198/HRT1HD/video.m3u8
-#EXTINF:-1 tvg-name="",HRT1 CRO (op2)
-#EXTGRP:Internacionales
-http://195.29.70.67/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-name="",HRT2 CRO
-#EXTGRP:Internacionales
-http://109.105.201.198:80/HRT2HD/video.m3u8
-#EXTINF:-1 tvg-name="",HRT2 CRO (op2)
-#EXTGRP:Internacionales
-http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1 tvg-name="",HRT3 CRO
-#EXTGRP:Internacionales
-http://109.105.201.198/HRT3HD/video.m3u8
-#EXTINF:-1 tvg-name="",HRT3 CRO (op2)
-#EXTGRP:Internacionales
-http://195.29.70.67/PLTV/88888888/224/3221226180/04.m3u8
-#EXTINF:-1 tvg-name="",HRT4 CRO
-#EXTGRP:Internacionales
-http://109.105.201.198:80/HRT4HD/video.m3u8
-#EXTINF:-1 tvg-name="",HRT4 CRO (op2)
-#EXTGRP:Internacionales
-http://195.29.70.67/PLTV/88888888/224/3221226181/04.m3u8
 #EXTINF:-1 tvg-name="",RAI Italia
 #EXTGRP:Internacionales
 http://210.210.155.69/s/s63/S4/mnf.m3u8
-#EXTINF:-1 tvg-name="",RAI 1
-#EXTGRP:Internacionales
-http://ott-cdn.ucom.am/s29/04.m3u8
 
 #EXTINF:-1 tvg-name="",RAI 3
 #EXTGRP:Internacionales
@@ -1531,12 +957,6 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
 #EXTGRP:Internacionales
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
 
-#EXTINF:-1 tvg-name="",CaracolTV VEN
-#EXTGRP:Internacionales
-http://us-b4-p-e-az1.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish/media_2400.m3u8?aid=589b13f631f1bebd088ff753&pid=fNF9l7vRNjpP5Pmgtf6AU0sCxo8TfXD8&sid=euVP97pyQ0mrE8OjMYYfXpxdDYfYnF5c&uid=iDIQB80UgDn3s56JuvlXsiaavmxiaH80&es=us-b4-p-e-az1.cdn.mdstrm.com&ote=1629780719595&ot=pG__FZd4Je2XEERK40F6dg&proto=http&pz=us
-#EXTINF:-1 tvg-name="",TeleSur VEN
-#EXTGRP:Internacionales
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",TeleSur CR
 #EXTGRP:Internacionales
@@ -1578,28 +998,6 @@ http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 #EXTGRP:Internacionales
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="",CCTV 1 CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="",CCTV 4K CN
-#EXTGRP:Internacionales
-http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-
-#EXTINF:-1 tvg-name="",CCTV 14 Animacion CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="",BeijingTV 1 CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-name="",BeijingTV Juventud CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/btv8hd.m3u8
-#EXTINF:-1 tvg-name="",BeijingTV Noticias CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-name="",BeijingTV 1 Animacion CN
-#EXTGRP:Internacionales
-http://ivi.bupt.edu.cn/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-name="",CTN Taiwan News 
 #EXTGRP:Internacionales
 http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
@@ -1667,31 +1065,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/videoembed/465451
 #EXTINF:-1 tvg-name="",TokyoMX 2 JP 
 #EXTGRP:Internacionales
 https://movie.mcas.jp/mcas/mx2_prod.smil/.m3u8
-#EXTINF:-1 tvg-name="",EN VIVO Ucrania 24
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
-#EXTINF:-1 tvg-name="",Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UClEiTusa-SX5NmpsWIRgCDQ/live
-#EXTINF:-1 tvg-name="",Camaras de Vigilancia Kiev Ucrania EN VIVO
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCrjyygMS1KNuL10AT5AIcBQ/live
-#EXTINF:-1 tvg-name="",EN VIVO Rusia 1
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC2D0dmLHKbIe9aACnlcTLPg/live
-
-#EXTINF:-1 tvg-name="",EN VIVO Rusia 24
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
-#EXTINF:-1 tvg-name="",EN VIVO Moscu 24
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
-#EXTINF:-1 tvg-name="",EN VIVO France 24
-#EXTGRP:Internacionales
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="",EN VIVO Deutsche Welle DW
-#EXTGRP:Internacionales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
@@ -1718,81 +1091,6 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Internacionales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-name="",BBC One
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1 tvg-name="",BBC One HD
-#EXTGRP:Internacionales
-http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="",BBC One HD (op3)
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
-#EXTINF:-1 tvg-name="",BBC Two HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1 tvg-name="",BBC Two
-#EXTGRP:Internacionales
-http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="",BBC Two
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
-#EXTINF:-1 tvg-name="",BBC Three
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_bbc_three_sd/index.m3u8
-#EXTINF:-1 tvg-name="",BBC Four
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
-#EXTINF:-1 tvg-name="",ITV
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/itv1/index.m3u8
-#EXTINF:-1 tvg-name="",ITV
-#EXTGRP:Internacionales
-http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="",ITV
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
-#EXTINF:-1 tvg-name="",ITV2 HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/itv2/index.m3u8
-#EXTINF:-1 tvg-name="",ITV2 HD
-#EXTGRP:Internacionales
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="",ITV2 HD
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
-#EXTINF:-1 tvg-name="",ITV 3
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
-#EXTINF:-1 tvg-name="",ITV 4
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8
-#EXTINF:-1 tvg-name="",5 USA
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_5_usa_sd/index.m3u8
-#EXTINF:-1 tvg-name="",5Action
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_5action_sd/index.m3u8
-#EXTINF:-1 tvg-name="",5Star
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_5_star_sd/index.m3u8
-#EXTINF:-1 tvg-name="",5Select
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8
-#EXTINF:-1 tvg-name="",Channel 4
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
-#EXTINF:-1 tvg-name="",Channel 5
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
-#EXTINF:-1 tvg-name="",E4
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
-#EXTINF:-1 tvg-name="",Film 4
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_film_4_sd/index.m3u8
-#EXTINF:-1 tvg-name="",Sky Arts
-#EXTGRP:Internacionales
-http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
@@ -2098,95 +1396,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL138/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="De Película",De Pelicula (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="De Película Multiplex",De Pelicula Plus (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Golden",Golden (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Golden Plus",Golden Plus (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="Golden Edge",Golden Edge (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="TNT Latin America (Mexico) (TNT)",TNT (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="TCM - Turner Classic Movies (Pan-Regional) (TCMLA)",TCM (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="SPACE (Mexico) (SPACE)",Space (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="AMC México",AMC (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)",Studio Universal (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Cinecanal (Mexico) (CINE-O)",Cinecanal (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="Cinemax (Mexico) (CINEMAX)",Cinemax (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Paramount (op2)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="SPACE (Mexico) (SPACE)",Space
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cg/index.m3u8
-#EXTINF:-1 tvg-name="TNT Latin America (Mexico) (TNT)",TNT
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-name="TNT Series México",TNT Series
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-name="I-SAT (Pan-Regional) (I-SAT)",ISAT
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0b2/index.m3u8
-#EXTINF:-1 tvg-name="MC (Multicinema) (MC)",Multicinema
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0co/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax (Mexico) (CINEMAX)",Cinemax
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-name="Multipremier (MULPRE)",MULTI PREMIER
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-name="Cinecanal (Mexico) (CINE-O)",Cinecanal
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a08u/index.m3u8
-#EXTINF:-1 tvg-name="Cine Latino (Mexico City) (CINELA)" tvg-ID="CineLatino.mx",Cine Latino
-#EXTGRP:Peliculas
-http://190.83.119.67:8000/play/a0tl/index.m3u8
-#EXTINF:-1 tvg-name="Europa",Europa
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0k6/index.m3u8
-#EXTINF:-1 tvg-name="FXM Oeste" tvg-ID="FXMWest.us",FXM
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cr/index.m3u8
-#EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)",Studio Universal
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-name="Paramount Network Latin America" tvg-ID="ParamountNetworkLatinAmerica.us",PARAMOUNT
-#EXTGRP:Peliculas
-http://54.215.227.94:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
 #EXTGRP:Peliculas
 http://209.45.3.210:8000/play/a026/index.m3u8
@@ -2279,72 +1494,19 @@ http://200.4.96.59:8041/play/a027/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVERSAL CINEMA HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0v2/index.m3u8
-#EXTINF:-1 tvg-name="",UNIVERSAL CINEMA HD
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVERSAL COMEDY HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0t1/index.m3u8
-#EXTINF:-1 tvg-name="",UNIVERSAL COMEDY HD
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVERSAL CRIME HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0t0/index.m3u8
-#EXTINF:-1 tvg-name="",UNIVERSAL CRIME HD
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0t0/index.m3u8
 
 #EXTINF:-1 tvg-name="",UNIVERSAL PREMIERE HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0ui/index.m3u8
-#EXTINF:-1 tvg-name="",UNIVERSAL PREMIERE HD
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-name="",UNIVERSAL REALITY HD
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-name="",UNIVERSAL REALITY HD
-#EXTGRP:Peliculas
-http://190.92.95.37:8000/play/a0sz/index.m3u8
-#EXTINF:-1tvg-name="HBO Family (Spanish) (HBOFAM)",HBO Family HD
-#EXTGRP:Peliculas
-http://45.5.117.138:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO HD
-#EXTGRP:Peliculas
-http://45.5.117.138:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-name="HBO Plus (Mexico) (HBO+)",HBO Plus HD
-#EXTGRP:Peliculas
-http://45.5.117.138:8000/play/a00f/index.m3u8
-#EXTINF:-1tvg-name="HBO Xtreme Panamericano (HBOXTR)",HBO XTREME
-#EXTGRP:Peliculas
-http://45.5.117.138:8000/play/a00h/index.m3u8
-#EXTINF:-1tvg-name="HBO 2 (Mexico) (HBO2)",HBO2 HD
-#EXTGRP:Peliculas
-http://45.5.117.138:8000/play/a00e/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Studio Universal (Mexico) (STUNI)",Studio Universal
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-#EXTINF:-1 tvg-name="Cinecanal (Mexico) (CINE-O)",Cinecanal
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8 
-#EXTINF:-1 tvg-name="Cinemax (Mexico) (CINEMAX)",Cinemax
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8 
-#EXTINF:-1 tvg-name="Golden Plus",Golden Plus
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC México",AMC
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
-#EXTINF:-1 tvg-name="Morbido Latinoamérica",Morbido
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
-#EXTINF:-1 tvg-name="De Película",De Pelicula
-#EXTGRP:Peliculas
-http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Peliculas
@@ -2352,18 +1514,9 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",RecOnline
-#EXTGRP:Peliculas
-https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-name="",Expreszion
 #EXTGRP:Peliculas
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-#EXTINF:-1 tvg-name="",Geovision
-#EXTGRP:Peliculas
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
-#EXTINF:-1 tvg-name="",Flixtube
-#EXTGRP:Peliculas
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 #EXTINF:-1 tvg-name="",Horrorfy
 #EXTGRP:Peliculas
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
@@ -2381,12 +1534,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-name="",Fmtv 1
 #EXTGRP:Peliculas
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-name="",Fmtv 2
-#EXTGRP:Peliculas
-https://stream-us-east-1.getpublica.com/cl/19e08cab-27f8-425c-86d1-30b2eb62442a/1280x720_1172986_0_false.m3u8
-#EXTINF:-1 tvg-name="",MooviMex
-#EXTGRP:Peliculas
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="",Pluto TV Cine Acción
 #EXTGRP:Peliculas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2472,33 +1619,6 @@ https://linear-201.frequency.stream/dist/vix/dist/localnow/201/hls/master/playli
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",Fox Premium Action HDTV (East) (FACHD)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL336/PROFILE03.m3u8
-
-
-#EXTINF:-1 tvg-name="",Fox Premium Family (West) (FOXFAM)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1724/PROFILE03.m3u8
-
-
-#EXTINF:-1 tvg-name="",Fox Comedy
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1725/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Fox Premium Cinéma (FOXCI)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1729/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Fox Premium Classics Latin America (English Titles) (FXCL)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1732/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-name="",Fox Premium Series (West) (FOXSE)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL139/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-name="",Fox Premium Movies (East) (FOXMO)
-#EXTGRP:Peliculas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL146/PROFILE03.m3u8
 
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
@@ -2510,109 +1630,20 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Mundial
 #EXTGRP:Mundial
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
-#EXTGRP:Mundial
-https://s5.capoplay.com:999/hls/do10.m3u8?md5=K4Ju9zORJ6uF6mu-Gb7qZA&expires=1671382160
-#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
-#EXTGRP:Mundial
-https://webdi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TyC Sports",TyC Sports Arg
-#EXTGRP:Mundial
-http://snews.t4news.live/hls/S1.m3u8
-#EXTINF:-1 tvg-name="La 1",La 1 Esp
-#EXTGRP:Mundial
-https://lshstream.xyz/hls/ga13/index.m3u8?st=kK6duJNctN2a0_cOLarjmA&e=1671385936
-#EXTINF:-1 tvg-name="BBC One",BBC One
-#EXTGRP:Mundial
-http://snews.t4news.live/hls/S1.m3u8
-#EXTINF:-1 tvg-name="BBC One",BBC One
-#EXTGRP:Mundial
-http://cdn2.cyclingnews.live/abr/abr-stream1/hls/stream1_720p/chunks.m3u8?nimblesessionid=15915235&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiAyOjU2Cjo0NAogUE0maGFzaF92YWx1ZT0xNjE2ZnFydngvSWN1THhXM3dmL1hnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA==
-#EXTINF:-1 tvg-name="TF1",TF1 Fra
-#EXTGRP:Mundial
-https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/6jmuc94a795ahy.m3u8?s=s9o_FXTx2Ofybx7ViNCunw&e=1671397479
-#EXTINF:-1 tvg-name="TF1",TF1 Fra
-#EXTGRP:Mundial
-https://hu8gp9m9ck8jbvbj.cdnexpress11.net:8443/hls/6jmuc94a795ahy.m3u8?s=x5ikTZK9ctQTJFzsmQToiw&e=1671397662
-#EXTINF:-1 tvg-name="beIN Sports Fra",beIN Sports Fra
-#EXTGRP:Mundial
-https://t2.switchcast2.com:999/hls/do9.m3u8?md5=n8AtrC9Hbfe3ubjdcgYhKg&expires=1671383418
-#EXTINF:-1 tvg-name="beIN Sports Fra",beIN Sports Fra
-#EXTGRP:Mundial
-https://lshstream.xyz/hls/Sy5K9kzq/index.m3u8?st=cnLOfTLoz3j0VLwDcVfwHA&e=1671387094
-#EXTINF:-1 tvg-name="TSN1",TSN1 Ca
-#EXTGRP:Mundial
-https://vcloud2.onionplay.live:8443/hls/L1TG2ldFjhzz/index.m3u8?st=Ei0Vtx5SiMgni0fQ7zKB1w&e=1671386924
-#EXTINF:-1 tvg-name="TSN1",TSN1 Ca
-#EXTGRP:Mundial
-https://wpasuceta.azureedge.net/live/TSN1/chunks.m3u8
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 MX
-#EXTGRP:Mundial
-http://189.203.160.152:10803/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 MX (op2)
-#EXTGRP:Mundial
-http://45.174.84.154:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5 TJ
-#EXTGRP:Mundial
-https://v-sd.mybtv.net/live/486/1920x1080.m3u8
+
+
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
 #EXTGRP:Mundial
 http://45.5.117.138:8005/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
 #EXTGRP:Mundial
-https://app.ultimate2019.com/stream/get/14|user-agent=http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4028
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Mundial
-http://flysilo.top:8080/live/9141658943811873/2751658943811873/18593.ts
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Mundial
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044465
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Mundial
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/18593.ts
-#EXTINF:-1 tvg-name="XHGC 5 Nacional (CANL5)",Canal 5
-#EXTGRP:Mundial
-http://axr.life:80/testepainelp2p/aqzFw8hBeN/1044465
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 MX
-#EXTGRP:Mundial
-http://189.203.160.152:10803/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 MX (op2)
-#EXTGRP:Mundial
-http://45.174.84.154:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7 TJ
-#EXTGRP:Mundial
-https://v-sd.mybtv.net/live/502/1920x1080.m3u8
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Mundial
-https://app.ultimate2019.com/stream/get/5|user-agent=http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
 #EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4027
 #EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
 #EXTGRP:Mundial
-http://flysilo.top:8080/live/9141658943811873/2751658943811873/18577.ts
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Mundial
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044450
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Mundial
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/18577.ts
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Mundial
-http://axr.life:80/testepainelp2p/aqzFw8hBeN/1044450
-#EXTINF:-1 tvg-name="XHIMT Azteca 7 DF (AZT-7)",Azteca 7
-#EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3215
-
-#EXTINF:-1 tvg-name="",VIX+
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-name="TUDN México",TUDN
-#EXTGRP:Mundial
-http://45.5.117.239:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-name="TUDN México",TUDN
 #EXTGRP:Mundial
 http://45.228.234.77:4430/play/tudn
@@ -2624,44 +1655,8 @@ http://190.61.102.67:444/play/a07e
 http://190.61.102.67:8000/play/a07e
 #EXTINF:-1 tvg-name="TUDN México",TUDN
 #EXTGRP:Mundial
-http://201.159.115.175:2000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-name="TUDN México",TUDN
-#EXTGRP:Mundial
 http://45.5.117.138:8005/play/a00f/index.m3u8
-#EXTINF:-1 tvg-name="",Telemundo
-#EXTGRP:Mundial
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo Network (East) (TELMUN)",Telemundo
-#EXTGRP:Mundial
-https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)",Telemundo
-#EXTGRP:Mundial
-https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",Telemundo
-#EXTGRP:Mundial
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
-#EXTINF:-1 tvg-name="",TELEMUNDO
-#EXTGRP:Mundial
-http://71.187.29.54:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-name="",TELEMUNDO
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-name="",TELEMUNDO
-#EXTGRP:Mundial
-http://200.48.19.141:10021/play/a02u
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
-#EXTGRP:Mundial
-https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA",FOX 5 (West)
-#EXTGRP:Mundial
-https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5 WNYW
-#EXTGRP:Mundial
-https://v-ny.mybtv.net/live/550/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW",FOX 5
-#EXTGRP:Mundial
-http://71.187.29.54:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-name="",BBC One
 #EXTGRP:Mundial
 http://185.234.217.22:8011/play/a04u/index.m3u8
@@ -2695,9 +1690,7 @@ http://62.131.92.221:60450/play/a094/index.m3u8
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
-#EXTINF:-1 tvg-name="",TV Pública ARG
-#EXTGRP:Mundial
-http://190.131.247.82:8000/play/a0jf
+
 #EXTINF:-1 tvg-name="",TV Pública ARG
 #EXTGRP:Mundial
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3417
@@ -2707,16 +1700,7 @@ http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43633
 #EXTINF:-1 tvg-name="",Claro Sports CO
 #EXTGRP:Mundial
 http://186.5.31.251:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-name="",Directv SPORT Sur
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-name="",Directv SPORT 2 Sur
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06o/index.m3u8
 
-#EXTINF:-1 tvg-name="",Directv SPORT Sur
-#EXTGRP:Mundial
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-name="",Chilevision
 #EXTGRP:Mundial
 http://170.239.188.253:50000/play/a03x/index.m3u8
@@ -2762,22 +1746,8 @@ http://170.239.188.253:50000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-name="",Latina
 #EXTGRP:Mundial
 http://179.0.98.34:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-name="",Tigo Sports
-#EXTGRP:Mundial
-http://45.5.117.239:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-name="",Tigo Sports
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-name="",Tigo Sports
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-name="",Tigo Sports+
-#EXTGRP:Mundial
-http://200.52.154.125:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-name="",Canal 4 Pan
-#EXTGRP:Mundial
-http://200.76.0.24:8000/play/a06r/index.m3u8
+
 #EXTINF:-1 tvg-name="",Canal 4 Pan
 #EXTGRP:Mundial
 http://190.61.102.67:444/play/a06h
@@ -2835,39 +1805,6 @@ http://190.61.43.117:45000/play/a038
 #EXTINF:-1 tvg-name="",CaracolTV
 #EXTGRP:Mundial
 http://186.5.31.251:8000/play/a0de/index.m3u8
-#EXTINF:-1,SporTV
-#EXTGRP:Mundial
-http://45.175.61.242:4000/play/a06y/index.m3u8
-#EXTINF:-1,SporTV 2
-#EXTGRP:Mundial
-http://45.175.61.242:4000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 1 HD FR
-#EXTGRP:Mundial
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 2 HD FR
-#EXTGRP:Mundial
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 3 HD FR
-#EXTGRP:Mundial
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK
-#EXTGRP:Mundial
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 tvg-name="",QAZSport KZ
-#EXTGRP:Mundial
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV (JOCX-DTV)",Fuji TV JP 
-#EXTGRP:Mundial
-https://fujitv3.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 CN
-#EXTGRP:Mundial
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1 tvg-name="",CCTV 5 + CN
-#EXTGRP:Mundial
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-
 #EXTINF:-1 tvg-name="",Mundial
 #EXTGRP:Mundial
 https://waldmtr3s.github.io/mpago.mp4
@@ -2885,15 +1822,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3335/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="TUDN México" tvg-ID="TUDNMexico.mx",TUDN
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1049/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-name="",ESPN Extra Centroamérica HDTV (ESPNXTRA)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-
 #EXTINF:-1 tvg-name="",ESPN (Mexico) (ESPMX)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-
 #EXTINF:-1 tvg-name="",ESPN 2 Latin North (Mexico) (ESPN2M)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
@@ -2904,20 +1840,17 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Fox Sports Latin America (Cono Norte) (FSA)
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Fox Sports 2 (Cono Norte) (FOXSP2)
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2 (Web)
 #EXTGRP:Deportes
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+
 #EXTINF:-1 tvg-name="",Fox Sports 3 (Cono Norte) (FOXSP3)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
-
-
-
 
 #EXTINF:-1 tvg-name="",Claro Sports 
 #EXTGRP:Deportes
@@ -2925,25 +1858,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",TVC Deportes
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="Claro Sports",Claro Sports (Web)
-#EXTGRP:Deportes
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index_122.m3u8
+
+
 #EXTINF:-1 tvg-name="",F1 TV (en ingles)
 #EXTGRP:Deportes
 https://sfo1.angelthump.com/hls/MjAyMi0xMS0yMFQxMjoxMzowMC42NTdac3BmMWdlbmVyYWw=_spf1general_src/index.m3u8
-#EXTINF:-1 tvg-name="",F1 TV (en ingles) op2
-#EXTGRP:Deportes
-https://gahuiysuiwi.s3.amazonaws.com/manu_720p30.m3u8
-
-#EXTINF:-1 tvg-name="",F1 TV (en ingles) op3
-#EXTGRP:Deportes
-http://fpplk.azureedge.net/scripts/NjI4OA==/1080p.m3u8
-#EXTINF:-1 tvg-name="",F1 TV (en ingles) op4
-#EXTGRP:Deportes
-https://wswanata.azureedge.net/live/F1/chunks.m3u8
-#EXTINF:-1 tvg-name="",F1 TV (en ingles) op5
-#EXTGRP:Deportes
-https://6av6vlgkb6hoyf.data.mediastore.eu-west-2.amazonaws.com/livea/main_1080p30.m3u8
 
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
@@ -2951,40 +1870,13 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist_1920x1080.m
 #EXTINF:-1 tvg-name="",Afizzionados (VIX) op2
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/dist/vix/dist/localnow/348/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="",TUDN op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a04z/index.m3u8
+
 #EXTINF:-1 tvg-name="",TUDN op2
 #EXTGRP:Deportes
 http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 tvg-name="",TUDN HD USA op2
 #EXTGRP:Deportes
 http://45.182.21.251:33334/play/a077/index.m3u8
-#EXTINF:-1 tvg-name="",Afizzionados op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-name="",beIN Sports Ñ op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a052/index.m3u8
-
-#EXTINF:-1 tvg-name="",Espn Deportes op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-name="",Movistar La Liga op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-name="",Sky Sports op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-name="",TNT Sports op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-name="",TyC Sports op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-name="",DirecTV Sport op2
-#EXTGRP:Deportes
-http://45.5.118.226:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-name="",TUDN (VIX) op2
 #EXTGRP:Deportes
 https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
@@ -3026,7 +1918,6 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTGRP:Deportes
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-name="",La Liga Premier | Paramount+
 #EXTGRP:Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3052,203 +1943,50 @@ https://linear-263.frequency.stream/dist/vix/263/hls/master/playlist_1920x1080.m
 https://linear-263.frequency.stream/dist/vix/dist/localnow/263/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="",Claro Sports Eventos (YT)
-#EXTGRP:Deportes
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ/live
-
-
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="ESPN Extra Centroamérica HDTV (ESPNXTRA)",ESPN Extra (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2 (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-
-
-#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3 (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports Latin America (Cono Norte) (FSA)",FOX SPORTS (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",FOX SPORTS 2 (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",FOX SPORTS 3 (op2)
-#EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a091/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports Latin America (Cono Norte) (FSA)",Fox Sports
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
-#EXTGRP:Deportes
-http://54.215.227.94:8000/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Extra Centroamérica HDTV (ESPNXTRA)",ESPN Extra (op2)
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-name="ESPN Extra Centroamérica HDTV (ESPNXTRA)",ESPN Extra (op2)
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0py/index.m3u8
 #EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1 tvg-name="ESPN (Mexico) (ESPMX)",ESPN
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0t4/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0t6/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 Latin North (Mexico) (ESPN2M)",ESPN 2
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0t6/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 North (Latin America) (ESPN3)",ESPN 3
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0t5/index.m3u8
 #EXTINF:-1 tvg-name="",Claro Sports
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0on/index.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0sp/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0sp/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0t7/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 3 (Cono Norte) (FOXSP3)",Fox Sports 3
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0t7/index.m3u8
 
 #EXTINF:-1 tvg-name="",Bein Sports
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0v6/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-name="",Movistar La Liga
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0tj/index.m3u8
-#EXTINF:-1 tvg-name="",Movistar La Liga
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0tj/index.m3u8
 #EXTINF:-1 tvg-name="",Tigo Sports
 #EXTGRP:Deportes
 http://190.83.119.67:8000/play/a0sn/index.m3u8
-#EXTINF:-1 tvg-name="",Tigo Sports
-#EXTGRP:Deportes
-http://190.92.95.37:8000/play/a0sn/index.m3u8
 
-#EXTINF:-1,Band Sports
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0a3/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0i0/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0i1/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0i2/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0i3/index.m3u8
-#EXTINF:-1,ESPN
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0a2/index.m3u8
-#EXTINF:-1,ESPN2
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0am/index.m3u8
-#EXTINF:-1,ESPN3
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a092/index.m3u8
-#EXTINF:-1,ESPN4
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a09k/index.m3u8
-#EXTINF:-1,Fox Sports 2
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0aj/index.m3u8
-#EXTINF:-1,SporTV
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a06y/index.m3u8
-#EXTINF:-1,SporTV 2
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a04i/index.m3u8
-#EXTINF:-1,SporTV 2 Alternativo
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a07h/index.m3u8
-#EXTINF:-1,SporTV 3
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0dy/index.m3u8
-#EXTINF:-1,SporTV Alternativo
-#EXTGRP:Deportes
-http://45.175.61.242:4000/play/a0ef/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",Claro Sports 1 MX
-#EXTGRP:Deportes
-https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports (op2) MX offline
-#EXTGRP:Deportes
-https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports (op3) MX
-#EXTGRP:Deportes
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
-#EXTINF:-1 tvg-name="",Claro Sports (op4) MX offline
-#EXTGRP:Deportes
-https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-name="",Espn Sur (op2)
-#EXTGRP:Deportes
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-name="",FOX SPORTS PREMIUM Sur (op2)
-#EXTGRP:Deportes
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 
@@ -3257,144 +1995,34 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 https://waldmtr3s.github.io/mpago.mp4
 
 
-
-#EXTINF:-1 tvg-name="",Barça Tv
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1 tvg-name="",Barça Tv (op2)
-#EXTGRP:Deportes
-http://91.126.138.141:1935/live/barza/playlist.m3u8
-#EXTINF:-1 tvg-name="",R. Madrid TV
-#EXTGRP:Deportes
-http://91.126.39.101:1935/live/realmadridnntv/playlist.m3u8
+https://waldmtr3s.github.io/mpago.mp4
 
 
-#EXTINF:-1 tvg-name="",LFCTV
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="",MUTV HD
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="",CHELSEATV HD
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-name="",GOL
-#EXTGRP:Deportes
-http://91.126.138.141:1935/live/gol/chunks.m3u8
-#EXTINF:-1 tvg-name="",GOL (op2)
-#EXTGRP:Deportes
-http://154.62.74.29:1935/live/gol/playlist.m3u8
-#EXTINF:-1 tvg-name="",M. DeportesHD
-#EXTGRP:Deportes
-http://212.224.98.208:2200/NL/mdeporteshd-esp/index.m3u8?token=
-#EXTINF:-1 tvg-name="",M. LaLiga HD
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 tvg-name="",M. LaLiga 1 HD
-#EXTGRP:Deportes
-http://212.224.98.213:2200/NL/mlaliga1hd-esp/index.m3u8?token=
-
-#EXTINF:-1 tvg-name="",M. LaLiga 2 HD
-#EXTGRP:Deportes
-http://212.224.98.213:2200/NL/mlaliga2hd-esp/index.m3u8?token=
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",DAZN 1 HD
-#EXTGRP:Deportes
-http://212.224.98.207:2200/NL/dazn1hd-esp/index.m3u8?token=
-#EXTINF:-1 tvg-name="",DAZN 2 HD
-#EXTGRP:Deportes
-http://212.224.98.207:2200/NL/dazn2hd-esp/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.F1.HD.uk",Sky Sports F1 UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 tvg-name="",DAZN F1 HD
-#EXTGRP:Deportes
-http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",BT Sport 1 UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="BT.Sport.1.uk",BTSports 1 UK (op2)
-#EXTGRP:Deportes
-http://116.202.245.40:9191/play/a03p
-
-#EXTINF:-1 tvg-name="",BT Sport 1 UK
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",BT Sport 2 UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="BT.Sport.2.uk",BTSports 2 UK (op2)
-#EXTGRP:Deportes
-http://116.202.245.40:9191/play/a002
-
-#EXTINF:-1 tvg-name="",BT Sport 2 UK
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-ID="BT.Sport.3.uk",BT Sport 3 FHD UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-ID="BTSpt//ESPNHD.uk",BT Sport ESPN FHD UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",Bein Sports 1 HD FR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 2 HD FR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 3 HD FR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.Fball.uk",Sky Sports Football UK
-#EXTGRP:Deportes
-http://185.53.89.183/hls/skyf.m3u8
-#EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 tvg-name="SkySpMainEv",Sky Sports Main Event UK (op2)
-#EXTGRP:Deportes
-http://185.53.89.183/hls/main.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.PL.uk",Sky Sports Premier League UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.News.HD.uk",Sky Sports News UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.Cricket.uk",Sky Sports Cricket UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.NFL.HD.uk",Sky Sports NFL UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-ID="SkySp.Golf.HD.uk",Sky Sports Golf UK
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/skysports4/index.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Az Clic
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL223/PROFILE03.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?&v=N&session=hk9psvdthd7j01s&lchId=223&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-name="",GameSpot
 #EXTGRP:Deportes
@@ -3450,736 +2078,39 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-name="",LevelUp PlexTv (op2)
 #EXTGRP:Deportes
 https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/195.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=6041643175c115002dc5125b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-name="",LevelUp Live (op3)
-#EXTGRP:Deportes
-https://stream-us-east-1.getpublica.com/cl/76c5cfc9-458e-43c5-b54c-517a504ee22f/1280x720_3600000_0_false.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",PPV Event M1 CyclingStreams
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event M2 CyclingStreams
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event M3 CyclingStreams
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event M4 CyclingStreams
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event M5 CyclingStreams
-#EXTGRP:Deportes
-http://cdn1.cyclingnews.live/hls/M5.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event P1 CyclingStreams
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-
-
-#EXTINF:-1 tvg-name="",PPV Event P2 CyclingStreams
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event P3 CyclingStreams
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P3.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event P4 CyclingStreams
-#EXTGRP:Deportes
-http://cdn2.cyclingnews.live/hls/P4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event A1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event A2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event A3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event A4 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.101/hls/A4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event T1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event T2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event T3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event T4 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event T5 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.111/hls/T5.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q1 CyclingStreams
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q2 CyclingStreams
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q3 CyclingStreams
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q4 CyclingStreams
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q5 CyclingStreams
-#EXTGRP:Deportes
-http://cdn4.cyclingnews.live/hls/Q5.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W1 CyclingStreams
-#EXTGRP:Deportes
-http://77.247.109.249/hls/W1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W2 CyclingStreams
-#EXTGRP:Deportes
-http://77.247.109.249/hls/W2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W3 CyclingStreams
-#EXTGRP:Deportes
-http://77.247.109.249/hls/W3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W4 CyclingStreams
-#EXTGRP:Deportes
-http://77.247.109.249/hls/W4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W1 CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W1 (op2) CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event W2 CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W2.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event W2 (op2) CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W3 CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event W3 (op2) CyclingStreams
-#EXTGRP:Deportes
-http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",PPV Event s1 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s1/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s2 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s2/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s3 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s3/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s4 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s4/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s5 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s5/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s6 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s6/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event s7 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/s7/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event ssf WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/ssf/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event sspl WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/sspl/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event lltv WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/lltv/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event ps1 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/ps1/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV Event ps2 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/ps2/chunks.m3u8
-
-#EXTINF:-1 tvg-name="",PPV ssla SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/ssla.m3u8
-#EXTINF:-1 tvg-name="",PPV bt1 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/bt1.m3u8
-#EXTINF:-1 tvg-name="",PPV bt2 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/bt2.m3u8
-#EXTINF:-1 tvg-name="",PPV bt3 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/bt3.m3u8
-#EXTINF:-1 tvg-name="",PPV btespn SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/btespn.m3u8
-#EXTINF:-1 tvg-name="",PPV ps1 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/ps1.m3u8
-#EXTINF:-1 tvg-name="",PPV ps2 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/ps2.m3u8
-#EXTINF:-1 tvg-name="",PPV sspl SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/sspl.m3u8
-#EXTINF:-1 tvg-name="",PPV sspsl SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/sspsl.m3u8
-#EXTINF:-1 tvg-name="",PPV snw SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/snw.m3u8
-#EXTINF:-1 tvg-name="",PPV f1 SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/f1.m3u8
-#EXTINF:-1 tvg-name="",PPV tnt SportingLive
-#EXTGRP:Deportes
-http://185.53.89.183/hls/tnt.m3u8
-#EXTINF:-1 tvg-name="",PPV Event S1 Hockeynews
-#EXTGRP:Deportes
-http://45.94.28.83/hls/S1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event S1 (op2) Hockeynews
-#EXTGRP:Deportes
-http://45.94.28.51/hls/S1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event S2 Hockeynews
-#EXTGRP:Deportes
-http://45.94.28.83/hls/S2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event S3 Hockeynews
-#EXTGRP:Deportes
-http://45.94.28.83/hls/S3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event S4 Hockeynews
-#EXTGRP:Deportes
-http://45.94.28.83/hls/S4.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",PPV F1 IT
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/formula.m3u8
-#EXTINF:-1 tvg-name="",PPV F1 IT (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/formula.m3u8
-#EXTINF:-1 tvg-name="",PPV F1 IT (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/formula.m3u8
-#EXTINF:-1 tvg-name="",PPV F1 IT (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/formula.m3u8
-#EXTINF:-1 tvg-name="",PPV MotoGP IT
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/moto.m3u8
-#EXTINF:-1 tvg-name="",PPV MotoGP (op2) IT
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/moto.m3u8
-#EXTINF:-1 tvg-name="",PPV MotoGP (op3) IT
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/moto.m3u8
-#EXTINF:-1 tvg-name="",PPV MotoGP (op4) IT
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/moto.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-name="",PPV Event F1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.117/hls/F1.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event k1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k1.m3u8
-
-
-#EXTINF:-1 tvg-name="",PPV Event k2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k2.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event k3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k3.m3u8
-
-#EXTINF:-1 tvg-name="",PPV Event k4 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.117/hls/k4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q3.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q4 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q4.m3u8
-#EXTINF:-1 tvg-name="",PPV Event Q5 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.250/hls/Q5.m3u8
-
-
-
-#EXTINF:-1 tvg-name="",PPV Event y1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y1.m3u8
-#EXTINF:-1 tvg-name="",PPV Event y2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y2.m3u8
-#EXTINF:-1 tvg-name="",PPV Event y3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/y3.m3u8
-
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",PPV Barca
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/barca.m3u8
-#EXTINF:-1 tvg-name="",PPV Barca (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/barca.m3u8
-#EXTINF:-1 tvg-name="",PPV Barca (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/barca.m3u8
-#EXTINF:-1 tvg-name="",PPV Barca (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/barca.m3u8
-#EXTINF:-1 tvg-name="",PPV PSG
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/psg.m3u8
-#EXTINF:-1 tvg-name="",PPV PSG (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/psg.m3u8
-#EXTINF:-1 tvg-name="",PPV PSG (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/psg.m3u8
-#EXTINF:-1 tvg-name="",PPV PSG (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/psg.m3u8
-#EXTINF:-1 tvg-name="",PPV Bayern Munich
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1 tvg-name="",PPV Bayern Munich (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1 tvg-name="",PPV Bayern Munich (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1 tvg-name="",PPV Bayern Munich (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/bayern.m3u8
-#EXTINF:-1 tvg-name="",PPV Juve
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/juve.m3u8
-#EXTINF:-1 tvg-name="",PPV Juve (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/juve.m3u8
-#EXTINF:-1 tvg-name="",PPV Juve (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/juve.m3u8
-#EXTINF:-1 tvg-name="",PPV Juve (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/juve.m3u8
-#EXTINF:-1 tvg-name="",PPV Atletico Madrid
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1 tvg-name="",PPV Atletico Madrid (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1 tvg-name="",PPV Atletico Madrid (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1 tvg-name="",PPV Atletico Madrid (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/madrid.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester United
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/united.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester United (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/united.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester United (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/united.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester United (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/united.m3u8
-#EXTINF:-1 tvg-name="",PPV Arsenal
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/arsenal.m3u8
-#EXTINF:-1 tvg-name="",PPV Arsenal (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/arsenal.m3u8
-#EXTINF:-1 tvg-name="",PPV Arsenal (op3)
-#EXTGRP:Deportes
-https://tv3.alcio01.pw/live/arsenal.m3u8
-#EXTINF:-1 tvg-name="",PPV Arsenal (op4)
-#EXTGRP:Deportes
-https://tv4.alcio01.pw/live/arsenal.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester City
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/city.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester City (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/city.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester City (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/city.m3u8
-#EXTINF:-1 tvg-name="",PPV Manchester City (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/city.m3u8
-#EXTINF:-1 tvg-name="",PPV Liverpool
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/liver.m3u8
-#EXTINF:-1 tvg-name="",PPV Liverpool (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/liver.m3u8
-#EXTINF:-1 tvg-name="",PPV Liverpool (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/liver.m3u8
-#EXTINF:-1 tvg-name="",PPV Liverpool (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/liver.m3u8
-#EXTINF:-1 tvg-name="",PPV Real Madrid
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/real.m3u8
-#EXTINF:-1 tvg-name="",PPV Real Madrid (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/real.m3u8
-#EXTINF:-1 tvg-name="",PPV Real Madrid (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/real.m3u8
-#EXTINF:-1 tvg-name="",PPV Real Madrid (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/real.m3u8
-#EXTINF:-1 tvg-name="",PPV Roma
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/roma.m3u8
-#EXTINF:-1 tvg-name="",PPV Roma (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/roma.m3u8
-#EXTINF:-1 tvg-name="",PPV Roma (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/roma.m3u8
-#EXTINF:-1 tvg-name="",PPV Roma (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/roma.m3u8
-#EXTINF:-1 tvg-name="",PPV Milan
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/milan.m3u8
-#EXTINF:-1 tvg-name="",PPV Milan (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/milan.m3u8
-#EXTINF:-1 tvg-name="",PPV Milan (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/milan.m3u8
-#EXTINF:-1 tvg-name="",PPV Milan (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/milan.m3u8
-#EXTINF:-1 tvg-name="",PPV Napoli
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1 tvg-name="",PPV Napoli (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1 tvg-name="",PPV Napoli (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1 tvg-name="",PPV Napoli (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/napoli.m3u8
-#EXTINF:-1 tvg-name="",PPV PSV
-#EXTGRP:Deportes
-https://tv1.calcio02.pw/live/psv.m3u8
-#EXTINF:-1 tvg-name="",PPV PSV (op2)
-#EXTGRP:Deportes
-https://tv2.calcio02.pw/live/psv.m3u8
-#EXTINF:-1 tvg-name="",PPV PSV (op3)
-#EXTGRP:Deportes
-https://tv3.calcio02.pw/live/psv.m3u8
-#EXTINF:-1 tvg-name="",PPV PSV (op4)
-#EXTGRP:Deportes
-https://tv4.calcio02.pw/live/psv.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
 
-#EXTINF:-1 tvg-name="",Live Sport Events 1
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/101.m3u8
-
-#EXTINF:-1 tvg-name="",Live Sport Events 2
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/102.m3u8
-
-
-#EXTINF:-1 tvg-name="",Live Sport Events 3
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/103.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 4
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/104.m3u8
-
-#EXTINF:-1 tvg-name="",Live Sport Events 5
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/105.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 6
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/106.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 7
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/107.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 8
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/108.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 9
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/109.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 10
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/110.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 11
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/111.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 12
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/112.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 13
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/113.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 14
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/114.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 15
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/115.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 16
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/116.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 17
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/117.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 18
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/118.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 19
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/119.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 20
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/120.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 21
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/121.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 22
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/122.m3u8
-#EXTINF:-1 tvg-name="",Live Sport Events 23
-#EXTGRP:Deportes
-http://194.67.196.19:80/hls/123.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",NBA TV HD US
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",PPV NBA n1 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n1.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n6
-#EXTGRP:Deportes
-http://45.148.26.188/hls/n6/index.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA1 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA1/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA2 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA2/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA3 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA3/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA4 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA4/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA5 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA5/chunks.m3u8
-
-#EXTINF:-1 tvg-name="",PPV NBA NBA6 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA6/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA7 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA7/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA8 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA8/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n2 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n2.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n7
-#EXTGRP:Deportes
-http://45.148.26.188/hls/n7/index.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA9 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA9/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n3 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n3.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n8
-#EXTGRP:Deportes
-http://45.148.26.188/hls/n8/index.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA NBA10 WeakSpell
-#EXTGRP:Deportes
-http://rtrswps.azureedge.net/live/NBA10/chunks.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n4 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n4.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n9
-#EXTGRP:Deportes
-http://45.148.26.188/hls/n9/index.m3u8
-#EXTINF:-1 tvg-name="",PPV NBA n5 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n5.m3u8
-
-#EXTINF:-1 tvg-name="",PPV NBA n6 Hockeynews
-#EXTGRP:Deportes
-http://77.247.109.92/hls/n6.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",NBA PPV Wizards
-#EXTGRP:Deportes
-http://185.53.89.183/hls/wizards.m3u8
 
-#EXTINF:-1 tvg-name="",NBA PPV Cavaliers
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-http://185.53.89.183/hls/cavaliers.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Pacers
-#EXTGRP:Deportes
-http://185.53.89.183/hls/pacers.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV 76ers
-#EXTGRP:Deportes
-http://185.53.89.183/hls/76ers.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Magic
-#EXTGRP:Deportes
-http://185.53.89.183/hls/magic.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Espn
-#EXTGRP:Deportes
-http://185.53.89.183/hls/espn.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Hawks
-#EXTGRP:Deportes
-http://185.53.89.183/hls/hawks.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Celtics
-#EXTGRP:Deportes
-http://185.53.89.183/hls/celtics.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Bulls
-#EXTGRP:Deportes
-http://185.53.89.183/hls/bulls.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Knicks
-#EXTGRP:Deportes
-http://185.53.89.183/hls/knicks.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV TrailBlazers
-#EXTGRP:Deportes
-http://185.53.89.183/hls/trailblazers.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Raptors
-#EXTGRP:Deportes
-http://185.53.89.183/hls/raptors.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Jazz
-#EXTGRP:Deportes
-http://185.53.89.183/hls/jazz.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Kings
-#EXTGRP:Deportes
-http://185.53.89.183/hls/kings.m3u8
+https://waldmtr3s.github.io/mpago.mp4
 
 
-#EXTINF:-1 tvg-name="",NBA PPV Tnt
-#EXTGRP:Deportes
-http://185.53.89.183/hls/tnt.m3u8
 
-#EXTINF:-1 tvg-name="",NBA PPV Suns
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-http://185.53.89.183/hls/suns.m3u8
+https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",NBA PPV Pelicans
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-http://185.53.89.183/hls/pelicans.m3u8
+https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",NBA PPV Lakers
-#EXTGRP:Deportes
-http://185.53.89.183/hls/lakers.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Rockets
-#EXTGRP:Deportes
-http://185.53.89.183/hls/rockets.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Pistons
-#EXTGRP:Deportes
-http://185.53.89.183/hls/pistons.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Bucks
-#EXTGRP:Deportes
-http://185.53.89.183/hls/bucks.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Heat
-#EXTGRP:Deportes
-http://185.53.89.183/hls/heat.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Mavericks
-#EXTGRP:Deportes
-http://185.53.89.183/hls/mavericks.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Nuggets
-#EXTGRP:Deportes
-http://185.53.89.183/hls/nuggets.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Grizzlies
-#EXTGRP:Deportes
-http://185.53.89.183/hls/grizzlies.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Timberwolves
-#EXTGRP:Deportes
-http://185.53.89.183/hls/timberwolves.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Hornets
-#EXTGRP:Deportes
-http://185.53.89.183/hls/hornets.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Spurs
-#EXTGRP:Deportes
-http://185.53.89.183/hls/spurs.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Nets
-#EXTGRP:Deportes
-http://185.53.89.183/hls/nets.m3u8
-#EXTINF:-1 tvg-name="",NBA PPV Thunder
-#EXTGRP:Deportes
-http://185.53.89.183/hls/thunder.m3u8
-
-#EXTINF:-1 tvg-name="",NBA PPV Warriors
-#EXTGRP:Deportes
-http://185.53.89.183/hls/warriors.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -4188,143 +2119,11 @@ https://waldmtr3s.github.io/mpago.mp4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-name="",MLB Network HDTV (MLBHD)
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/mlb/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Angels
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/angels/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Athletics
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/athletics/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Brewers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/brewers/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Royals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/royals/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Yankees
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/yankees/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Nationals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/nationals/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Reds
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/reds/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Tigers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/tigers/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Braves
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/braves/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Phillies
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/phillies/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV White Sox
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/whitesox/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Astros
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/astros/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Cardinals
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/cardinals/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV DiamondBacks
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/diamondbacks/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Dodgers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com:80/hls/dodgers/chunks.m3u8
 
-#EXTINF:-1 tvg-name="",MLB PPV Marlins
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Indians
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/indians/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Red Sox
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/redsox/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Twins
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/twins/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Mariners
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Cubs
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/cubs/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Orioles
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/orioles/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Mets
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/mets/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Giants
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/giants/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Rays
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rays/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Blue Jays
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/jays/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Rockies
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rockies/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Pirates
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/pirates/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Rangers
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/rangers/chunks.m3u8
-#EXTINF:-1 tvg-name="",MLB PPV Padres
-#EXTGRP:Deportes
-http://g.givemenbastreams.com/hls/padres/chunks.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="" tvg-ID="SONY.TEN.1.HD.in",Sony Ten 1
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="SONY.TEN.2.HD.in",SONY TEN 2
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="SONY.TEN.3.HD.in",Sony Ten 3
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Sony.Ten.4.in",Sony Ten 4
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_4_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="SONY.SIX.HD.in",Sony SIX
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.1.Hindi.HD.in",Star Sports 1 Hindi
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.2.in",STAR Sports 2
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.3.in",Star Sports 3
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.Tamil.in",Star Sports 1 Tamil
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.Select.1.HD.in",Star Sports Select 1
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="Star.Sports.Select.2.HD.in",Star Sports Select 2
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="" tvg-ID="T.Sports.in",T Sports
-#EXTGRP:Deportes
-http://212.224.98.196:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-name="",tigo sports
-#EXTGRP:Deportes
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
 #EXTINF:-1 tvg-name="",beIN SPORTS XTRA
 #EXTGRP:Deportes
@@ -4333,47 +2132,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTGRP:Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-name="",Bein Sports 1 Premium HD QA
+
+
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-name="",Bein Sports 1 Premium HD QA
-#EXTGRP:Deportes
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 tvg-name="",Bein Sport AR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/beinsportar/index.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 1 HD AR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1 tvg-name="",Bein Sports 2 Premium HD QA
-#EXTGRP:Deportes
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 tvg-name="",Bein Sports 2 Premium HD QA
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",Bein Sports 2 HD AR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-
-#EXTINF:-1 tvg-name="",Bein Sports 3 Premium HD QA
-#EXTGRP:Deportes
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1 tvg-name="",BeinSport 3 AR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",BeinSport 4 AR
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-
-
-
+https://waldmtr3s.github.io/mpago.mp4
 
 
 
@@ -4382,575 +2145,18 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8
 https://waldmtr3s.github.io/mpago.mp4
 
 
-#EXTINF:-1 tvg-name="",TVP Sport HD PL
-#EXTGRP:Deportes
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/index.m3u8
-#EXTINF:-1 tvg-name="",Canal+ Sport FHD PL
-#EXTGRP:Deportes
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
-#EXTINF:-1 tvg-name="",Canal+ Sport 2 HD PL
-#EXTGRP:Deportes
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport2_polska_250/1/1/index.m3u8
-#EXTINF:-1 tvg-name="",Eleven Sports 1 HD PL
-#EXTGRP:Deportes
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-name="",Eleven Sports 2 HD PL
-#EXTGRP:Deportes
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-name="",QAZSport KZ
-#EXTGRP:Deportes
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 tvg-name="",QAZ Sport KZJ (op2)
-#EXTGRP:Deportes
-http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 CN
-#EXTGRP:Deportes
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 CN (op2)
-#EXTGRP:Deportes
-http://223.82.250.72/live/cctv-5/1.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 CN (op3)
-#EXTGRP:Deportes
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 CN (op4)
-#EXTGRP:Deportes
-http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
 
-#EXTINF:-1 tvg-name="",CCTV 5 + CN
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 + CN (op2)
-#EXTGRP:Deportes
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 + CN (op3)
-#EXTGRP:Deportes
-http://223.82.250.72/live/hdcctv05plus/1.m3u8
-
-#EXTINF:-1 tvg-name="",CCTV 5 + HD CN (op4)
-#EXTGRP:Deportes
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-name="",CCTV 5 + HD CN (op5)
-#EXTGRP:Deportes
-http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
-
-
-
-
-#EXTINF:-1 tvg-name="",Arena Sport 1
-#EXTGRP:Deportes
-http://93.157.62.180/ArenaSport1/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="",Arena Sport 2
-#EXTGRP:Deportes
-http://93.157.62.180/ArenaSport2/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="",Arena Sport 3
-#EXTGRP:Deportes
-http://93.157.62.180/ArenaSport3/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="",Arena Sport 4
-#EXTGRP:Deportes
-http://93.157.62.180/ArenaSport4/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",Arena Sport 5
-#EXTGRP:Deportes
-http://93.157.62.180/ArenaSport5/index.m3u8
-
-#EXTINF:-1 tvg-name="",SuperSport 1
-#EXTGRP:Deportes
-http://93.157.62.180:80/Supersport1/index.m3u8
-#EXTINF:-1 tvg-name="",Supersport 1 (op2)
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_1/index.m3u8
-
-#EXTINF:-1 tvg-name="",SuperSport 2
-#EXTGRP:Deportes
-http://93.157.62.180:80/Supersport2/index.m3u8
-#EXTINF:-1 tvg-name="",Supersport 2 (op2)
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_2/index.m3u8
-#EXTINF:-1 tvg-name="",Supersport 2 (op3)
-#EXTGRP:Deportes
-https://5.254.89.106:7090/8734/index.m3u8
-#EXTINF:-1 tvg-name="",SuperSport 3
-#EXTGRP:Deportes
-http://93.157.62.180:80/Supersport3/index.m3u8
-#EXTINF:-1 tvg-name="",Supersport 3 (op2)
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_3/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",SuperSport 4
-#EXTGRP:Deportes
-http://93.157.62.180:80/Supersport4/index.m3u8
-#EXTINF:-1 tvg-name="",Supersport 4 (op2)
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_4/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",SuperSport 5
-#EXTGRP:Deportes
-http://93.157.62.180:80/Supersport5/index.m3u8
-
-#EXTINF:-1 tvg-name="",Supersport 5 (op2)
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_5/index.m3u8
-#EXTINF:-1 tvg-name="",SuperSport 6
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_6/index.m3u8
-
-#EXTINF:-1 tvg-name="",beIN Sport 1 AL
-#EXTGRP:Deportes
-https://5.254.89.106:7090/8736/index.m3u8
-#EXTINF:-1 tvg-name="",RTSHSport AL
-#EXTGRP:Deportes
-http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:-1 tvg-name="",RTSHSport AL (op2)
-#EXTGRP:Deportes
-https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport News
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_News/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 1
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_1/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 1 (op2)
-#EXTGRP:Deportes
-https://5.254.81.2:7090/8796/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 1 (op3)
-#EXTGRP:Deportes
-https://5.254.89.106:7090/8796/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 1 (op4)
-#EXTGRP:Deportes
-http://93.157.62.180/TringSport1HD/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 2
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_2/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 2 (op2)
-#EXTGRP:Deportes
-https://5.254.81.2:7090/8797/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 2 (op3)
-#EXTGRP:Deportes
-https://5.254.89.106:7090/8797/index.m3u8
-
-#EXTINF:-1 tvg-name="",Tring Sport 2 (op4)
-#EXTGRP:Deportes
-http://93.157.62.180/TringSport2HD/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 3
-#EXTGRP:Deportes
-http://flu.hdtv112.com:8080/SPORT:_Tring_sport_3/index.m3u8
-#EXTINF:-1 tvg-name="",Tring Sport 3 (op2)
-#EXTGRP:Deportes
-http://93.157.62.180/TringSport3HD/index.m3u8
-#EXTINF:-1 tvg-name="",DAZN AL
-#EXTGRP:Deportes
-https://5.254.89.106:7090/8799/index.m3u8
-#EXTINF:-1 tvg-name="",KSport 1
-#EXTGRP:Deportes
-http://93.157.62.180:80/KSport1/index.m3u8
-#EXTINF:-1 tvg-name="",KSport 2
-#EXTGRP:Deportes
-http://93.157.62.180:80/KSport2/index.m3u8
-#EXTINF:-1 tvg-name="",KSport 3
-#EXTGRP:Deportes
-http://93.157.62.180:80/KSport3/index.m3u8
-#EXTINF:-1 tvg-name="",KSport 4
-#EXTGRP:Deportes
-http://93.157.62.180:80/KSport4/index.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-ID="Astro.Arena.HD.my",Astro Arena HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/590383677711916427838454.m3u8?
-
-#EXTINF:-1 tvg-name="" tvg-ID="Astro.SuperSport.HD.my",Astro SuperSport HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/197624546060868296054470.m3u8?
-
-#EXTINF:-1 tvg-name="" tvg-ID="Astro.SuperSport.2.HD.my",Astro SuperSport 2 HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/744400635472014783693941.m3u8?
-
-#EXTINF:-1 tvg-name="" tvg-ID="Astro.SuperSport.3.HD.my",Astro SuperSport 3 HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/866109907624297419597997.m3u8?
-
-#EXTINF:-1 tvg-name="" tvg-ID="Astro.SuperSport.4.HD.my",Astro SuperSport 4 HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/004948684758244535020050.m3u8?
-
-#EXTINF:-1 tvg-name="" tvg-ID="FOX.Sports.HD.my",FOX Sports HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8?
-#EXTINF:-1 tvg-name="",FOX Sports 1 MLY (op2)
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
-
-#EXTINF:-1 tvg-name="" tvg-ID="FOX.Sports.2.HD.my",FOX Sports 2 HD
-#EXTGRP:Deportes
-http://194.233.68.128:5080/LiveApp/streams/468222652627503230280505.m3u8?
-#EXTINF:-1 tvg-name="",FOX Sports 2 MLY (op2)
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745745
-
-#EXTINF:-1 tvg-name="" tvg-ID="FOX.Sports.3.HD.my",FOX Sports 3 HD
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
-#EXTINF:-1 tvg-name="" tvg-ID="beIN.Sports.HD.my",beIN Sports HD
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
-#EXTINF:-1 tvg-name="" tvg-ID="beIN.Sports.MAX.HD.my",beIN Sports MAX HD
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
-#EXTINF:-1 tvg-name="" tvg-ID="Eurosport.HD.my",Eurosport HD
-#EXTGRP:Deportes
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745749
-
-#EXTINF:-1 tvg-name="",SK1
-#EXTGRP:Deportes
-http://93.157.62.180:80/SK1HD/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",SK3 
-#EXTGRP:Deportes
-http://93.157.62.180:80/SK3HD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-name="",Nova Sport 1 HD CZ
-#EXTGRP:Deportes
-https://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="",Nova Sport 2 HD CZ
-#EXTGRP:Deportes
-https://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_hq.m3u8
-
+https://waldmtr3s.github.io/mpago.mp4
 
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 tvg-name="",SPORT TV 1 HD PT
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",SPORT TV 1 HD PT
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1 tvg-name="",SPORT TV 2 HD PT
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",SPORT TV 2 HD PT
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/sporttv2/index.m3u8
-#EXTINF:-1 tvg-name="",SPORT TV 3 HD PT
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",SPORT TV 3 HD PT
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/sporttv3/index.m3u8
-#EXTINF:-1 tvg-name="",SPORT TV 4 PT
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",SPORT TV 4 PT
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/sporttv4/index.m3u8
-#EXTINF:-1 tvg-name="",SPORT TV 5 PT
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",SPORT TV 5 PT
-#EXTGRP:Deportes
-http://93.152.174.144:4000/play/sporttv5/index.m3u8
 
 
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-name="",premier football 1 hd th
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",premier football 2 hd th
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",premier football 3 hd th
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",premier football 4 hd th
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",premier football 5 hd th 
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",PPTV asia
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",fox sport 1 asia
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",fox sport 1 asia (op2)
-#EXTGRP:Deportes
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="",fox sport 2 asia
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",fox sport 2 asia (op2)
-#EXTGRP:Deportes
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="",fox sport 3 asia
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",fox sport 3 asia (op2)
-#EXTGRP:Deportes
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="",RTS1 SZ
-#EXTGRP:Deportes
-https://srv1.iptviliria.com/RTS1HD/mono.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sports HD
-#EXTGRP:Deportes
-https://95.213.224.188/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 1 RU (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 1 RU (op3)
-#EXTGRP:Deportes
-http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 1 RU (op4)
-#EXTGRP:Deportes
-http://82.209.218.116:8181/play/Inetk2045/index.m3u8
-
-#EXTINF:-1 tvg-name="",Setanta Sports 2
-#EXTGRP:Deportes
-https://95.213.224.188/setantaplusru.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 2 RU (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/setantaplusru.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 2 RU (op3)
-#EXTGRP:Deportes
-http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 2 RU (op4)
-#EXTGRP:Deportes
-http://82.209.218.116:8181/play/Inetk2046/index.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 2 RU (op5)
-#EXTGRP:Deportes
-http://118.47.168.157:8080/play/setanta2/index.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sports Ukraine HD
-#EXTGRP:Deportes
-https://95.213.224.188/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 1 UKR (op2)
-#EXTGRP:Deportes
-https://5.61.37.241/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="",Setanta Sport 1 UKR (op3)
-#EXTGRP:Deportes
-https://46.21.250.207/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="",Premium Sport 1 UKR 
-#EXTGRP:Deportes
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-name="",Sport1 UKR 
-#EXTGRP:Deportes
-https://95.213.224.173/sport1ua.m3u8
-#EXTINF:-1 tvg-name="",Матч! футбол 1
-#EXTGRP:Deportes
-https://95.213.224.180/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-name="",Match! football 1 ru (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/ntvmatchfoot1.m3u8
-
-
-#EXTINF:-1 tvg-name="",Match! football 1 ru (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/175/index.m3u8
-
-#EXTINF:-1 tvg-name="",футбол 1
-#EXTGRP:Deportes
-https://95.213.224.185/uafootballua1.m3u8
-#EXTINF:-1 tvg-name="",Match! football 1 UA (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/uafootballua1.m3u8
-#EXTINF:-1 tvg-name="",Матч! футбол 2
-#EXTGRP:Deportes
-https://95.213.224.180/mfootball2rus.m3u8
-#EXTINF:-1 tvg-name="",Match! football 2 ru (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/mfootball2rus.m3u8
-
-#EXTINF:-1 tvg-name="",Match! football 2 ru (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/176/index.m3u8
-#EXTINF:-1 tvg-name="",футбол 2
-#EXTGRP:Deportes
-https://95.213.224.180/fooootball2.m3u8
-#EXTINF:-1 tvg-name="",Match! football 2 UA (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/fooootball2.m3u8
-#EXTINF:-1 tvg-name="",Матч! футбол 3
-#EXTGRP:Deportes
-https://95.213.224.187/rumatchf3.m3u8
-#EXTINF:-1 tvg-name="",Match! football 3 ru (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/rumatchf3.m3u8
-
-#EXTINF:-1 tvg-name="",Match! football 3 ru (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/177/index.m3u8
-#EXTINF:-1 tvg-name="",футбол 3 HD
-#EXTGRP:Deportes
-https://95.213.224.187/football3ua.m3u8
-#EXTINF:-1 tvg-name="",Match! football 3 UA (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/football3ua.m3u8
-
-
-#EXTINF:-1 tvg-name="",матч тв
-#EXTGRP:Deportes
-https://95.213.172.221/ooomatch.m3u8
-#EXTINF:-1 tvg-name="",Match! ru (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/ooomatch.m3u8
-
-#EXTINF:-1 tvg-name="",Match! ru (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/6/index.m3u8
-#EXTINF:-1 tvg-name="",Match! HD ru
-#EXTGRP:Deportes
-http://188.113.190.12/167/index.m3u8
-#EXTINF:-1 tvg-name="",матч премьер
-#EXTGRP:Deportes
-https://185.82.203.145/mpremierrus.m3u8
-#EXTINF:-1 tvg-name="",Match! premier ru (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/mpremierrus.m3u8
-#EXTINF:-1 tvg-name="",Match! premier ru (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/103/index.m3u8
-#EXTINF:-1 tvg-name="",Match! premier ru (op4)
-#EXTGRP:Deportes
-http://118.47.168.157:8080/play/a02l/index.m3u8
-#EXTINF:-1 tvg-name="",матч! игра
-#EXTGRP:Deportes
-https://46.21.250.207/migra.m3u8
-#EXTINF:-1 tvg-name="",Match! Game RU (op2)
-#EXTGRP:Deportes
-http://188.113.190.12/326/index.m3u8
-#EXTINF:-1 tvg-name="",Матч! Боец
-#EXTGRP:Deportes
-https://95.213.172.213/matchboetsru.m3u8
-#EXTINF:-1 tvg-name="",Match! Box ru (op2)
-#EXTGRP:Deportes
-https://185.198.56.67/matchboetsru.m3u8
-#EXTINF:-1 tvg-name="",матч! планета
-#EXTGRP:Deportes
-https://185.106.121.101/matchplanetarus.m3u8
-#EXTINF:-1 tvg-name="",Match! planeta ru  (op2)
-#EXTGRP:Deportes
-https://46.21.250.207/matchplanetarus.m3u8
-#EXTINF:-1 tvg-name="",Match! planeta ru  (op3)
-#EXTGRP:Deportes
-https://95.213.172.213/matchplanetarus.m3u8
-#EXTINF:-1 tvg-name="",матч! арена
-#EXTGRP:Deportes
-https://185.198.56.67/rumatcharena.m3u8
-#EXTINF:-1 tvg-name="",Match! Arena RU (op2)
-#EXTGRP:Deportes
-https://95.213.224.181/rumatcharena.m3u8
-#EXTINF:-1 tvg-name="",Match! Arena HD RU 
-#EXTGRP:Deportes
-http://188.113.190.12/325/index.m3u8
-#EXTINF:-1 tvg-name="",Motorsport.TV RU 
-#EXTGRP:Deportes
-http://188.113.190.12/220/index.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Deportes
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-name="",EuroSport1HD
-#EXTGRP:Deportes
-http://91.126.141.201:1935/live/eurosport1nntv/index.m3u8
-
-
-
-#EXTINF:-1 tvg-name="",EuroSport 2
-#EXTGRP:Deportes
-http://91.126.141.201:1935/live/eurosport2hdnntv/index.m3u8
-
-
-#EXTINF:-1 tvg-name="",EuroSport 1 HD UK
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="",EuroSport 2 HD UK
-#EXTGRP:Deportes
-https://smart-tv.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="",EuroSport 1
-#EXTGRP:Deportes
-https://95.213.224.173/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 HD
-#EXTGRP:Deportes
-https://46.21.250.207/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 RU (op3)
-#EXTGRP:Deportes
-https://185.198.56.67/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 RU (op4)
-#EXTGRP:Deportes
-https://185.106.121.101/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 RU (op5)
-#EXTGRP:Deportes
-https://185.82.203.145/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 RU (op6)
-#EXTGRP:Deportes
-https://5.61.37.241/eurosport1ru.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 1 RU (op7)
-#EXTGRP:Deportes
-http://188.113.190.12/82/index.m3u8
-
-#EXTINF:-1 tvg-name="",EuroSport 2
-#EXTGRP:Deportes
-https://95.213.224.188/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 HD
-#EXTGRP:Deportes
-https://46.21.250.207/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 RU (op3)
-#EXTGRP:Deportes
-https://185.198.56.67/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 RU (op4)
-#EXTGRP:Deportes
-https://185.106.121.101/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 RU (op5)
-#EXTGRP:Deportes
-https://185.82.203.145/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 RU (op6)
-#EXTGRP:Deportes
-https://5.61.37.241/ruseurosport2.m3u8
-#EXTINF:-1 tvg-name="",EuroSport 2 RU (op7)
-#EXTGRP:Deportes
-http://188.113.190.12/83/index.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Deportes
 https://waldmtr3s.github.io/mpago.mp4
@@ -4960,42 +2166,6 @@ https://waldmtr3s.github.io/mpago.mp4
 
 
 
-
-#EXTINF:-1 tvg-name="",rtl
-#EXTGRP:Deportes
-http://185.226.88.3:1036/live/backup/backup/42.m3u8
-
-#EXTINF:-1 tvg-name="",rtl 2
-#EXTGRP:Deportes
-http://185.226.88.3:1036/live/backup/backup/41.m3u8
-
-
-#EXTINF:-1 tvg-name="",ZDF (op2)
-#EXTGRP:Deportes
-http://185.226.88.3:1036/live/backup/backup/38.m3u8
-
-#EXTINF:-1 tvg-name="",ESPN US
-#EXTGRP:Deportes
-http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 tvg-name="",ESPN2 US
-#EXTGRP:Deportes
-http://stream2.grandma.fit/espn2.m3u8
-
-#EXTINF:-1 tvg-name="",ESPN2 AUSNZ (op3)
-#EXTGRP:Deportes
-http://188.113.190.12/168/index.m3u8
-
-#EXTINF:-1 tvg-name="",ESPN3 US
-#EXTGRP:Deportes
-http://stream2.grandma.fit/espn3.m3u8
-#EXTINF:-1 tvg-name="",ESPNU US
-#EXTGRP:Deportes
-http://stream2.grandma.fit/espnu.m3u8
-
-#EXTINF:-1 tvg-name="",Fox Sports 1 US
-#EXTGRP:Deportes
-http://stream2.grandma.fit/fs1.m3u8
 
 
 
@@ -5116,41 +2286,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Noticias y Documentales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",RT Noticias
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="",RT
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-name="",CNN
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Cable News Network International (CNNI)
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Cable News Network en Español (Mexico) (CNNMEX)
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Fox News
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Bloomberg
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",BBC World News
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",Al Jazeera News
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",DW Noticias
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
-#EXTINF:-1 tvg-name="",France24 En Español 
-#EXTGRP:Noticias y Documentales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (op2)
 #EXTGRP:Noticias y Documentales
@@ -5158,57 +2293,16 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Noticias y Documentales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="Cable News Network en Español (Mexico) (CNNMEX)",CNN en Español
-#EXTGRP:Noticias y Documentales
-http://54.215.227.94:8000/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-name="Cable News Network International (CNNI)",CNN Internacional
-#EXTGRP:Noticias y Documentales
-http://54.215.227.94:8000/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-name="",RT Español
-#EXTGRP:Noticias y Documentales
-http://54.215.227.94:8000/play/a0cn/index.m3u8
-#EXTINF:-1 tvg-name="TeleFórmula" tvg-ID="TeleFormula.mx",Teleformula
-#EXTGRP:Noticias y Documentales
-http://54.215.227.94:8000/play/a0be/index.m3u8
-#EXTINF:-1 tvg-name="Milenio TV" tvg-ID="MilenioTV.mx",Milenio
-#EXTGRP:Noticias y Documentales
-http://54.215.227.94:8000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-name="Cable News Network en Español (Mexico) (CNNMEX)",CNN en Español
-#EXTGRP:Noticias y Documentales
-http://51.79.18.128:8081/LATINO%7CCNN/LATINO%7CCNN/playlist.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Noticias y Documentales
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",DW EN ESPANOL
-#EXTGRP:Noticias y Documentales
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="",DW
-#EXTGRP:Noticias y Documentales
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-name="",CBS NEWS
-#EXTGRP:Noticias y Documentales
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-name="",NBC NEWS
-#EXTGRP:Noticias y Documentales
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
-#EXTINF:-1 tvg-name="CNBC",CNBC (YT)
-#EXTGRP:Noticias y Documentales
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNBC/live
-
-#EXTINF:-1 tvg-name="",BBC WORLD NEWS
-#EXTGRP:Noticias y Documentales
-http://ott-cdn.ucom.am/s24/04.m3u8
 
 #EXTINF:-1 tvg-name="",FRANCE 24 EN ESPAÑOL
 #EXTGRP:Noticias y Documentales
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-name="",FRANCE 24
-#EXTGRP:Noticias y Documentales
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-name="",CGTN NEWS
 #EXTGRP:Noticias y Documentales
@@ -5222,9 +2316,6 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTGRP:Noticias y Documentales
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 
-#EXTINF:-1 tvg-name="",MOSCU 24
-#EXTGRP:Noticias y Documentales
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-name="",World of Business Ideas (WOBI)
 #EXTGRP:Noticias y Documentales
@@ -5242,10 +2333,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Noticias y Documentales
 https://waldmtr3s.github.io/mpago.mp4
-
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
+
 
 #EXTINF:-1 tvg-name="",MTV Live (MTVNHD European for US Lineups) (MTVLIVHD)
 #EXTGRP:Musica
@@ -5269,7 +2360,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Telehit Musica (VIX)
 #EXTGRP:Musica
 https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist_1920x1080.m3u8
- 
+
 #EXTINF:-1 tvg-name="",Telehit (VIX)
 #EXTGRP:Musica
 https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist_1920x1080.m3u8
@@ -5287,61 +2378,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Bandamax (VIX)
 #EXTGRP:Musica
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
-#EXTGRP:Musica
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="MTV Latino" tvg-ID="MTVLatinAmericaNorth.mx",MTV Latino
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0ak/index.m3u8
-#EXTINF:-1 tvg-name="",MTV HITS Europa
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-name="Video Rola" tvg-ID="VideoRola.mx",VIDEO ROLA
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-name="",MTV 00'S
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-name="",HTV
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-name="",TLR
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0em/index.m3u8
-#EXTINF:-1 tvg-name="Exa TV (EXATV)" tvg-ID="ExaTV.mx",EXA TV
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-name="",La Mejor TV
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-name="",Ritmo Digital
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j3/index.m3u8
-#EXTINF:-1 tvg-name="",Decades
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j4/index.m3u8
-#EXTINF:-1 tvg-name="",Rock Clasico
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-name="",EXA FM CDMX
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-name="",LA MEJOR FM
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j8/index.m3u8
-#EXTINF:-1 tvg-name="",Fiesta Latina
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-name="",Stereo Rey
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0ja/index.m3u8
-#EXTINF:-1 tvg-name="",Ambient
-#EXTGRP:Musica
-http://54.215.227.94:8000/play/a0jb/index.m3u8
+
 #EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
 
+#EXTINF:-1 tvg-name="",DONACIONES EN (ALT)
+#EXTGRP:Musica
+https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
@@ -5378,102 +2422,13 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 
-
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Musica
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:FHD
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-name="",Azteca Uno FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",ADN40 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL184/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Las Estrellas FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1768/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Las Estrellas -2 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2233/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",ForoTV FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL4/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Imagen Tv FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Canal 5 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1769/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Canal 6 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2521/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Azteca 7 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Nueve FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1783/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Once FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1942/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",TVC FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3322/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-name="",Canal 4 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2274/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Milenio FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1250/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",El Financiero Bloomberg FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1649/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Fox FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Warner FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Universal FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",FX FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Hola! Tv FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",TruTV FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Az Clic FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL11/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Az Corazon FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL453/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",A3 Series FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-name="",Studio Universal FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1982/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Fox Sports FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL171/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",Fox Sports 2 FHD
-#EXTGRP:FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8
-#EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:FHD
-https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",Canal TP
 #EXTGRP:unsorted
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Familia TP
 #EXTGRP:unsorted
@@ -5481,42 +2436,4 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1977/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-name="",Canal TP FHD
 #EXTGRP:unsorted
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2361/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
-#EXTGRP:unsorted
-http://54.215.227.94:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
-#EXTGRP:unsorted
-http://54.215.227.94:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-name="Sextreme - Premium (SEXTR)",Sextreme
-#EXTGRP:unsorted
-http://54.215.227.94:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
-#EXTGRP:unsorted
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-name="Playboy TV Latin America and Iberia (PLYBY)",PLAY BOY
-#EXTGRP:unsorted
-http://190.92.95.37:8000/play/a0ow/index.m3u8
-
-#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
-#EXTGRP:unsorted
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-name="Venus International (VENUS)",VENUS
-#EXTGRP:unsorted
-http://190.92.95.37:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-name="",Pasiones
-#EXTGRP:unsorted
-http://190.83.119.67:8000/play/a0td/index.m3u8
-#EXTINF:-1 tvg-name="",Pasiones
-#EXTGRP:unsorted
-http://190.92.95.37:8000/play/a0td/index.m3u8
-#EXTINF:-1,Playboy TV
-#EXTGRP:unsorted
-http://45.175.61.242:4000/play/a07y/index.m3u8
-#EXTINF:-1,Sextreme
-#EXTGRP:unsorted
-http://45.175.61.242:4000/play/a09c/index.m3u8
-#EXTINF:-1,Sexy Hot
-#EXTGRP:unsorted
-http://45.175.61.242:4000/play/a09f/index.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1973/PROFILE03.m3u8
