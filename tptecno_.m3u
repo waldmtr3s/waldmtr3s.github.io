@@ -1366,9 +1366,46 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
 #EXTGRP:Peliculas
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
+#EXTGRP:Peliculas
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/hbo.eastern.us.m3u8
+
 #EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO 2
 #EXTGRP:Peliculas
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 tvg-name="HBO Signature",HBO Signature
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 tvg-name="HBO Family",HBO Family
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy",HBO Comedy
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 tvg-name="HBO Zone",HBO Zone
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-name="CINEMAX",CINEMAX
+#EXTGRP:Peliculas
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 tvg-name="ActionMAX",ActionMAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 tvg-name="5 Star MAX",5 Star MAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1 tvg-name="ThrillerMAX",ThrillerMAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1 tvg-name="MoreMAX",MoreMAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 tvg-name="MovieMAX",MovieMAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 tvg-name="OuterMAX",OuterMAX
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
 #EXTGRP:Peliculas
