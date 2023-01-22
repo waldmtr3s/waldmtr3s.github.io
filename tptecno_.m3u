@@ -232,7 +232,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas (VIX)
 #EXTGRP:Locales MX
-https://linear-413.frequency.stream/dist/vix/413/hls/master/playlist_1920x1080.m3u8
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Las Estrellas TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/497/1920x1080.m3u8
@@ -343,6 +343,9 @@ https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="Nueve" tvg-ID="Nueve.mx",Nueve (VIX)
+#EXTGRP:Locales MX
+https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="",Nu9ve TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/761/768x432.m3u8
@@ -1360,6 +1363,12 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTGRP:Peliculas
 https://waldmtr3s.github.io/mpago.mp4
 
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Mexico) (HBO2)",HBO 2
+#EXTGRP:Peliculas
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
 
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
 #EXTGRP:Peliculas
@@ -1788,30 +1797,54 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",ESPN Extra Centroamérica HDTV (ESPNXTRA)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",ESPN Extra Centroamérica HDTV (ESPNXTRA)
+#EXTGRP:Deportes
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=546379147&_cdn_timestamp=1674390095&_cdn_token=5b1e7cfa5d7f9ecaa86d994fe5c90b1e7971eba6
+
 #EXTINF:-1 tvg-name="",ESPN (Mexico) (ESPMX)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",ESPN (Mexico) (ESPMX)
+#EXTGRP:Deportes
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=546375411&_cdn_timestamp=1674389883&_cdn_token=0add9391db4323a08c8e5741beea1f96739313b3
+
 #EXTINF:-1 tvg-name="",ESPN 2 Latin North (Mexico) (ESPN2M)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",ESPN 2 Latin North (Mexico) (ESPN2M)
+#EXTGRP:Deportes
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=546378571&_cdn_timestamp=1674390062&_cdn_token=e152235f025764d44d354fdc2879a0732cde3d17
 
 #EXTINF:-1 tvg-name="",ESPN 3 North (Latin America) (ESPN3)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",ESPN 3 North (Latin America) (ESPN3)
+#EXTGRP:Deportes
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=546378435&_cdn_timestamp=1674390054&_cdn_token=3ef448d5b0fcd116a4020975681acc2f8d581231
 
 #EXTINF:-1 tvg-name="",Fox Sports Latin America (Cono Norte) (FSA)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",Fox Sports Latin America (Cono Norte) (FSA)
+#EXTGRP:Deportes
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=546379043&_cdn_timestamp=1674390088&_cdn_token=023451f233f0631cd81714c047bbb40d6ff80f97
+
 #EXTINF:-1 tvg-name="",Fox Sports 2 (Cono Norte) (FOXSP2)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2 (Web)
 #EXTGRP:Deportes
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (Cono Norte) (FOXSP2)",Fox Sports 2 (Web)
+#EXTGRP:Deportes
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=546374755&_cdn_timestamp=1674389849&_cdn_token=4c7cd05bcd687d8d60a1e81cf552e50eee3aaca6
 
 #EXTINF:-1 tvg-name="",Fox Sports 3 (Cono Norte) (FOXSP3)
 #EXTGRP:Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="",Fox Sports 3 (Cono Norte) (FOXSP3)
+#EXTGRP:Deportes
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=546374851&_cdn_timestamp=1674389854&_cdn_token=73d627504d52f9b9650fee0b4c5bee58f65ac5e6
 
 #EXTINF:-1 tvg-name="",Claro Sports 
 #EXTGRP:Deportes
