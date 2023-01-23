@@ -1409,19 +1409,19 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 #EXTGRP:Peliculas
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)" tvg-ID="HBOLatinAmerica.us",HBO
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Chile
 #EXTGRP:Peliculas
 http://209.45.3.210:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Argentina
 #EXTGRP:Peliculas
 http://209.45.52.14:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
 #EXTGRP:Peliculas
 http://45.175.164.232:5022/play/a0p8/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
 #EXTGRP:Peliculas
 http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Brasil
 #EXTGRP:Peliculas
 http://200.4.96.59:8041/play/a023/index.m3u8
 
