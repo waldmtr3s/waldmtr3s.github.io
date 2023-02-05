@@ -978,10 +978,10 @@ https://fujitv3.mov3.co/hls/fujitv.m3u8
 https://fujitv3.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="Nippon TV",Nippon TV JP 
 #EXTGRP:Internacionales
-https://ntv3.mov3.co/hls/ntv.m3u8
+https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="Nippon TV",Nippon TV JP (op2)
 #EXTGRP:Internacionales
-https://ntv3.mov3.co/hls/ntv.m3u8
+https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo (JOTX-DTV)",TV Tokyo JP 
 #EXTGRP:Internacionales
 http://main1.mov3.co/hls/main.m3u8
