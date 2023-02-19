@@ -1058,7 +1058,30 @@ https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-name="",BBC Home
 #EXTGRP:Internacionales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-name="",BBC One
+#EXTGRP:Internacionales
+http://146.19.16.205:8012/play/a06r/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One HD
+#EXTGRP:Internacionales
+http://87.212.248.44:60130/play/a05n/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One HD
+#EXTGRP:Internacionales
+http://86.89.104.199:60130/play/a05n/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One HD
+#EXTGRP:Internacionales
+http://87.212.248.44:60130/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One HD
+#EXTGRP:Internacionales
+http://86.89.104.199:60130/play/a05n/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One Scot
+#EXTGRP:Internacionales
+http://146.19.16.205:8012/play/a06v/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One Wal
+#EXTGRP:Internacionales
+http://146.19.16.205:8012/play/a06w/index.m3u8
+#EXTINF:-1 tvg-name="",BBC One Scot
+#EXTGRP:Internacionales
+http://146.19.16.205:8012/play/a06yindex.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:Internacionales
 https://waldmtr3s.github.io/mpago.mp4
