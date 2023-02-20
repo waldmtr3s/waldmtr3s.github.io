@@ -1427,18 +1427,30 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 #EXTGRP:Peliculas
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Chile
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
-http://209.45.3.210:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Argentina
+http://181.78.24.67:8010/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO
 #EXTGRP:Peliculas
-http://209.45.52.14:8000/play/a020/index.m3u8
+http://181.78.24.67:8010/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
 #EXTGRP:Peliculas
-http://45.175.164.232:5022/play/a0p8/index.m3u8
+http://181.174.115.86:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
 #EXTGRP:Peliculas
-http://190.83.119.67:8000/play/a0or/index.m3u8
+http://187.102.210.164:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
+#EXTGRP:Peliculas
+http://186.189.222.202:8001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
+#EXTGRP:Peliculas
+http://181.78.22.97:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
+#EXTGRP:Peliculas
+http://181.78.4.186:8000/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Latino
+#EXTGRP:Peliculas
+http://181.189.246.86:58004/play/a00t/index.m3u8
 #EXTINF:-1 tvg-name="HBO Latin America (West) (HBO)",HBO Brasil
 #EXTGRP:Peliculas
 http://200.4.96.59:8041/play/a023/index.m3u8
