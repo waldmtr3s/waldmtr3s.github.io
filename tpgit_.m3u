@@ -1806,7 +1806,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",F1TV (English)
 #EXTGRP:Deportes
-https://dyhiqyagdtfwtfgsddz.1stream.one/scripts/Nzg1OA==/1080p.m3u8
+http://77.247.109.15/live/s7/chunks.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist_1024x576.m3u8
