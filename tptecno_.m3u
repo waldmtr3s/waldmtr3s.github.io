@@ -700,7 +700,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="",aztv (op2)
 #EXTGRP:Niños
 http://azxtv.com/hls/stream.m3u8
-
+#EXTINF:-1 tvg-name="",AniPLUS (AnimeStation)
+#EXTGRP:Niños
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+#EXTINF:-1 tvg-name="",KanadeTV (op2)
+#EXTGRP:Niños
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-name="",Mi TV Clasica
 #EXTGRP:Niños
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
