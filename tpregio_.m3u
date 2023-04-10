@@ -332,6 +332,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE03.m3u8
 #EXTGRP:Locales MX
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist_1024x576.m3u8
 
+#EXTINF:-1 tvg-name="",Televis Mty (YT)
+#EXTGRP:Locales MX
+https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+
 #EXTINF:-1 tvg-name="",CANAL 28 NL
 #EXTGRP:Locales MX
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
@@ -351,6 +355,9 @@ https://v-sd.mybtv.net/live/761/768x432.m3u8
 #EXTINF:-1 tvg-name="",Televis Gdl (VIX)
 #EXTGRP:Locales MX
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-name="",Televis Gdl (YT)
+#EXTGRP:Locales MX
+https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 tvg-name="",Televisa del Bajio
 #EXTGRP:Locales MX
@@ -1100,6 +1107,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86d
 #EXTINF:-1 tvg-name="",Minuto Para Ganar
 #EXTGRP:Internacionales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="",ViX XHDRBZ (Comedia)
+#EXTGRP:Internacionales
+https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/20a25c1f-64d5-48d9-8cc5-166f1e1597be/2.m3u8
+
 #EXTINF:-1 tvg-name="",Comedy Central Pluto TV
 #EXTGRP:Internacionales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
