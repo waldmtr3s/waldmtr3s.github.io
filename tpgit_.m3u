@@ -274,6 +274,9 @@ https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
+#EXTINF:-1 tvg-name="",Canal 5 (ext)
+#EXTGRP:Locales MX
+http://jagertv.us:2999/skycaster/cambio/32
 #EXTINF:-1 tvg-name="Multimedios Plus",Canal 6 Mty
 #EXTGRP:Locales MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE03.m3u8
@@ -308,7 +311,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1932/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Azteca 7 TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
-
+#EXTINF:-1 tvg-name="",Azteca 7 (ext)
+#EXTGRP:Locales MX
+http://jagertv.us:2999/skycaster/cambio/26
 #EXTINF:-1 tvg-name="",XHIMT Azteca 7 DF (AZT-7)
 #EXTGRP:Locales MX
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -1827,6 +1832,9 @@ https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX) op2
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/dist/vix/dist/localnow/348/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-name="",TUDN (ext)
+#EXTGRP:Deportes
+http://jagertv.us:2999/skycaster/cambio/291
 #EXTINF:-1 tvg-name="",TUDN (VIX)
 #EXTGRP:Deportes
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
