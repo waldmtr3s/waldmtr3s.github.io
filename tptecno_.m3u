@@ -267,7 +267,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 (VIX)
 #EXTGRP:Locales MX
-https://linear-351.frequency.stream/dist/vix/351/hls/master/playlist_1024x576.m3u8
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",Canal 5 TJ
 #EXTGRP:Locales MX
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
@@ -698,7 +698,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="",Bitme (VIX)
 #EXTGRP:Niños
-https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist_1024x576.m3u8
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="wmedia",wmedia
 #EXTGRP:Niños
 http://193.122.159.148/live?app=on&stream=test
@@ -1824,25 +1824,22 @@ https://wwtastshas.azureedge.net/live/F1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="",Afizzionados (VIX)
 #EXTGRP:Deportes
-https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist_1024x576.m3u8
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",Afizzionados (VIX) op2
 #EXTGRP:Deportes
 https://linear-348.frequency.stream/dist/vix/dist/localnow/348/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-name="",TUDN op2
+#EXTINF:-1 tvg-name="",TUDN (VIX)
 #EXTGRP:Deportes
-http://45.182.21.251:33334/play/a07y/index.m3u8
-#EXTINF:-1 tvg-name="",TUDN HD USA op2
-#EXTGRP:Deportes
-http://45.182.21.251:33334/play/a077/index.m3u8
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",TUDN (VIX) op2
 #EXTGRP:Deportes
 https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="",Zona TUDN (VIX) op2
+#EXTINF:-1 tvg-name="",UNIVISION Deportes (VIX)
 #EXTGRP:Deportes
-https://linear-357.frequency.stream/dist/vix/dist/localnow/357/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-name="",FUTBOL ESPAÑA 1 (VIX) op2
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="",Zona TUDN (VIX)
+#EXTGRP:Deportes
+https://linear-347.frequency.stream/347/hls/master/playlist.m3u8#EXTINF:-1 tvg-name="",FUTBOL ESPAÑA 1 (VIX) op2
 #EXTGRP:Deportes
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="",FUTBOL ESPAÑA 2 (VIX) op2
