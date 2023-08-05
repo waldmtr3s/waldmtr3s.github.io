@@ -31,12 +31,16 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2129.m3u8
 #EXTINF:-1 group-title="MEXICO",Azteca Uno (op2)
 http://166.0.208.26:4481/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno (alt)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1  group-title="MEXICO",ADN 40
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16504.m3u8
+#EXTINF:-1  group-title="MEXICO",ADN 40 (alt)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37791.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/52807.m3u8
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD (op2)
 http://166.0.208.26:4481/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
@@ -64,6 +68,8 @@ http://166.0.208.26:4481/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r56
 
 #EXTINF:-1 group-title="MEXICO",Multimedio Monterrey HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92556.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedio Monterrey (alt)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 group-title="MEXICO",Mulltimedios TV FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37796.m3u8
@@ -77,10 +83,20 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/33406.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/33407.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS COSTA RICA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/33408.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS COSTA RICA (alt)
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 group-title="MEXICO",Multimedios Guadalajara SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/10119.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Guadalajara (alt)
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
 #EXTINF:-1 group-title="MEXICO",Multimedios Laguna SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/10086.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Laguna (alt)
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+
 #EXTINF:-1 group-title="MEXICO",MILENIO TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37795.m3u8
 #EXTINF:-1 group-title="MEXICO",MILENIO TV (op2)
@@ -90,19 +106,28 @@ http://23.237.29.98:4481/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16514.m3u8
 #EXTINF:-1  group-title="MEXICO",AZTECA 7 (op2)
 http://166.0.208.26:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MEXICO",AZTECA 7 (alt)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 group-title="MEXICO",Azteca 7 MTY SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2125.m3u8
 #EXTINF:-1 group-title="MEXICO",A Mas SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37800.m3u8
+#EXTINF:-1 group-title="MEXICO",A Mas (alt)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 group-title="MEXICO",Nu9ve SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2448.m3u8
 
 #EXTINF:-1 group-title="MEXICO",TELEVISA MONTERREY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2178.m3u8
-
+#EXTINF:-1 group-title="MEXICO",TELEVISA MONTERREY (YT)
+https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
 #EXTINF:-1 group-title="MEXICO",Televisa 4 GUADALAJARA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11800.m3u8
+#EXTINF:-1 group-title="MEXICO",Televisa 4 GUADALAJARA (YT)
+https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+
 #EXTINF:-1 group-title="MEXICO",i |TELEVISA PUEBLA (XHP-HD)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51632.m3u8
 #EXTINF:-1 group-title="MEXICO",Televisa Cd.Juarez
@@ -117,6 +142,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51630.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51626.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 28 NL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92279.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 28 NL (op2)
+https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+
 #EXTINF:-1 group-title="MEXICO",XHTV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92557.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 44 Chihuahua
@@ -356,7 +385,12 @@ http://166.0.208.26:4481/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9
 
 #EXTINF:-1 group-title="CULTURA",Discovery Familia SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1997.m3u8
-
+#EXTINF:-1 group-title="CULTURA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="CULTURA",NASA TV 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="CULTURA",NASA ISS Live Feed (YT)
+https://ythls.onrender.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:NIÑOS
 https://waldmtr3s.github.io/mpago.mp4
@@ -382,6 +416,12 @@ http://166.0.208.26:4481/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r56
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/78271.m3u8
 #EXTINF:-1 group-title="NIÑOS",BITME HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30313.m3u8
+#EXTINF:-1 group-title="NIÑOS",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="NIÑOS",Locomotion (op2)
+http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
+#EXTINF:-1 group-title="NIÑOS",Aztv
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY JUNIOR
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16540.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY JUNIOR (op2)
@@ -406,7 +446,28 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/64521.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",A3Series (op2)
 http://166.0.208.26:4481/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 group-title="INTERNACIONALES",TVPublica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CGTN en espanol
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",KPop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CTN Taiwan News
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",FujiTV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",NipponTV
+https://ntv.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TokyoTV
+http://main5.mov3.co/hls/main.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TBS
+https://tbs3.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",GNT
+https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:PELICULAS
 https://waldmtr3s.github.io/mpago.mp4
@@ -419,15 +480,18 @@ http://166.0.208.26:4481/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E
 
 #EXTINF:-1 group-title="PELICULAS",De Pelicula Classico
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/91750.m3u8
-#EXTINF:-1 group-title="PELICULAS",Golden
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/60356.m3u8
 #EXTINF:-1 group-title="PELICULAS",Golden Edge
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93203.m3u8
+#EXTINF:-1 group-title="PELICULAS",Golden Plus
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/60356.m3u8
 
 #EXTINF:-1 group-title="PELICULAS",I-GOLDEN Plus
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38455.m3u8
 #EXTINF:-1 group-title="PELICULAS",GOLDEN PREMIER HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30342.m3u8
+#EXTINF:-1 group-title="PELICULAS",GOLDEN PREMIER (op2)
+http://166.0.208.26:4481/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 group-title="PELICULAS",Golden Premier 2.
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/67228.m3u8
 #EXTINF:-1 group-title="PELICULAS",Multipremier Mexico
@@ -578,17 +642,30 @@ http://166.0.208.26:4481/transco9/9482HLMRK/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://166.0.208.26:4481/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",HBO Latino
 http://166.0.208.26:4481/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:LCDLF
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="LCDLF",Acceso Total | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162568
+#EXTINF:-1 group-title="LCDLF",Acceso Total | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162569
+#EXTINF:-1 group-title="LCDLF",Acceso Total | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162567
+#EXTINF:-1 group-title="LCDLF",Acceso 24/7 | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162912
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:DEPORTES
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1  group-title="DEPORTES",T-UDN MX
+#EXTINF:-1  group-title="DEPORTES",TUDN VIX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16592.m3u8
-#EXTINF:-1  group-title="DEPORTES",T-UDN MX (op2)
-http://166.0.208.26:4481/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1  group-title="DEPORTES", T-UDN USA SD 
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN MX SD 
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32157.m3u8
+
 #EXTINF:-1  group-title="DEPORTES",TUDN MX (op2)
+http://166.0.208.26:4481/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN USA SD 
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
+#EXTINF:-1  group-title="DEPORTES",TUDN USA (op2)
 http://166.0.208.26:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1  group-title="DEPORTES",ESPN EXTRA
@@ -600,12 +677,12 @@ http://166.0.208.26:4481/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 #EXTINF:-1  group-title="DEPORTES",ESPN 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/111509.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN (op2)
-http://166.0.208.26:4481/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://166.0.208.26:4481/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1  group-title="DEPORTES",ESPN 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16545.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN 2 (op2)
-http://166.0.208.26:4481/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://166.0.208.26:4481/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1  group-title="DEPORTES",ESPN 3 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16546.m3u8
@@ -652,7 +729,12 @@ http://166.0.208.26:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3141.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports (op2)
 http://166.0.208.26:4481/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 group-title="DEPORTES",Claro Sports (web)
+https://dai.google.com/linear/hls/pa/event/NHe1sutaROeLlaDlLvF4-g/stream/d65cb0fe-7b5a-4bfa-9c05-f6d8c69d50f1:MRN2/variant/d652af75dee5627fe01884b441a51aa8/bandwidth/5338115.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports (YT)
+https://ythls.onrender.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
+#EXTINF:-1 group-title="DEPORTES",TV Azteca Deportes (YT)
+https://ythls.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1  group-title="DEPORTES",TVC DEPORTES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16602.m3u8
 #EXTINF:-1 group-title="DEPORTES",Az Clic SD
@@ -1141,14 +1223,28 @@ http://166.0.208.26:4481/9476FOXB/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://166.0.208.26:4481/9439CNBC/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",The Weather Channel
 http://166.0.208.26:4481/9438WEATH/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 group-title="NOTICIAS",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Reuters
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Yahoo Finance
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",N24 News
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",DW
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11550.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW en espanol (op2)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FRANCE 24
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53301.m3u8
 #EXTINF:-1 group-title="NOTICIAS",COL | NTN24
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/18615.m3u8
-
+#EXTINF:-1 group-title="NOTICIAS",Al Jazeera News
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Russia 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:MUSICA
 https://waldmtr3s.github.io/mpago.mp4
