@@ -2,69 +2,119 @@
 
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:US Local
+#EXTGRP:US LOCAL
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="US Local", ABC
+#EXTINF:-1 group-title="US LOCAL", ABC
 http://166.0.208.26:4481/encoder81/evento15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", CBS
+#EXTINF:-1 group-title="US LOCAL", ABC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134704
+
+#EXTINF:-1 group-title="US LOCAL", CBS
 http://166.0.208.26:4481/encoder80/evento14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", NBC
+#EXTINF:-1 group-title="US LOCAL", CBS NY
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134702
+
+#EXTINF:-1 group-title="US LOCAL", NBC
 http://166.0.208.26:4481/encoder79/evento13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", Univisión Pac
-http://166.0.208.26:4481/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", NBC (Alt.)
+#EXTINF:-1 group-title="US LOCAL", NBC (Alt.)
 http://166.0.208.26:4481/eventox8/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", Estrella TV
+#EXTINF:-1 group-title="US LOCAL", NBC NEW YORK
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134703
+
+#EXTINF:-1 group-title="US LOCAL", Estrella TV
 http://166.0.208.26:4481/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", Telemundo Pac
-http://166.0.208.26:4481/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", Telemundo
+#EXTINF:-1 group-title="US LOCAL", ESTRELLA TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148789
+#EXTINF:-1 group-title="US LOCAL",ESTRELLA GAMES UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154742
+#EXTINF:-1 group-title="US LOCAL",ESTRELLA NEWS UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154743
+
+#EXTINF:-1 group-title="US LOCAL", Telemundo
 http://166.0.208.26:4481/encoder69/telemundo/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", Univisión
+#EXTINF:-1 group-title="US LOCAL", Telemundo Pac
+http://166.0.208.26:4481/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="US LOCAL", TELEMUNDO 47 NEW YORK FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
+
+#EXTINF:-1 group-title="US LOCAL", Univisión
 http://166.0.208.26:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="US Local", UniMas
+#EXTINF:-1 group-title="US LOCAL", Univisión Pac
+http://166.0.208.26:4481/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="US LOCAL", UNIVISION 41 NEW YORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148711
+
+#EXTINF:-1 group-title="US LOCAL", UniMas
 http://166.0.208.26:4481/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="US LOCAL", UNIMAS NEW YORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148709
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:MEXICO
 https://waldmtr3s.github.io/mpago.mp4
+
+#EXTINF:-1 group-title="MEXICO",UnoTV UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130034
+
 #EXTINF:-1 group-title="MEXICO",Azteca Uno
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2129.m3u8
 #EXTINF:-1 group-title="MEXICO",Azteca Uno (op2)
 http://166.0.208.26:4481/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Azteca Uno (alt)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129032
 
 #EXTINF:-1  group-title="MEXICO",ADN 40
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16504.m3u8
 #EXTINF:-1  group-title="MEXICO",ADN 40 (alt)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MEXICO",ADN 40 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129046
 
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/52807.m3u8
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD (op2)
 http://166.0.208.26:4481/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Las Estrellas HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129048
 
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS -2 HORAS SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
+#EXTINF:-1 group-title="MEXICO",Las Estrellas - 2 horas HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
+
 #EXTINF:-1 group-title="MEXICO",Foro Tv SD =
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2447.m3u8
 #EXTINF:-1 group-title="MEXICO",Foro Tv SD (op2)
 http://166.0.208.26:4481/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO", FORO TV MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3748
 
 #EXTINF:-1 group-title="MEXICO",ImagenTv SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32403.m3u8
 #EXTINF:-1 group-title="MEXICO",ImagenTv SD (op2)
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
+#EXTINF:-1 group-title="MEXICO",EXCELSIOR TV UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/153574
 
 #EXTINF:-1 group-title="MEXICO",Canal 5 SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 5 SD (op2)
 http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 5 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 
 #EXTINF:-1 group-title="MEXICO",Multimedio Mexico
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92558.m3u8
 #EXTINF:-1 group-title="MEXICO",Multimedio Mexico (op2)
 http://166.0.208.26:4481/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS PLUS MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129042
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3775
 
 #EXTINF:-1 group-title="MEXICO",Multimedio Monterrey HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92556.m3u8
@@ -95,12 +145,16 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/10086.m3u8
 #EXTINF:-1 group-title="MEXICO",Multimedios Laguna (alt)
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Laguna HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130027
 
 
 #EXTINF:-1 group-title="MEXICO",MILENIO TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37795.m3u8
 #EXTINF:-1 group-title="MEXICO",MILENIO TV (op2)
 http://23.237.29.98:4481/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",MilenioTV UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130025
 
 #EXTINF:-1  group-title="MEXICO",AZTECA 7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16514.m3u8
@@ -108,6 +162,8 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16514.m3u8
 http://166.0.208.26:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="MEXICO",AZTECA 7 (alt)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca 7 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129033
 
 #EXTINF:-1 group-title="MEXICO",Azteca 7 MTY SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2125.m3u8
@@ -115,14 +171,22 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2125.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37800.m3u8
 #EXTINF:-1 group-title="MEXICO",A Mas (alt)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="MEXICO",A + 7.2 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3668
 
 #EXTINF:-1 group-title="MEXICO",Nu9ve SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2448.m3u8
+#EXTINF:-1 group-title="MEXICO", CANAL 9 Telesistema SD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149448
 
 #EXTINF:-1 group-title="MEXICO",TELEVISA MONTERREY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2178.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEVISA MONTERREY (YT)
 https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+#EXTINF:-1 group-title="MEXICO",Televisa Monterrey HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129044
+
+
 #EXTINF:-1 group-title="MEXICO",Televisa 4 GUADALAJARA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11800.m3u8
 #EXTINF:-1 group-title="MEXICO",Televisa 4 GUADALAJARA (YT)
@@ -130,6 +194,9 @@ https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 group-title="MEXICO",i |TELEVISA PUEBLA (XHP-HD)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51632.m3u8
+#EXTINF:-1 group-title="MEXICO",Televisa Puebla HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129043
+
 #EXTINF:-1 group-title="MEXICO",Televisa Cd.Juarez
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38841.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEVISA GUANAJUATO
@@ -138,16 +205,19 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/60674.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51633.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEVISA MEXICALI (XHBC4-HD)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51630.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEVISA MEXICALI HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149214
+
 #EXTINF:-1 group-title="MEXICO",TELEVISA TIJUANA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51626.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 28 NL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92279.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 28 NL (op2)
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Nuevo León Canal 28 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149449
 
 
-#EXTINF:-1 group-title="MEXICO",XHTV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92557.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 44 Chihuahua
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/59342.m3u8
 
@@ -155,6 +225,8 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/59342.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19660.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL ONCE (op2)
 http://166.0.208.26:4481/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal Once HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129040
 
 #EXTINF:-1 group-title="MEXICO",Canal 14 HD .
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2137.m3u8
@@ -170,6 +242,9 @@ http://166.0.208.26:4481/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12250.m3u8
 #EXTINF:-1 group-title="MEXICO",Mexiquense
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1500.m3u8
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE MX HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3657
+
 #EXTINF:-1 group-title="MEXICO",TV UNAM SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19669.m3u8
 #EXTINF:-1 group-title="MEXICO",TV UNAM SD (op2)
@@ -190,10 +265,19 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19688.m3u8
 
 #EXTINF:-1 group-title="MEXICO",INGENIO TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1872.m3u8
+#EXTINF:-1 group-title="MEXICO",Ingenio TV HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3654
+#EXTINF:-1 group-title="MEXICO",EL HERALDO Noticias HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148883
+
 #EXTINF:-1 group-title="MEXICO",TELEFORMULA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1865.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEFORMULA (op2)
 http://166.0.208.26:4481/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130031
+#EXTINF:-1  group-title="MEXICO",EL FINANCIERO BLOOMBERG UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156065
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:ENTRETENIMIENTO
@@ -202,96 +286,159 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16585.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",STAR CHANNEL (op2)
 http://166.0.208.26:4481/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",STAR CHANNEL MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3642
+#EXTINF:-1  group-title="ENTRETENIMIENTO",STAR CHANNEL HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138098
+
+#EXTINF:-1  group-title="ENTRETENIMIENTO",STAR COMEDY HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7993
+#EXTINF:-1  group-title="ENTRETENIMIENTO",STAR FAMILY UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7994
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",SONY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16581.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",SONY (op2)
 http://166.0.208.26:4481/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",SONY HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138106
+
+
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",WARNER
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16607.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",WARNER (op2)
 http://166.0.208.26:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",WARNER CHANNEL MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3694
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3103.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel SD (op2)
 http://166.0.208.26:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7980
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",FX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16553.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",FX (op2)
 http://166.0.208.26:4481/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",FX MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3645
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",E!
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16543.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",E! (op2)
 http://166.0.208.26:4481/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",E ENTERTAIMENTS SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156064
+
 #EXTINF:-1  group-title="ENTRETENIMIENTO",HOLA TV (op2)
 http://166.0.208.26:4481/218Hola/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",HOLA TV SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132595
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3066.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable) HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129045
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19677.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY SD (op2)
 http://166.0.208.26:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",SYFY UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7978
 
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",A&E
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16503.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",A&E (op2)
 http://166.0.208.26:4481/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",A&E HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138105
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",AXN
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16509.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",AXN (op2)
 http://166.0.208.26:4481/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",AXN HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3704
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",I-Distrito Comedia
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38472.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150325
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16529.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",COMEDY CENTRAL (op2)
 http://166.0.208.26:4481/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150324
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19676.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV SD (op2)
 http://166.0.208.26:4481/transco9/9430TRU/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156073
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",TBS
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16594.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",TBS UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/155879
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Inter | TE
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3115.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",Lifetime
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16560.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",Lifetime (op2)
 http://166.0.208.26:4481/414LIFET/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",LIFETIME HQ
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3753
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",DISCOVERY HOME & HEALTH
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16532.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",DISCOVERY HOME & HEALTH (op2)
 http://166.0.208.26:4481/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",DISCOVERY HOME & HEALTH MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2026
+#EXTINF:-1  group-title="ENTRETENIMIENTO",DISCOVERY FAMILIA UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2029
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",AZ MUNDO
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16510.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Mundo HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129031
+
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",AZ CORAZON
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16513.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Corazón HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129030
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AZ CINEMA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32143.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Cinema HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129028
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",Pasiones TV Latin America
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16556.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO",Pasiones TV (op2)
 http://166.0.208.26:4481/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",PASIONES HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156061
 
 #EXTINF:-1  group-title="ENTRETENIMIENTO",TLNOVELAS
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16598.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO",TLNOVELAS UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3798
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TNT Novelas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38496.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT NOVELAS (HD)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162944
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:VARIEDADES
@@ -301,22 +448,37 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16549.m3u8
 #EXTINF:-1  group-title="VARIEDADES",FOOD NETWORK (op2)
 http://166.0.208.26:4481/9462FOOD/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="VARIEDADES",FOOD NETWORK MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3746
 
 #EXTINF:-1  group-title="VARIEDADES",EL GOURMET
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16544.m3u8
 #EXTINF:-1  group-title="VARIEDADES",EL GOURMET (op2)
 http://166.0.208.26:4481/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="VARIEDADES",EL GOURMET MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138191
 
 #EXTINF:-1 group-title="VARIEDADES",El Garage SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1601.m3u8
+#EXTINF:-1  group-title="VARIEDADES",GARAGE TV MX UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/136487
+
 #EXTINF:-1 group-title="VARIEDADES",Glitz SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1491.m3u8
+#EXTINF:-1 group-title="VARIEDADES",GLITZ TV UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156053
+
 #EXTINF:-1 group-title="VARIEDADES",Mas Chic SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1488.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MAS CHIC UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/155965
+
 #EXTINF:-1 group-title="VARIEDADES",HGTV SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1487.m3u8
 #EXTINF:-1 group-title="VARIEDADES",HGTV SD (op2)
 http://166.0.208.26:4481/transcob9/9461HGTV/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", HGTV 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156063
 
 #EXTINF:-1 group-title="VARIEDADES",Mariavision SD =
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3124.m3u8
@@ -328,60 +490,89 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16536.m3u8
 #EXTINF:-1  group-title="CULTURA",DISCOVERY TLC (op2)
 http://166.0.208.26:4481/217TLC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY TLC UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3741
 
 
 #EXTINF:-1  group-title="CULTURA",DISCOVERY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16534.m3u8
 #EXTINF:-1  group-title="CULTURA",DISCOVERY (op2)
 http://166.0.208.26:4481/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY CHANNEL (MX)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2020
 
 #EXTINF:-1  group-title="CULTURA",ANIMAL PLANET-89104
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16508.m3u8
 #EXTINF:-1  group-title="CULTURA",ANIMAL PLANET (op2)
 http://166.0.208.26:4481/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",ANIMAL PLANET SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132572
 
 #EXTINF:-1  group-title="CULTURA",HISTORY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
 #EXTINF:-1  group-title="CULTURA",HISTORY (op2)
 http://166.0.208.26:4481/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",HISTORY CHANNEL MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132592
+
 
 
 #EXTINF:-1  group-title="CULTURA",HISTORY 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
 #EXTINF:-1  group-title="CULTURA",HISTORY 2 (op2)
 http://166.0.208.26:4481/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",HISTORY 2 SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132580
+
 
 #EXTINF:-1  group-title="CULTURA",NAT GEO
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16575.m3u8
 #EXTINF:-1  group-title="CULTURA",NAT GEO (op2)
 http://166.0.208.26:4481/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",NATIONAL GEOGRAPHIC (MX) 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2015
+
 #EXTINF:-1  group-title="CULTURA",NAT GEO Wild (op2)
 http://166.0.208.26:4481/9445NATG/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",NAT GEO WILD UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2012
+#EXTINF:-1  group-title="CULTURA",NAT GEO MUNDO UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2013
 
 #EXTINF:-1  group-title="CULTURA",DISCOVERY THEATER
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16535.m3u8
 #EXTINF:-1  group-title="CULTURA",DISCOVERY THEATER (op2)
 http://166.0.208.26:4481/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY THEATER UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2032
 
 #EXTINF:-1  group-title="CULTURA",INVESTIGATION DISCOVERY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16567.m3u8
 #EXTINF:-1  group-title="CULTURA",INVESTIGATION DISCOVERY (op2)
 http://166.0.208.26:4481/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY INVESTIGATION MX  UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3605
 
 #EXTINF:-1  group-title="CULTURA",DISCOVERY TURBO
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16537.m3u8
 #EXTINF:-1  group-title="CULTURA",DISCOVERY TURBO (op2)
 http://166.0.208.26:4481/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY TURBO UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3702
 
 #EXTINF:-1 group-title="CULTURA",Discovery Science
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38471.m3u8
 #EXTINF:-1 group-title="CULTURA",Discovery Science (op2)
 http://166.0.208.26:4481/9490SCI/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY SCIENCE UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3713
 
 #EXTINF:-1  group-title="CULTURA",DISCOVERY WORLD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16538.m3u8
 #EXTINF:-1  group-title="CULTURA",DISCOVERY WORLD (op2)
 http://166.0.208.26:4481/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="CULTURA",DISCOVERY WORLD MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3606
 
 #EXTINF:-1 group-title="CULTURA",Discovery Familia SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1997.m3u8
@@ -398,24 +589,54 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
 #EXTINF:-1  group-title="NIÑOS",NICK (op2)
 http://166.0.208.26:4481/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",NICK MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3662
 
 
 #EXTINF:-1  group-title="NIÑOS",CARTOON NETWORK
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16523.m3u8
 #EXTINF:-1  group-title="NIÑOS",CARTOON NETWORK (op2)
 http://166.0.208.26:4481/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",CARTOON NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149673
 
 #EXTINF:-1  group-title="NIÑOS",Cartoonito
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16511.m3u8
+#EXTINF:-1  group-title="NIÑOS",CARTOONITO HD MX 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149686
+
 #EXTINF:-1  group-title="NIÑOS",DISNEY CHANNEL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16539.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY CHANNEL (op2)
 http://166.0.208.26:4481/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",DISNEY CHANNEL MX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149675
+#EXTINF:-1  group-title="NIÑOS",DISNEY XD US HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149679
+#EXTINF:-1  group-title="NIÑOS",DISNEY XD HD ES
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149680
+
+#EXTINF:-1  group-title="NIÑOS",NICKTOONS MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3665
 
 #EXTINF:-1 group-title="NIÑOS",i | Teennick
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/78271.m3u8
+#EXTINF:-1  group-title="NIÑOS",TEEN NICK HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149684
+
+#EXTINF:-1  group-title="NIÑOS",NICK MUSIC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2083
+#EXTINF:-1  group-title="NIÑOS",NICK MUSIC HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149685
+
+#EXTINF:-1  group-title="NIÑOS",TOONCAST HD MX 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149692
+
 #EXTINF:-1 group-title="NIÑOS",BITME HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30313.m3u8
+#EXTINF:-1 group-title="NIÑOS",BITME MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/151648
+
 #EXTINF:-1 group-title="NIÑOS",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="NIÑOS",Locomotion (op2)
@@ -426,67 +647,129 @@ http://azxtv.com/hls/stream.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16540.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY JUNIOR (op2)
 http://166.0.208.26:4481/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",DISNEY JR. MX HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149677
+
 #EXTINF:-1  group-title="NIÑOS",Nick JR (op2)
 http://166.0.208.26:4481/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",NAT GEO KIDS 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3660
 
 #EXTINF:-1  group-title="NIÑOS",Discovery Kids
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16555.m3u8
 #EXTINF:-1  group-title="NIÑOS",Discovery Kids (op2)
 http://166.0.208.26:4481/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",DISCOVERY KIDS MX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149690
 
 #EXTINF:-1  group-title="NIÑOS",BABY TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16516.m3u8
 #EXTINF:-1  group-title="NIÑOS",BABY TV (op2)
 http://166.0.208.26:4481/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NIÑOS",BABY TV  HD ARG
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149689
+#EXTINF:-1  group-title="NIÑOS",BABYFIRST HD MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149688
+#EXTINF:-1  group-title="NIÑOS",PAKA PAKA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149694
+
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:INTERNACIONALES
 https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="INTERNACIONALES",TVE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4865
+
 #EXTINF:-1 group-title="INTERNACIONALES",Antena 3 Internacional
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/64521.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Antena 3 Int HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131310
+
 #EXTINF:-1 group-title="INTERNACIONALES",A3Series (op2)
 http://166.0.208.26:4481/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="INTERNACIONALES",A3 SERIES UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3698
+
 #EXTINF:-1 group-title="INTERNACIONALES",TVPublica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",CGTN en espanol
 http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CGTN Español
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/156051
+
 #EXTINF:-1 group-title="INTERNACIONALES",KPop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",CTN Taiwan News
 http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",RAI ITALIA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135863
+
+#EXTINF:-1 group-title="INTERNACIONALES",NHK WORLD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/6502
+#EXTINF:-1 group-title="INTERNACIONALES",KBS World
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/6503
+
+#EXTINF:-1 group-title="INTERNACIONALES",Euronews
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/6506
+
+#EXTINF:-1 group-title="INTERNACIONALES",Arirang
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/6511
+
 #EXTINF:-1 group-title="INTERNACIONALES",FujiTV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",NipponTV
-https://ntv.mov3.co/hls/ntv.m3u8
+https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",TokyoTV
-http://main5.mov3.co/hls/main.m3u8
+http://main1.mov3.co/hls/main.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",GNT
 https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONALES",CCTV+ 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/147194
+#EXTINF:-1 group-title="INTERNACIONALES",CCTV+ 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/147195
+
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:PELICULAS
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="PELICULAS",De Pelicula SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1469.m3u8
+#EXTINF:-1  group-title="PELICULAS",DE PELICULA MX UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3729
+
 #EXTINF:-1 group-title="PELICULAS",De Pelicula + SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1470.m3u8
 #EXTINF:-1 group-title="PELICULAS",De Pelicula + (op2)
 http://166.0.208.26:4481/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",DE PELICULA + UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3730
 
 #EXTINF:-1 group-title="PELICULAS",De Pelicula Classico
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/91750.m3u8
+#EXTINF:-1 group-title="PELICULAS",GOLDEN MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3761
+#EXTINF:-1  group-title="PELICULAS",GOLDEN UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7977
+
+
 #EXTINF:-1 group-title="PELICULAS",Golden Edge
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93203.m3u8
 #EXTINF:-1 group-title="PELICULAS",Golden Plus
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/60356.m3u8
+#EXTINF:-1 group-title="PELICULAS",GOLDEN EDGE HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3647
 
 #EXTINF:-1 group-title="PELICULAS",I-GOLDEN Plus
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38455.m3u8
+#EXTINF:-1  group-title="PELICULAS",GOLDEN PLUS MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3648
+
 #EXTINF:-1 group-title="PELICULAS",GOLDEN PREMIER HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30342.m3u8
 #EXTINF:-1 group-title="PELICULAS",GOLDEN PREMIER (op2)
@@ -516,41 +799,67 @@ http://166.0.208.26:4481/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44073.m3u8
 #EXTINF:-1 group-title="PELICULAS",I-TOP CINE Latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38459.m3u8
+#EXTINF:-1  group-title="PELICULAS",CINE CLASICO BOM HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7973
 
 
 #EXTINF:-1  group-title="PELICULAS",TNT
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16599.m3u8
 #EXTINF:-1  group-title="PELICULAS",TNT (op2)
 http://166.0.208.26:4481/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",TNT MX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138044
 
 #EXTINF:-1  group-title="PELICULAS",TNT SERIES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16600.m3u8
 #EXTINF:-1  group-title="PELICULAS",TNT SERIES (op2)
 http://166.0.208.26:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",TNT SERIES MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3644
 
 #EXTINF:-1  group-title="PELICULAS",SPACE
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16582.m3u8
 #EXTINF:-1  group-title="PELICULAS",SPACE (op2)
 http://166.0.208.26:4481/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",SPACE MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/41
+
 
 #EXTINF:-1  group-title="PELICULAS",AMC
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16507.m3u8
+#EXTINF:-1  group-title="PELICULAS",AMC HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138047
+
 #EXTINF:-1  group-title="PELICULAS",STUDIO UNIVERSAL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16591.m3u8
+#EXTINF:-1  group-title="PELICULAS",STUDIO UNIVERSAL MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3674
+#EXTINF:-1  group-title="PELICULAS",STUDIO UNIVERSAL HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7979
+
 #EXTINF:-1  group-title="PELICULAS",CINECANAL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16525.m3u8
 #EXTINF:-1  group-title="PELICULAS",CINECANAL (op2)
 http://166.0.208.26:4481/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",CINECANAL HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3724
 
 #EXTINF:-1  group-title="PELICULAS",CINEMAX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16526.m3u8
 #EXTINF:-1  group-title="PELICULAS",CINEMAX (op2)
 http://166.0.208.26:4481/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",CINEMAX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3725
 
 #EXTINF:-1  group-title="PELICULAS",PARAMOUNT
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16580.m3u8
 #EXTINF:-1  group-title="PELICULAS",PARAMOUNT (op2)
 http://166.0.208.26:4481/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",PARAMOUNT CHANNEL MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3667
+#EXTINF:-1  group-title="PELICULAS",FXM MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/136486
+
 
 #EXTINF:-1 group-title="PELICULAS",I sat SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1496.m3u8
@@ -559,24 +868,38 @@ http://166.0.208.26:4481/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 
 #EXTINF:-1 group-title="PELICULAS",Europa Europa SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1493.m3u8
+#EXTINF:-1  group-title="PELICULAS",EUROPA EUROPA MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7988
+
 #EXTINF:-1 group-title="PELICULAS",Film and Arts
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11914.m3u8
+#EXTINF:-1  group-title="PELICULAS",FILM&ARTS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3745
+
 #EXTINF:-1 group-title="PELICULAS",Sundance Tv
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1479.m3u8
 
 #EXTINF:-1 group-title="PELICULAS",Morbido TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38481.m3u8
+#EXTINF:-1  group-title="PELICULAS",MOVISTAR SERIES HD (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138101
+
 #EXTINF:-1 group-title="PELICULAS",HBO SD =
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3299.m3u8
 #EXTINF:-1 group-title="PELICULAS",HBO SD (op2)
 http://166.0.208.26:4481/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS",HBO SD (op2)
 http://166.0.208.26:4481/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/49
+
 
 #EXTINF:-1  group-title="PELICULAS",HBO 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16558.m3u8
 #EXTINF:-1  group-title="PELICULAS",HBO 2 (op2)
 http://166.0.208.26:4481/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO 2 SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/50
 
 #EXTINF:-1  group-title="PELICULAS",HBO +
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16557.m3u8
@@ -584,56 +907,153 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16557.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3321.m3u8
 #EXTINF:-1 group-title="PELICULAS",HBO Plus SD (op2)
 http://166.0.208.26:4481/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO PLUS SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/53
+
 
 #EXTINF:-1 group-title="PELICULAS",HBO POP SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3159.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO POP SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/54
 
 #EXTINF:-1  group-title="PELICULAS",HBO FAMILY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16559.m3u8
 #EXTINF:-1  group-title="PELICULAS",HBO FAMILY (op2)
 http://166.0.208.26:4481/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO FAMILY SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/51
+
+
+#EXTINF:-1  group-title="PELICULAS",HBO MUNDI UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7968
+#EXTINF:-1  group-title="PELICULAS",HBO MUNDI SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/52
 
 #EXTINF:-1  group-title="PELICULAS",HBO SIGNATURE
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16563.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO SIGNATURE SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/55
+
 #EXTINF:-1 group-title="PELICULAS",HBO Xtreme SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3326.m3u8
 #EXTINF:-1 group-title="PELICULAS",HBO Xtreme SD (op2)
 http://166.0.208.26:4481/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="PELICULAS",HBO XTREME SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/56
 
 #EXTINF:-1 group-title="PELICULAS",Universal Cinema HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38848.m3u8
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL CINEMA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/158530
+
 #EXTINF:-1 group-title="PELICULAS",Universal Comedia HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38847.m3u8
 #EXTINF:-1 group-title="PELICULAS",Universal Crime Este HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38843.m3u8
-#EXTINF:-1 group-title="PELICULAS",I-Universal Crime Hero HD
+#EXTINF:-1 group-title="PELICULAS",I-Universal Crime  HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38846.m3u8
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL CRIME (HD)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/158526
+
+
 #EXTINF:-1 group-title="PELICULAS",Universal Premier Oeste HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38842.m3u8
-#EXTINF:-1 group-title="PELICULAS",I-Universal Premiere Hero HD
+#EXTINF:-1 group-title="PELICULAS",I-Universal Premiere  HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38845.m3u8
-#EXTINF:-1 group-title="PELICULAS",I-Universal Reality Hero HD
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL PREMIER HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3756
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL PREMIERE (HVEC)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/158525
+
+#EXTINF:-1 group-title="PELICULAS",I-Universal Reality  HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38844.m3u8
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL REALITY (5MB)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7990
+#EXTINF:-1  group-title="PELICULAS",UNIVERSAL REALITY (HVEC)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/158528
+
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:PELICULAS US
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="PELICULAS US",HBO
-http://166.0.208.26:4481/encoder78/evento12/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",5 Star Max
 http://166.0.208.26:4481/encoder77/evento11/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",Showtime (E)
 http://166.0.208.26:4481/9460SHO-E/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",Showtime (W)
 http://166.0.208.26:4481/9512SHO-W/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS US",The Movie Channel
-http://166.0.208.26:4481/9481TMC-E/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS US",Starz
-http://166.0.208.26:4481/9498STRZW/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS US",Showtime
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3870
+#EXTINF:-1 group-title="PELICULAS US",Showtime 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3871
+#EXTINF:-1 group-title="PELICULAS US",Showtime Woman
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3872
+#EXTINF:-1 group-title="PELICULAS US",Showtime Extreme
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3873
+#EXTINF:-1 group-title="PELICULAS US",Showtime Showcase
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3874
+#EXTINF:-1 group-title="PELICULAS US",Showtime WEST
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3875
+#EXTINF:-1 group-title="PELICULAS US",Showtime West HD_1080P
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3876
+#EXTINF:-1 group-title="PELICULAS US",Showtime East HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3879
+#EXTINF:-1 group-title="PELICULAS US",Showtime Family FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3882
+#EXTINF:-1 group-title="PELICULAS US",Starz Cinema UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3884
 #EXTINF:-1 group-title="PELICULAS US",Starz Comedy
 http://166.0.208.26:4481/9486STZC/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="PELICULAS US",Starz Comedy HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3885
+#EXTINF:-1 group-title="PELICULAS US",Starz East HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3886
+#EXTINF:-1 group-title="PELICULAS US",Starz Encore HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3887
+#EXTINF:-1 group-title="PELICULAS US",Starz Encore Action HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3888
+#EXTINF:-1 group-title="PELICULAS US",Starz
+http://166.0.208.26:4481/9498STRZW/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="PELICULAS US",Starz HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3889
+#EXTINF:-1 group-title="PELICULAS US",Starz In Black HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3890
+#EXTINF:-1 group-title="PELICULAS US",Starz Encore Suspense HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3891
+#EXTINF:-1 group-title="PELICULAS US",Starz Encore Family HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3892
 #EXTINF:-1 group-title="PELICULAS US",Starz Family
 http://166.0.208.26:4481/9497StarzF/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="PELICULAS US",Starz Family HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3893
+#EXTINF:-1 group-title="PELICULAS US",Starz Encore Classic UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3894
+#EXTINF:-1 group-title="PELICULAS US",Starz Edge HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3895
+#EXTINF:-1 group-title="PELICULAS US",HBO
+http://166.0.208.26:4481/encoder78/evento12/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="PELICULAS US",HBO HD DUAL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3896
+#EXTINF:-1 group-title="PELICULAS US",HBO PLUS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3897
+#EXTINF:-1 group-title="PELICULAS US",HBO Signature
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3898
+#EXTINF:-1 group-title="PELICULAS US",HBO 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3904
+#EXTINF:-1 group-title="PELICULAS US",HBO Family
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3905
+#EXTINF:-1 group-title="PELICULAS US",HBO Pop
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3906
+#EXTINF:-1 group-title="PELICULAS US",HBO Mundi
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3907
+#EXTINF:-1 group-title="PELICULAS US",HBO Xtreme
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3908
+#EXTINF:-1 group-title="PELICULAS US",The Movie Channel
+http://166.0.208.26:4481/9481TMC-E/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",FXM
 http://166.0.208.26:4481/9440MAXW/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS US",Hallmark
@@ -645,12 +1065,12 @@ http://166.0.208.26:4481/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:LCDLF
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="LCDLF",Acceso Total | La Casa de los Famosos
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/162568
-#EXTINF:-1 group-title="LCDLF",Acceso Total | La Casa de los Famosos
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/162569
 #EXTINF:-1 group-title="LCDLF",Acceso 24/7 | La Casa de los Famosos
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162912
+#EXTINF:-1 group-title="LCDLF",Cocina | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162568
+#EXTINF:-1 group-title="LCDLF",Sala | La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162569
 #EXTINF:-1 group-title="LCDLF",Revive las Galas | La Casa de los Famosos
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162567
 
@@ -697,6 +1117,8 @@ http://166.0.208.26:4481/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16552.m3u8
+#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138035
 
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16550.m3u8
@@ -712,6 +1134,9 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53540.m3u8
 
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS Premium (op2)
 http://166.0.208.26:4481/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES",FOX SPORTS PREMIUM
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138034
+
 #EXTINF:-1  group-title="DEPORTES", Fox Deportes HD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1510.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sports ESP.
@@ -726,6 +1151,9 @@ http://166.0.208.26:4481/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81601.m3u8
 #EXTINF:-1  group-title="DEPORTES",Afizzionados (op2)
 http://166.0.208.26:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148890
+
 #EXTINF:-1 group-title="DEPORTES",Claro Sports. SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3141.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports (op2)
@@ -740,10 +1168,17 @@ https://ythls.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16602.m3u8
 #EXTINF:-1 group-title="DEPORTES",Az Clic SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34295.m3u8
+#EXTINF:-1 group-title="DEPORTES",Az Clic HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129029
+
 #EXTINF:-1 group-title="DEPORTES",Golf Channel MX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32404.m3u8
 #EXTINF:-1 group-title="DEPORTES",AYM Sports SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1603.m3u8
+#EXTINF:-1 group-title="DEPORTES",AYM SPORTS HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3670
+
+
 #EXTINF:-1 group-title="DEPORTES",Adrenalina Sports HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3158.m3u8
 #EXTINF:-1 group-title="DEPORTES",Adrenalina Sports (op2)
@@ -1151,26 +1586,52 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1651.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37843.m3u8
 #EXTINF:-1 group-title="DEPORTES PREMIUM",DTV Sports 2 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
+#EXTINF:-1 group-title="DEPORTES PREMIUM",CCTV-5 UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/147201
+#EXTINF:-1 group-title="DEPORTES PREMIUM",CCTV-5+ UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/147200
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:US SPORTS
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1  group-title="US SPORTS", ESPN
 http://166.0.208.26:4481/9424ESPN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",ESPN HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140726
+
 #EXTINF:-1  group-title="US SPORTS", ESPN U
 http://166.0.208.26:4481/9531ESPNU/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",ESPN U HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140730
+
 #EXTINF:-1  group-title="US SPORTS", ESPN 2
 http://166.0.208.26:4481/9425ESPN2/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",ESPN 2 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140727
+#EXTINF:-1  group-title="US SPORTS",ESPN NEWS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140729
+
 #EXTINF:-1  group-title="US SPORTS", Motor Trend
 http://166.0.208.26:4481/transco10/4697VLCTY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", FS1
 http://166.0.208.26:4481/9468FOXS1/transco10/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",FS1 USA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131105
+
 #EXTINF:-1  group-title="US SPORTS", FS2
 http://166.0.208.26:4481/9613FOXS2/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",FOX SPORTS 2 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140732
+#EXTINF:-1  group-title="US SPORTS",Fox Sports FS2 USA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131092
+
 #EXTINF:-1  group-title="US SPORTS", CBS Sports Network
 http://166.0.208.26:4481/transco9/9495CBSSN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", Sportsman Channel
 http://166.0.208.26:4481/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",SPORTMAN CHANNEL HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140796
+
 #EXTINF:-1  group-title="US SPORTS", Outdoor Channel
 http://166.0.208.26:4481/9619OTDCH/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", The Cowboy Channel
@@ -1179,6 +1640,9 @@ http://166.0.208.26:4481/transco9/9684COWBOY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://166.0.208.26:4481/eventox7/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", Golf Channel
 http://166.0.208.26:4481/9473GOLF/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",GOLF CHANNEL HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140775
+
 #EXTINF:-1  group-title="US SPORTS", GolTV
 http://166.0.208.26:4481/encoder76/evento10/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", Bein Ñ
@@ -1187,16 +1651,81 @@ http://166.0.208.26:4481/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://166.0.208.26:4481/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", Bein Sports
 http://166.0.208.26:4481/andromeda/BEINENG/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",BEIN SPORTS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140739
+
 #EXTINF:-1  group-title="US SPORTS", MLB Network
 http://166.0.208.26:4481/eventox5/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",MLB NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140734
+
 #EXTINF:-1  group-title="US SPORTS", NBA TV
 http://166.0.208.26:4481/eventox1/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",NBA TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140735
+
 #EXTINF:-1  group-title="US SPORTS", NFL Network
 http://166.0.208.26:4481/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",NFL NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140733
+#EXTINF:-1  group-title="US SPORTS",NHL NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140736
+
 #EXTINF:-1  group-title="US SPORTS", TUDN USA
 http://166.0.208.26:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="US SPORTS", ESPN Deportes
 http://166.0.208.26:4481/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="US SPORTS",YES CHANNEL HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140737
+#EXTINF:-1  group-title="US SPORTS",SPORTSNET NY METS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140738
+#EXTINF:-1  group-title="US SPORTS",MSG NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140741
+#EXTINF:-1  group-title="US SPORTS",MSG+ HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140742
+#EXTINF:-1  group-title="US SPORTS",BIG NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140776
+#EXTINF:-1  group-title="US SPORTS",ACC NETWORK HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140777
+#EXTINF:-1  group-title="US SPORTS",TVG HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140778
+#EXTINF:-1  group-title="US SPORTS",OUTSIDE TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140779
+#EXTINF:-1  group-title="US SPORTS",NESN Plus
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140780
+#EXTINF:-1  group-title="US SPORTS",NESN HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140781
+#EXTINF:-1  group-title="US SPORTS",VELOCITY HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140797
+#EXTINF:-1  group-title="US SPORTS",MLS SOCCER HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140798
+#EXTINF:-1  group-title="US SPORTS",FIGHTNET HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140799
+#EXTINF:-1  group-title="US SPORTS",MOTORSPORT HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140800
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:UK SPORTS
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT 1 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134133
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT 2 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134134
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT 3 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134135
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT 4K
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134136
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT EUROPE FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134137
+#EXTINF:-1 group-title="UK SPORTS",BT SPORT ESPN HD  4k
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134138
+#EXTINF:-1 group-title="UK SPORTS",SKY Sports Main Event
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145809
+#EXTINF:-1 group-title="UK SPORTS",SKY Sports MIX (UK)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145812
+#EXTINF:-1 group-title="UK SPORTS",SKY Sports ACTION (UK)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145817
+#EXTINF:-1 group-title="UK SPORTS",Sky Sports Premier League HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/141374
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:NOTICIAS
@@ -1205,25 +1734,43 @@ https://waldmtr3s.github.io/mpago.mp4
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53300.m3u8
 #EXTINF:-1 group-title="NOTICIAS",RT ESPANOL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53297.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RUSIA TODAY RT HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150362
+
 #EXTINF:-1 group-title="NOTICIAS",CNN Esp HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3160.m3u8
 #EXTINF:-1  group-title="NOTICIAS",CNN ESPANOL
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16528.m3u8
 #EXTINF:-1  group-title="NOTICIAS",CNN ESPANOL (op2)
 http://166.0.208.26:4481/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="NOTICIAS",CNN ESPANOL SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132639
 
 #EXTINF:-1 group-title="NOTICIAS",CNN International P
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3483.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN International (op2)
 http://166.0.208.26:4481/transco9/9436CNN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN INTERNACIONAL MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132635
+
 #EXTINF:-1 group-title="NOTICIAS", Fox News
 http://166.0.208.26:4481/9477FXNWS/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", FOX NEWS MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132637
+#EXTINF:-1 group-title="NOTICIAS", NTN 24 SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132638
+#EXTINF:-1 group-title="NOTICIAS", WOBI MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132599
+
 #EXTINF:-1 group-title="NOTICIAS",Fox Business
 http://166.0.208.26:4481/9476FOXB/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNBC
 http://166.0.208.26:4481/9439CNBC/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",The Weather Channel
 http://166.0.208.26:4481/9438WEATH/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BBC WORLD NEWS MX® 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132636
+
 #EXTINF:-1 group-title="NOTICIAS",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Reuters
@@ -1251,24 +1798,50 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="MUSICA",MTV Live SD (op2)
 http://166.0.208.26:4481/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",MTV LIVE MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3658
 
 #EXTINF:-1 group-title="MUSICA",MTV SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34728.m3u8
 #EXTINF:-1 group-title="MUSICA",MTV SD (op2)
 http://166.0.208.26:4481/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",MTV
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2079
+
 #EXTINF:-1 group-title="MUSICA",MTV Hits (op2)
 http://166.0.208.26:4481/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",MTV Hits
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2085
+
 #EXTINF:-1 group-title="MUSICA",MTV 00's (op2)
 http://23.237.29.98:4481/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",VH1 (op2)
 http://166.0.208.26:4481/9507VH1/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",VH1 MX®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3812
+#EXTINF:-1  group-title="MUSICA",MTV CLASSIC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2087
+
+#EXTINF:-1  group-title="MUSICA",VH1 CLASSIC MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2077
+#EXTINF:-1  group-title="MUSICA",HTV
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2078
+#EXTINF:-1  group-title="MUSICA",MUCH MUSIC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2088
+#EXTINF:-1  group-title="MUSICA",CONCERT CHANNEL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2084
 
 #EXTINF:-1 group-title="MUSICA",TeleHit
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81016.m3u8
+#EXTINF:-1  group-title="MUSICA",TELEHIT
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2081
+
 #EXTINF:-1 group-title="MUSICA",TELEHIT PLUS HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30380.m3u8
 #EXTINF:-1 group-title="MUSICA",Telehit Música Plus (op2)
 http://166.0.208.26:4481/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",TELEHIT PLUS MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2086
 
 #EXTINF:-1 group-title="MUSICA",ExaTv
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/88004.m3u8
@@ -1277,6 +1850,9 @@ http://166.0.208.26:4481/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 
 #EXTINF:-1 group-title="MUSICA",Ritmoson latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81015.m3u8
+#EXTINF:-1  group-title="MUSICA",RMS MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3669
+
 #EXTINF:-1 group-title="MUSICA",La Mejor (op2)
 http://23.237.29.98:4481/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",HTV (op2)
@@ -1286,11 +1862,15 @@ http://166.0.208.26:4481/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30312.m3u8
 #EXTINF:-1 group-title="MUSICA",BANDAMAX HD (op2)
 http://166.0.208.26:4481/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="MUSICA",BANDAMAX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2080
 
 #EXTINF:-1 group-title="MUSICA",Teleritmo SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3328.m3u8
 #EXTINF:-1 group-title="MUSICA",Teleritmo SD (op2)
 http://166.0.208.26:4481/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",TLR MX HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3679
 
 #EXTINF:-1 group-title="MUSICA",VIDEO ROLA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11799.m3u8
@@ -1548,6 +2128,323 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11991.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11974.m3u8
 #EXTINF:-1 group-title="CANALES 24/7",Friends 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/94200.m3u8
+
+#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Movies 24 horas.
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/159338
+#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Movies 24H Opc.2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/159339
+#EXTINF:-1 group-title="CANALES 24/7",Los Tres Chiflados !
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/159340
+#EXTINF:-1 group-title="CANALES 24/7",FRIENDS !
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/159349
+#EXTINF:-1 group-title="CANALES 24/7",CASO CERRADO !
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/160035
+#EXTINF:-1 group-title="CANALES 24/7",El príncipe de Bel-Air
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/161032
+#EXTINF:-1 group-title="CANALES 24/7",HALCONES GALÁCTICOS SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162181
+#EXTINF:-1 group-title="CANALES 24/7",DON GATO SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162182
+#EXTINF:-1 group-title="CANALES 24/7",LOS PITUFOS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162183
+#EXTINF:-1 group-title="CANALES 24/7",CABALLEROS DEL ZODIACO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162184
+#EXTINF:-1 group-title="CANALES 24/7",SPIDER-MAN SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162185
+#EXTINF:-1 group-title="CANALES 24/7",THUNDERCATS SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162186
+#EXTINF:-1 group-title="CANALES 24/7",FUTURAMA SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162187
+#EXTINF:-1 group-title="CANALES 24/7",GARFIELD Y SUS AMIGOS SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162188
+#EXTINF:-1 group-title="CANALES 24/7",ROBOTECH SERIE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162189
+#EXTINF:-1 group-title="CANALES 24/7",PHINEAS Y FERB SERIE HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154855
+#EXTINF:-1 group-title="CANALES 24/7", E-Cine FHD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162542
+#EXTINF:-1 group-title="CANALES 24/7",E-play-Cine FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162543
+#EXTINF:-1 group-title="CANALES 24/7",Cine Accion
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2544
+#EXTINF:-1 group-title="CANALES 24/7",Cine Accion HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2545
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Accion 3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2546
+#EXTINF:-1 group-title="CANALES 24/7",CSI: Miami HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2547
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Comedia 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2548
+#EXTINF:-1 group-title="CANALES 24/7",Mi Bella Genio SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2549
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2550
+#EXTINF:-1 group-title="CANALES 24/7",Tres veces Ana 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2551
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Clásicos HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2552
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia Sagas
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2553
+#EXTINF:-1 group-title="CANALES 24/7",Cine Infantil
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
+#EXTINF:-1 group-title="CANALES 24/7",CINE Retro HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
+#EXTINF:-1 group-title="CANALES 24/7",Cine KIDS FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2556
+#EXTINF:-1 group-title="CANALES 24/7",PBS KIDS FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2557
+#EXTINF:-1 group-title="CANALES 24/7",24/7  | Cine Latino
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2558
+#EXTINF:-1 group-title="CANALES 24/7", MY TIME MOVIE LATINO UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2559
+#EXTINF:-1 group-title="CANALES 24/7",MEGAMAN SERIE COMPLETA SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2560
+#EXTINF:-1 group-title="CANALES 24/7",Cine Romance
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2561
+#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Romance HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2562
+#EXTINF:-1 group-title="CANALES 24/7",THE BIG BANG THEORY
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2563
+#EXTINF:-1 group-title="CANALES 24/7",Cine Terror HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2564
+#EXTINF:-1 group-title="CANALES 24/7",Cine Clásico HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2565
+#EXTINF:-1 group-title="CANALES 24/7", Batman La serie animada
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3361
+#EXTINF:-1 group-title="CANALES 24/7", BREAKING BAD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3364
+#EXTINF:-1 group-title="CANALES 24/7", Two and Hald Men
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3378
+#EXTINF:-1 group-title="CANALES 24/7", Scooby-Doo HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3385
+#EXTINF:-1 group-title="CANALES 24/7", Rick and Morty
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3386
+#EXTINF:-1 group-title="CANALES 24/7", Mr. Bean Animado
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3391
+#EXTINF:-1 group-title="CANALES 24/7", Los caballeros del Zodiaco
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3397
+#EXTINF:-1 group-title="CANALES 24/7", Family Guy
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3406
+#EXTINF:-1 group-title="CANALES 24/7",Los Simpsons
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129313
+#EXTINF:-1 group-title="CANALES 24/7",Dinosaurios
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129314
+#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO DEL 8*
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129315
+#EXTINF:-1 group-title="CANALES 24/7",South Park
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129318
+#EXTINF:-1 group-title="CANALES 24/7",Súper Campeones
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129319
+#EXTINF:-1 group-title="CANALES 24/7",Cantinflas
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129320
+#EXTINF:-1 group-title="CANALES 24/7",ALF
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129321
+#EXTINF:-1 group-title="CANALES 24/7",Chespirito SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129322
+#EXTINF:-1 group-title="CANALES 24/7",EL CHAPULÍN COLORADO SHOW
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129323
+#EXTINF:-1 group-title="CANALES 24/7",Pokémon
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129325
+#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Super
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129326
+#EXTINF:-1 group-title="CANALES 24/7",Tom and Jerry
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129327
+#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129328
+#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Z
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129329
+#EXTINF:-1 group-title="CANALES 24/7",Game of Thrones HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129330
+#EXTINF:-1 group-title="CANALES 24/7",Miedo en la Oscuridad
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129331
+#EXTINF:-1 group-title="CANALES 24/7",Bob Esponja
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129332
+#EXTINF:-1 group-title="CANALES 24/7",Coraje El Perro Cobarde
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129333
+#EXTINF:-1 group-title="CANALES 24/7",DRAGON BALL GT
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129334
+#EXTINF:-1 group-title="CANALES 24/7",Doraemon
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129335
+#EXTINF:-1 group-title="CANALES 24/7",El Pajaro Loco
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129336
+#EXTINF:-1 group-title="CANALES 24/7",Hey Arnold!
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129337
+#EXTINF:-1 group-title="CANALES 24/7",Looney Tunes
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129338
+#EXTINF:-1 group-title="CANALES 24/7",Naruto
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129339
+#EXTINF:-1 group-title="CANALES 24/7",Death Note
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129340
+#EXTINF:-1 group-title="CANALES 24/7",Las Mejores Animaciones
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129341
+#EXTINF:-1 group-title="CANALES 24/7",One Punch Man
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129342
+#EXTINF:-1 group-title="CANALES 24/7",EL SHOW DE LA PEQUEÑA LU LU
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129343
+#EXTINF:-1 group-title="CANALES 24/7",Samurái X
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129344
+#EXTINF:-1 group-title="CANALES 24/7",Yu-Gi-Oh!
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129346
+#EXTINF:-1 group-title="CANALES 24/7",La Pantera Rosa
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129347
+#EXTINF:-1 group-title="CANALES 24/7",Los Picapiedra
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
+#EXTINF:-1 group-title="CANALES 24/7",CINE de FAMILIA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129350
+#EXTINF:-1 group-title="CANALES 24/7",El Encantador de Perros HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129351
+#EXTINF:-1 group-title="CANALES 24/7",The Big Bang Theory
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129352
+#EXTINF:-1 group-title="CANALES 24/7",Smallville
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129353
+#EXTINF:-1 group-title="CANALES 24/7",ANIMANIACS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129354
+#EXTINF:-1 group-title="CANALES 24/7",Pinky y Cerebro
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129355
+#EXTINF:-1 group-title="CANALES 24/7",BARBAPAPA 24/7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129357
+#EXTINF:-1 group-title="CANALES 24/7",Cuidado con el Ángel UHD 24/7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129360
+#EXTINF:-1 group-title="CANALES 24/7",EL ESPECTACULAR HOMBRE ARAÑA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129362
+#EXTINF:-1 group-title="CANALES 24/7",EL CONDE PATULA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129363
+#EXTINF:-1 group-title="CANALES 24/7",Naruto Shippuden
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129364
+#EXTINF:-1 group-title="CANALES 24/7",CINE SUREÑO UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129365
+#EXTINF:-1 group-title="CANALES 24/7",Marvel
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129366
+#EXTINF:-1 group-title="CANALES 24/7",FENOMENOIDE 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129367
+#EXTINF:-1 group-title="CANALES 24/7",Temes a la Oscuridad ?
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129368
+#EXTINF:-1 group-title="CANALES 24/7",Crepusculo
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129374
+#EXTINF:-1 group-title="CANALES 24/7", X-Men
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129375
+#EXTINF:-1 group-title="CANALES 24/7",24/7 HI-MAN SD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129376
+#EXTINF:-1 group-title="CANALES 24/7",Harry Potter
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129377
+#EXTINF:-1 group-title="CANALES 24/7",John Wick
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129378
+#EXTINF:-1 group-title="CANALES 24/7",Resident Evil
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129379
+#EXTINF:-1 group-title="CANALES 24/7",Sci-Fi & Ufo
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129380
+#EXTINF:-1 group-title="CANALES 24/7",Matrix
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129381
+
+#EXTINF:-1 group-title="CANALES 24/7",Triunfo del Amor 24/7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129384
+#EXTINF:-1 group-title="CANALES 24/7",Astro Boy
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129385
+#EXTINF:-1 group-title="CANALES 24/7",X-Men
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129386
+#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO ANIMADO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131452
+#EXTINF:-1 group-title="CANALES 24/7",24/7 PELÍCULAS DE ROMANCE 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131454
+#EXTINF:-1 group-title="CANALES 24/7",LOS SIMPSONS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/136246
+#EXTINF:-1 group-title="CANALES 24/7",Chavo del Ocho  II 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138442
+#EXTINF:-1 group-title="CANALES 24/7",Transformers Armada
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138443
+#EXTINF:-1 group-title="CANALES 24/7",Chavo del Ocho 8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138444
+#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball GT
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138445
+#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball GT #2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138446
+#EXTINF:-1 group-title="CANALES 24/7",Movies English HALLMARK
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138447
+#EXTINF:-1 group-title="CANALES 24/7",John Wick
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138448
+#EXTINF:-1 group-title="CANALES 24/7",Harry Potter
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138449
+#EXTINF:-1 group-title="CANALES 24/7",Toy Story
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138450
+#EXTINF:-1 group-title="CANALES 24/7",Disney Pixar #2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138451
+#EXTINF:-1 group-title="CANALES 24/7",La Casa de Mickey Mouse
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138452
+#EXTINF:-1 group-title="CANALES 24/7",Terror Movies
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138453
+#EXTINF:-1 group-title="CANALES 24/7",ROMÁNTICO FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138454
+#EXTINF:-1 group-title="CANALES 24/7",GRAVITY FALLS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138455
+#EXTINF:-1 group-title="CANALES 24/7",GASPARIN Y SUS AMGOS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138456
+#EXTINF:-1 group-title="CANALES 24/7",MALCOM  IN THE MIDDLE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138457
+#EXTINF:-1 group-title="CANALES 24/7",Arte Marciales
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138458
+#EXTINF:-1 group-title="CANALES 24/7",Risas y Comedias
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138459
+#EXTINF:-1 group-title="CANALES 24/7", SpiderWoman
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138460
+#EXTINF:-1 group-title="CANALES 24/7", LA ROSA DE GUADALUPE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138461
+#EXTINF:-1 group-title="CANALES 24/7",IRON MAN 1994
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138462
+#EXTINF:-1 group-title="CANALES 24/7",JUNTOS UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138463
+#EXTINF:-1 group-title="CANALES 24/7", Live Action HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138464
+#EXTINF:-1 group-title="CANALES 24/7",Action Classics
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138465
+#EXTINF:-1 group-title="CANALES 24/7",Transformers
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138467
+#EXTINF:-1 group-title="CANALES 24/7",TOP CINE UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138468
+#EXTINF:-1 group-title="CANALES 24/7",24/7 PELÍCULAS DE ACCIÓN 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138469
+#EXTINF:-1 group-title="CANALES 24/7",Peppa Pig FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140377
+#EXTINF:-1 group-title="CANALES 24/7",Blooppers HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140815
+#EXTINF:-1 group-title="CANALES 24/7",BARON ROJO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140841
+#EXTINF:-1 group-title="CANALES 24/7",BEN 10 FUERZA ALIENIGENA HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140842
+#EXTINF:-1 group-title="CANALES 24/7",BEN 10 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140843
+#EXTINF:-1 group-title="CANALES 24/7",BIRDMAN 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
+#EXTINF:-1 group-title="CANALES 24/7",EL CHAPULÍN COLORADO ANIMADO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140845
+#EXTINF:-1 group-title="CANALES 24/7",DANIEL EL TRAVIESO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140846
+#EXTINF:-1 group-title="CANALES 24/7",DICK TRACY
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140847
+#EXTINF:-1 group-title="CANALES 24/7",DIGIMON ADVENTURE 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140848
+#EXTINF:-1 group-title="CANALES 24/7",Super Mario Bros 3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145792
+#EXTINF:-1 group-title="CANALES 24/7",Ed Edd Eddy
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145793
+
+#EXTINF:-1 group-title="CANALES 24/7",Series: Narcos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145806
+#EXTINF:-1 group-title="CANALES 24/7",Danny Phantom
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145826
+#EXTINF:-1 group-title="CANALES 24/7",Cars Disney
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145899
+#EXTINF:-1 group-title="CANALES 24/7",Kenan y Kel
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145900
+
+#EXTINF:-1 group-title="CANALES 24/7",MI BELLA GENIO SERIE COMPLETA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145914
+#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Show 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150692
+#EXTINF:-1 group-title="CANALES 24/7",La Familia P. Luche
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/152821
+#EXTINF:-1 group-title="CANALES 24/7",EL SEÑOR DE LOS CIELOS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154856
+
 #EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 1 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38685.m3u8
 #EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 13 SUB-TIT AR FHD
@@ -2041,6 +2938,88 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/9482.m3u8
 #EXTINF:-1 group-title="UNIMAS",UNIMAS (op2)
 http://166.0.208.26:4481/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:UK
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="UK",BBC1 FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134080
+
+#EXTINF:-1 group-title="UK",BBC2 FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134087
+
+#EXTINF:-1 group-title="UK",BBC3 FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134091
+#EXTINF:-1 group-title="UK",BBC4 FHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/13409
+
+#EXTINF:-1 tvg-name="",DONACIONES EN
+#EXTGRP:ESPANA
+https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="ESPANA",TVE LA 1 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126212
+#EXTINF:-1 group-title="ESPANA",LA 1 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126264
+#EXTINF:-1 group-title="ESPANA",LA 1 HD HEVC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126265
+#EXTINF:-1 group-title="ESPANA",TVE LA 2 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126213
+#EXTINF:-1 group-title="ESPANA",LA 2 ᴴᴰ
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126263
+#EXTINF:-1 group-title="ESPANA",ANTENA 3 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126214
+#EXTINF:-1 group-title="ESPANA",ANTENA 3 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126262
+#EXTINF:-1 group-title="ESPANA",CUATRO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126215
+#EXTINF:-1 group-title="ESPANA",CUATRO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126261
+#EXTINF:-1 group-title="ESPANA",LA SEXTA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126216
+#EXTINF:-1 group-title="ESPANA",TVE ᴴᴰ
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126259
+#EXTINF:-1 group-title="ESPANA",TELECINCO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126260
+#EXTINF:-1 group-title="ESPANA",MEGA ᴴᴰ
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162915
+#EXTINF:-1 group-title="ESPANA",BE MAD HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126243
+#EXTINF:-1 group-title="ESPANA",NEOX ᴴᴰ
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126256
+#EXTINF:-1 group-title="ESPANA",TVE 24H
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126193
+#EXTINF:-1 group-title="ESPANA",NOVA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126237
+#EXTINF:-1 group-title="ESPANA",MOVISTAR ESTRENOS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126275
+#EXTINF:-1 group-title="ESPANA",MOVISTAR FORMULA 1 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126276
+#EXTINF:-1 group-title="ESPANA",Movistar Liga de Campeones HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126196
+#EXTINF:-1 group-title="ESPANA",#0 HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126168
+#EXTINF:-1 group-title="ESPANA",#VAMOS HD HEVC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126169
+#EXTINF:-1 group-title="ESPANA",MOVISTAR DRAMA HD HEVC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126279
+#EXTINF:-1 group-title="ESPANA",MOVISTAR ACCION HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126245
+#EXTINF:-1 group-title="ESPANA",MOVISTAR DRAMA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126246
+#EXTINF:-1 group-title="ESPANA",MOVISTAR ACCION HD -
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126217
+#EXTINF:-1 group-title="ESPANA",MOVISTAR Disney HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126218
+#EXTINF:-1 group-title="ESPANA",MOVISTAR CINE N
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126219
+#EXTINF:-1 group-title="ESPANA",MoviStar ESTRENOS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126220
+#EXTINF:-1 group-title="ESPANA",MOVISTAR COMEDIA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126183
+#EXTINF:-1 group-title="ESPANA",MOVISTAR SERIE HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126184
+#EXTINF:-1 group-title="ESPANA",MOVISTAR SERIES MANIA HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126185
+
+#EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:LATINOS US
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="LATINOS US",NBC UNIVERSO HD
@@ -2126,23 +3105,286 @@ http://166.0.208.26:4481/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0
 #EXTINF:-1 group-title="PUERTO RICO",Punto 2
 http://166.0.208.26:4481/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:Unsorted
+#EXTGRP:UNSORTED
 https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="Unsorted",RealExtreme
+#EXTINF:-1 group-title="UNSORTED",RealExtreme
 http://166.0.208.26:4481/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",Brazzers TV
+#EXTINF:-1 group-title="UNSORTED",Brazzers TV
 http://166.0.208.26:4481/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",TEN
+#EXTINF:-1 group-title="UNSORTED",TEN
 http://166.0.208.26:4481/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",RK
+#EXTINF:-1 group-title="UNSORTED",RK
 http://166.0.208.26:4481/495RKTV/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",Hustler TV
+#EXTINF:-1 group-title="UNSORTED",Hustler TV
 http://166.0.208.26:4481/496HUSLR/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",XTSY
+#EXTINF:-1 group-title="UNSORTED",XTSY
 http://166.0.208.26:4481/498XTSY/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",playboy
+#EXTINF:-1 group-title="UNSORTED",playboy
 http://166.0.208.26:4481/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",Venus
+#EXTINF:-1 group-title="UNSORTED",Venus
 http://166.0.208.26:4481/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted",sextreme
+#EXTINF:-1 group-title="UNSORTED",sextreme
 http://166.0.208.26:4481/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4159
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4160
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4161
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4162
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4163
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4164
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4165
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4166
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4167
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4168
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4169
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4170
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4171
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4172
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4173
+#EXTINF:-1 group-title="UNSORTED",VENUS_LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4175
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA10
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4176
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA9
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4177
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4178
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4179
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4180
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4181
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4182
+#EXTINF:-1 group-title="UNSORTED",EROTIC_1 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4183
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4184
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4185
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4186
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4187
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4188
+#EXTINF:-1 group-title="UNSORTED",EROTIC_2 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4189
+#EXTINF:-1 group-title="UNSORTED",EROTIC_3 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4190
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4191
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4192
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4193
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4194
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4195
+#EXTINF:-1 group-title="UNSORTED",EROTIC_5 LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4196
+#EXTINF:-1 group-title="UNSORTED",EROTIC_5 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4198
+#EXTINF:-1 group-title="UNSORTED",EROTIC_5 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4199
+#EXTINF:-1 group-title="UNSORTED",EROTIC_5 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4200
+#EXTINF:-1 group-title="UNSORTED",EROTIC_5 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4201
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4202
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4203
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4204
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4205
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4206
+#EXTINF:-1 group-title="UNSORTED",EROTIC_6 LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4207
+#EXTINF:-1 group-title="UNSORTED",EROTIC_7 LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4208
+#EXTINF:-1 group-title="UNSORTED",EROTIC_7 LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4211
+#EXTINF:-1 group-title="UNSORTED",EROTIC_7 LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4212
+#EXTINF:-1 group-title="UNSORTED",HOT_LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4215
+#EXTINF:-1 group-title="UNSORTED",HOT_LA1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4218
+#EXTINF:-1 group-title="UNSORTED",HOT_LA9
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4220
+#EXTINF:-1 group-title="UNSORTED",HOT_LA8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4221
+#EXTINF:-1 group-title="UNSORTED",HOT_LA7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4222
+#EXTINF:-1 group-title="UNSORTED",HOT_LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4223
+#EXTINF:-1 group-title="UNSORTED",B6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4224
+#EXTINF:-1 group-title="UNSORTED",B5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4225
+#EXTINF:-1 group-title="UNSORTED",B4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4226
+#EXTINF:-1 group-title="UNSORTED",B3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4227
+#EXTINF:-1 group-title="UNSORTED",B2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4228
+#EXTINF:-1 group-title="UNSORTED",B1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4229
+#EXTINF:-1 group-title="UNSORTED",A6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4230
+#EXTINF:-1 group-title="UNSORTED",DORCEL HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4231
+#EXTINF:-1 group-title="UNSORTED",A4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4232
+#EXTINF:-1 group-title="UNSORTED",A3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4233
+#EXTINF:-1 group-title="UNSORTED",A2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4234
+#EXTINF:-1 group-title="UNSORTED",A1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4235
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA14
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4236
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA13
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4237
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA12
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4238
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA11
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4239
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA10
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4240
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA9
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4241
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4242
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4243
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4244
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4245
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4246
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4247
+#EXTINF:-1 group-title="UNSORTED",PRIVATE_LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4248
+#EXTINF:-1 group-title="UNSORTED",EROTIC_4 LA6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4249
+#EXTINF:-1 group-title="UNSORTED",X1 ( 18)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4250
+#EXTINF:-1 group-title="UNSORTED",EROX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4256
+#EXTINF:-1 group-title="UNSORTED",JASMIN TV
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4259
+#EXTINF:-1 group-title="UNSORTED",PLAYBOY EUROPE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4262
+#EXTINF:-1 group-title="UNSORTED",PRIVATE TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4263
+#EXTINF:-1 group-title="UNSORTED",REDLIGHT HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4264
+#EXTINF:-1 group-title="UNSORTED",VIVID RED
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4267
+#EXTINF:-1 group-title="UNSORTED",SEXTREME_LA4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4271
+#EXTINF:-1 group-title="UNSORTED",PINKO_LA2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4280
+#EXTINF:-1 group-title="UNSORTED",Video 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7356
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7357
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 10
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7358
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 12
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7360
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 13
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7361
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 14
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7362
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 15
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7363
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 16
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7364
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 17
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7365
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 18
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7366
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 19
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7367
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7368
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 20
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7369
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7370
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7371
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7372
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7374
+#EXTINF:-1 group-title="UNSORTED",Wow Girls 8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7375
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7377
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 10
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7378
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 11
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7379
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 12
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7380
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 14
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7382
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 15
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7383
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 16
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7384
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 17
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7385
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 18
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7386
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 19
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7387
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7388
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 20
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7389
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7390
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 4
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7391
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7392
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 6
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7393
+#EXTINF:-1 group-title="UNSORTED",Wow Porn 7
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7394
+#EXTINF:-1 group-title="UNSORTED",BRAZZERS TV EUROPE HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140489
+#EXTINF:-1 group-title="UNSORTED",BANGBROS TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145823
+#EXTINF:-1 group-title="UNSORTED",BRAZZERS XTREME HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145825
+#EXTINF:-1 group-title="UNSORTED",BRAZZERS TV HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146367
+#EXTINF:-1 group-title="UNSORTED",REALITYKINGS HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146368
+
