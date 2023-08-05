@@ -1079,16 +1079,22 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162567
 https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1  group-title="DEPORTES",TUDN VIX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16592.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN ZONA FUTBOL PPV®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134464
 #EXTINF:-1  group-title="DEPORTES", TUDN MX SD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32157.m3u8
 
 #EXTINF:-1  group-title="DEPORTES",TUDN MX (op2)
 http://166.0.208.26:4481/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN MEXICO UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/134466
+
 #EXTINF:-1  group-title="DEPORTES", TUDN USA SD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
 #EXTINF:-1  group-title="DEPORTES",TUDN USA (op2)
 http://166.0.208.26:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 group-title="DEPORTES",Univision TUDN HD USA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
 #EXTINF:-1  group-title="DEPORTES",ESPN EXTRA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16547.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN EXTRA (op2)
@@ -1099,36 +1105,54 @@ http://166.0.208.26:4481/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/111509.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN (op2)
 http://166.0.208.26:4481/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN  MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
 
 #EXTINF:-1  group-title="DEPORTES",ESPN 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16545.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN 2 (op2)
 http://166.0.208.26:4481/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
 
 #EXTINF:-1  group-title="DEPORTES",ESPN 3 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16546.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN 3 (op2)
 http://166.0.208.26:4481/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 3 MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
 #EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/15453.m3u8
+#EXTINF:-1  group-title="DEPORTES", EVENTOS STAR+ HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/152908
+#EXTINF:-1  group-title="DEPORTES", ESPN STAR+ FHD (SOLO EVENTOS)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/160069
 
 #EXTINF:-1  group-title="DEPORTES",ESPN Deportes (op2)
 http://166.0.208.26:4481/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145416
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16552.m3u8
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138035
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS MX SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/1971
+
 
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16550.m3u8
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 (op2)
 http://166.0.208.26:4481/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 2 MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
 
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16551.m3u8
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 (op2)
 http://166.0.208.26:4481/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 3 MX SD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132271
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium MX
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53540.m3u8
 
@@ -1136,9 +1160,15 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53540.m3u8
 http://166.0.208.26:4481/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS PREMIUM
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138034
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS PREMIUM MX®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146541
 
 #EXTINF:-1  group-title="DEPORTES", Fox Deportes HD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1510.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Deportes HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131286
+#EXTINF:-1 group-title="DEPORTES",VIX SPORTS (La Liga) MX®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162334
 #EXTINF:-1 group-title="DEPORTES",BeIN Sports ESP.
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37846.m3u8
 
@@ -1146,18 +1176,24 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37846.m3u8
 http://166.0.208.26:4481/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="DEPORTES",bEIN En Espanol (op2)
 http://166.0.208.26:4481/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2682
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS XTRA Ñ MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/144620
 #EXTINF:-1  group-title="DEPORTES",Afizzionados
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81601.m3u8
 #EXTINF:-1  group-title="DEPORTES",Afizzionados (op2)
 http://166.0.208.26:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS HD®
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/148890
+#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145474
 
 #EXTINF:-1 group-title="DEPORTES",Claro Sports. SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3141.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports (op2)
 http://166.0.208.26:4481/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/136449
+
 #EXTINF:-1 group-title="DEPORTES",Claro Sports (web)
 https://dai.google.com/linear/hls/pa/event/NHe1sutaROeLlaDlLvF4-g/stream/d65cb0fe-7b5a-4bfa-9c05-f6d8c69d50f1:MRN2/variant/d652af75dee5627fe01884b441a51aa8/bandwidth/5338115.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports (YT)
@@ -1895,598 +1931,598 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38885.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38886.m3u8
 
 #EXTINF:-1 tvg-name="",DONACIONES EN
-#EXTGRP:CANALES 24/7
+#EXTGRP:24/7
 https://waldmtr3s.github.io/mpago.mp4
 
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO ANIMADO 24-7
+#EXTINF:-1 group-title="24/7",EL CHAVO ANIMADO 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12023.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO DEL 8 -
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8 -
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/35023.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",El Chavo del Ocho
+#EXTINF:-1 group-title="24/7",El Chavo del Ocho
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38712.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Aaahhh!!! Monstruos 24\/7
+#EXTINF:-1 group-title="24/7",Aaahhh!!! Monstruos 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12057.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Acapulco Shore
+#EXTINF:-1 group-title="24/7",Acapulco Shore
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38715.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Acapulco Shore 24\/7
+#EXTINF:-1 group-title="24/7",Acapulco Shore 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12056.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Alf
+#EXTINF:-1 group-title="24/7",Alf
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2321.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Animaniacs 24\/7
+#EXTINF:-1 group-title="24/7",Animaniacs 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12038.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",AVATAR 24\/7
+#EXTINF:-1 group-title="24/7",AVATAR 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12037.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",A\u00f1os Maravillos
+#EXTINF:-1 group-title="24/7",A\u00f1os Maravillos
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/40788.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",BEYBLADE 24\/7
+#EXTINF:-1 group-title="24/7",BEYBLADE 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12035.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",BOB ESPONJA 24\/7
+#EXTINF:-1 group-title="24/7",BOB ESPONJA 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12034.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Buzz Lightyear 24 7
+#EXTINF:-1 group-title="24/7",Buzz Lightyear 24 7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11970.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Caballeros del Zodiaco
+#EXTINF:-1 group-title="24/7",Caballeros del Zodiaco
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2330.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas
+#EXTINF:-1 group-title="24/7",Cantinflas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38745.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas ds
+#EXTINF:-1 group-title="24/7",Cantinflas ds
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92512.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas (DS)
+#EXTINF:-1 group-title="24/7",Cantinflas (DS)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92511.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Castores Cascarravias 24-7
+#EXTINF:-1 group-title="24/7",Castores Cascarravias 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11975.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",CAT DOG 24\/7
+#EXTINF:-1 group-title="24/7",CAT DOG 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12032.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Chapulin Colorado
+#EXTINF:-1 group-title="24/7",Chapulin Colorado
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38714.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Familia Pelucha..
+#EXTINF:-1 group-title="24/7",La Familia Pelucha..
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38839.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Accion Classics HD
+#EXTINF:-1 group-title="24/7",Cinema Accion Classics HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38699.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Ciencia Ficcion HD
+#EXTINF:-1 group-title="24/7",Cinema Ciencia Ficcion HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38698.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Dc Comics HD
+#EXTINF:-1 group-title="24/7",Cinema Dc Comics HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38693.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema DC Universe HD
+#EXTINF:-1 group-title="24/7",Cinema DC Universe HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38697.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Disney Family HD
+#EXTINF:-1 group-title="24/7",Cinema Disney Family HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38702.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Disney Pixar HD
+#EXTINF:-1 group-title="24/7",Cinema Disney Pixar HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38701.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Happy Madisson HD
+#EXTINF:-1 group-title="24/7",Cinema Happy Madisson HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38696.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Horror HD
+#EXTINF:-1 group-title="24/7",Cinema Horror HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38700.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Lego Movies HD
+#EXTINF:-1 group-title="24/7",Cinema Lego Movies HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38695.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Cinema Marvel Studio HD
+#EXTINF:-1 group-title="24/7",Cinema Marvel Studio HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38694.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Coraje El Perro Cobarde
+#EXTINF:-1 group-title="24/7",Coraje El Perro Cobarde
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11067.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",CS1 MIAMI 1 24-7
+#EXTINF:-1 group-title="24/7",CS1 MIAMI 1 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11981.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Death Note
+#EXTINF:-1 group-title="24/7",Death Note
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11082.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Des encanto 24-7
+#EXTINF:-1 group-title="24/7",Des encanto 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11980.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Desafio Sobre Rueda HD
+#EXTINF:-1 group-title="24/7",Desafio Sobre Rueda HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38708.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Dexter labs 24-7
+#EXTINF:-1 group-title="24/7",Dexter labs 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11978.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Digimon
+#EXTINF:-1 group-title="24/7",Digimon
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11085.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Dinosaurios
+#EXTINF:-1 group-title="24/7",Dinosaurios
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11069.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DORA LA EXPLORADORA 24\/7
+#EXTINF:-1 group-title="24/7",DORA LA EXPLORADORA 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12028.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball
+#EXTINF:-1 group-title="24/7",Dragon Ball
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Super
+#EXTINF:-1 group-title="24/7",Dragon Ball Super
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2338.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Z - Saga Cell
+#EXTINF:-1 group-title="24/7",Dragon Ball Z - Saga Cell
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2339.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTM Navidad
+#EXTINF:-1 group-title="24/7",DTM Navidad
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12067.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTM Pokemon
+#EXTINF:-1 group-title="24/7",DTM Pokemon
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12066.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV Anime
+#EXTINF:-1 group-title="24/7",DTV Anime
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12076.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV Dis-ney Live
+#EXTINF:-1 group-title="24/7",DTV Dis-ney Live
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12075.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV Dream-Works
+#EXTINF:-1 group-title="24/7",DTV Dream-Works
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12074.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV-Dragonball Movies
+#EXTINF:-1 group-title="24/7",DTV-Dragonball Movies
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12072.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV-Happy madison
+#EXTINF:-1 group-title="24/7",DTV-Happy madison
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12068.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV-Marvel
+#EXTINF:-1 group-title="24/7",DTV-Marvel
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12071.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",DTV-Terror
+#EXTINF:-1 group-title="24/7",DTV-Terror
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12069.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Ed group-title="CANALES 24/7", Edd y Eddy
+#EXTINF:-1 group-title="24/7",Ed group-title="24/7", Edd y Eddy
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46972.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",El Chapulin Colorado
+#EXTINF:-1 group-title="24/7",El Chapulin Colorado
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2343.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",EL MUNDO DE BEAKMAN 24\/7
+#EXTINF:-1 group-title="24/7",EL MUNDO DE BEAKMAN 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12021.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",EL PAJARO LOCO 24\/7
+#EXTINF:-1 group-title="24/7",EL PAJARO LOCO 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12020.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",El Principe del Rap
+#EXTINF:-1 group-title="24/7",El Principe del Rap
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2345.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",En Familia con Chabelo 24\/7
+#EXTINF:-1 group-title="24/7",En Familia con Chabelo 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11988.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Escandalosos 24\/7
+#EXTINF:-1 group-title="24/7",Escandalosos 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11990.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Escobar: el patron del mal
+#EXTINF:-1 group-title="24/7",Escobar: el patron del mal
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38703.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",EXTRANORMAL 24\/7
+#EXTINF:-1 group-title="24/7",EXTRANORMAL 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",MALCOM EL DE ENMEDIO 24\/7
+#EXTINF:-1 group-title="24/7",MALCOM EL DE ENMEDIO 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38716.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Futurama
+#EXTINF:-1 group-title="24/7",Futurama
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2347.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Futurama HD
+#EXTINF:-1 group-title="24/7",Futurama HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38718.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Grizzy y los lemmings 24-7
+#EXTINF:-1 group-title="24/7",Grizzy y los lemmings 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11973.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Hechizada 24\/7
+#EXTINF:-1 group-title="24/7",Hechizada 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12052.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",House MD 2 24-7
+#EXTINF:-1 group-title="24/7",House MD 2 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11982.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",iCarly
+#EXTINF:-1 group-title="24/7",iCarly
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2352.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",J K Rowling
+#EXTINF:-1 group-title="24/7",J K Rowling
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12077.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",jimmy neutron 24\/7
+#EXTINF:-1 group-title="24/7",jimmy neutron 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12015.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Johnny Bravo
+#EXTINF:-1 group-title="24/7",Johnny Bravo
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/40846.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",LA CASA DE MICKEY MOUSE 24-7
+#EXTINF:-1 group-title="24/7",LA CASA DE MICKEY MOUSE 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11977.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Familia P. Luche
+#EXTINF:-1 group-title="24/7",La Familia P. Luche
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2360.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Familia Peluche
+#EXTINF:-1 group-title="24/7",La Familia Peluche
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38713.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Hora Pico
+#EXTINF:-1 group-title="24/7",La Hora Pico
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11101.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La ninera 24\/7
+#EXTINF:-1 group-title="24/7",La ninera 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12051.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Pantera rosa 24\/7
+#EXTINF:-1 group-title="24/7",La Pantera rosa 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11989.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Rosa De Guadalupe
+#EXTINF:-1 group-title="24/7",La Rosa De Guadalupe
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/82427.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Rosa De Guadalupe
+#EXTINF:-1 group-title="24/7",La Rosa De Guadalupe
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/90562.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",La Vaca Y El Pollito
+#EXTINF:-1 group-title="24/7",La Vaca Y El Pollito
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46971.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Las sombr\u00edas aventuras de Billy y Mandy
+#EXTINF:-1 group-title="24/7",Las sombr\u00edas aventuras de Billy y Mandy
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46975.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",LE TEMES A LA OSCURIDAD 24\/7
+#EXTINF:-1 group-title="24/7",LE TEMES A LA OSCURIDAD 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12009.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Looney toons 24\/7
+#EXTINF:-1 group-title="24/7",Looney toons 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12008.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los chicos del barrio
+#EXTINF:-1 group-title="24/7",Los chicos del barrio
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46973.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los gatos samurai 24\/7
+#EXTINF:-1 group-title="24/7",Los gatos samurai 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12050.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los Picapiedras
+#EXTINF:-1 group-title="24/7",Los Picapiedras
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38710.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los Simpson New HD
+#EXTINF:-1 group-title="24/7",Los Simpson New HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38706.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los Simpsonps HD
+#EXTINF:-1 group-title="24/7",Los Simpsonps HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38722.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Los Thundercats
+#EXTINF:-1 group-title="24/7",Los Thundercats
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2372.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",MentaCANALES 24/7 24\/7
+#EXTINF:-1 group-title="24/7",Menta24/7 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12048.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Mi Bella Genio
+#EXTINF:-1 group-title="24/7",Mi Bella Genio
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2377.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Mikami la Cazafantasmas 24\/7
+#EXTINF:-1 group-title="24/7",Mikami la Cazafantasmas 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12046.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Miraculus Ladybug 24-7
+#EXTINF:-1 group-title="24/7",Miraculus Ladybug 24-7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11979.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Mr Bean
+#EXTINF:-1 group-title="24/7",Mr Bean
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11070.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Pedro Infante
+#EXTINF:-1 group-title="24/7",Pedro Infante
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38711.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Peppa Pig
+#EXTINF:-1 group-title="24/7",Peppa Pig
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2386.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Peppa Pig
+#EXTINF:-1 group-title="24/7",Peppa Pig
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38717.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",PHINEAS Y FERB 24\/7
+#EXTINF:-1 group-title="24/7",PHINEAS Y FERB 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12003.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Pokemon
+#EXTINF:-1 group-title="24/7",Pokemon
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38719.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Power Rangers in Space 24\/7
+#EXTINF:-1 group-title="24/7",Power Rangers in Space 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12043.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Rapidos y Furioso HD
+#EXTINF:-1 group-title="24/7",Rapidos y Furioso HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38720.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Rick y Morty
+#EXTINF:-1 group-title="24/7",Rick y Morty
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2392.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Sailor Moon Crystal
+#EXTINF:-1 group-title="24/7",Sailor Moon Crystal
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2395.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Simpson Las casitas del horror 24\/7
+#EXTINF:-1 group-title="24/7",Simpson Las casitas del horror 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11998.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",South Park (ES)
+#EXTINF:-1 group-title="24/7",South Park (ES)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38840.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",South Park 24\/7
+#EXTINF:-1 group-title="24/7",South Park 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12041.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Teen Titans Go
+#EXTINF:-1 group-title="24/7",Teen Titans Go
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11093.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",The Walking Dead
+#EXTINF:-1 group-title="24/7",The Walking Dead
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38704.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Tom and Jerry Show
+#EXTINF:-1 group-title="24/7",Tom and Jerry Show
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46974.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Two And a Half Men HD
+#EXTINF:-1 group-title="24/7",Two And a Half Men HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/57516.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Vaca y pollito 24\/7
+#EXTINF:-1 group-title="24/7",Vaca y pollito 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11993.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",YU GI OH 24\/7
+#EXTINF:-1 group-title="24/7",YU GI OH 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11992.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",ZOEY 101 24\/7
+#EXTINF:-1 group-title="24/7",ZOEY 101 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11991.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",MALCOM EL DE ENMEDIO 24\/7
+#EXTINF:-1 group-title="24/7",MALCOM EL DE ENMEDIO 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11974.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Friends 24\/7
+#EXTINF:-1 group-title="24/7",Friends 24\/7
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/94200.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Movies 24 horas.
+#EXTINF:-1 group-title="24/7",Cantinflas Movies 24 horas.
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/159338
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Movies 24H Opc.2
+#EXTINF:-1 group-title="24/7",Cantinflas Movies 24H Opc.2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/159339
-#EXTINF:-1 group-title="CANALES 24/7",Los Tres Chiflados !
+#EXTINF:-1 group-title="24/7",Los Tres Chiflados !
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/159340
-#EXTINF:-1 group-title="CANALES 24/7",FRIENDS !
+#EXTINF:-1 group-title="24/7",FRIENDS !
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/159349
-#EXTINF:-1 group-title="CANALES 24/7",CASO CERRADO !
+#EXTINF:-1 group-title="24/7",CASO CERRADO !
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/160035
-#EXTINF:-1 group-title="CANALES 24/7",El príncipe de Bel-Air
+#EXTINF:-1 group-title="24/7",El príncipe de Bel-Air
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/161032
-#EXTINF:-1 group-title="CANALES 24/7",HALCONES GALÁCTICOS SERIE
+#EXTINF:-1 group-title="24/7",HALCONES GALÁCTICOS SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162181
-#EXTINF:-1 group-title="CANALES 24/7",DON GATO SERIE
+#EXTINF:-1 group-title="24/7",DON GATO SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162182
-#EXTINF:-1 group-title="CANALES 24/7",LOS PITUFOS
+#EXTINF:-1 group-title="24/7",LOS PITUFOS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162183
-#EXTINF:-1 group-title="CANALES 24/7",CABALLEROS DEL ZODIACO
+#EXTINF:-1 group-title="24/7",CABALLEROS DEL ZODIACO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162184
-#EXTINF:-1 group-title="CANALES 24/7",SPIDER-MAN SERIE
+#EXTINF:-1 group-title="24/7",SPIDER-MAN SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162185
-#EXTINF:-1 group-title="CANALES 24/7",THUNDERCATS SERIE
+#EXTINF:-1 group-title="24/7",THUNDERCATS SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162186
-#EXTINF:-1 group-title="CANALES 24/7",FUTURAMA SERIE
+#EXTINF:-1 group-title="24/7",FUTURAMA SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162187
-#EXTINF:-1 group-title="CANALES 24/7",GARFIELD Y SUS AMIGOS SERIE
+#EXTINF:-1 group-title="24/7",GARFIELD Y SUS AMIGOS SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162188
-#EXTINF:-1 group-title="CANALES 24/7",ROBOTECH SERIE
+#EXTINF:-1 group-title="24/7",ROBOTECH SERIE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162189
-#EXTINF:-1 group-title="CANALES 24/7",PHINEAS Y FERB SERIE HD
+#EXTINF:-1 group-title="24/7",PHINEAS Y FERB SERIE HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/154855
-#EXTINF:-1 group-title="CANALES 24/7", E-Cine FHD 
+#EXTINF:-1 group-title="24/7", E-Cine FHD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162542
-#EXTINF:-1 group-title="CANALES 24/7",E-play-Cine FHD
+#EXTINF:-1 group-title="24/7",E-play-Cine FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162543
-#EXTINF:-1 group-title="CANALES 24/7",Cine Accion
+#EXTINF:-1 group-title="24/7",Cine Accion
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2544
-#EXTINF:-1 group-title="CANALES 24/7",Cine Accion HD
+#EXTINF:-1 group-title="24/7",Cine Accion HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2545
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Accion 3
+#EXTINF:-1 group-title="24/7",24/7 |Cine Accion 3
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2546
-#EXTINF:-1 group-title="CANALES 24/7",CSI: Miami HD
+#EXTINF:-1 group-title="24/7",CSI: Miami HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2547
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Comedia 1
+#EXTINF:-1 group-title="24/7",24/7 |Cine Comedia 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2548
-#EXTINF:-1 group-title="CANALES 24/7",Mi Bella Genio SD
+#EXTINF:-1 group-title="24/7",Mi Bella Genio SD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2549
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia 1
+#EXTINF:-1 group-title="24/7",24/7 |Cine Ficcion/Fantasia 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2550
-#EXTINF:-1 group-title="CANALES 24/7",Tres veces Ana 
+#EXTINF:-1 group-title="24/7",Tres veces Ana 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2551
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Clásicos HD
+#EXTINF:-1 group-title="24/7",24/7 |Cine Clásicos HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2552
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia Sagas
+#EXTINF:-1 group-title="24/7",24/7 |Cine Ficcion/Fantasia Sagas
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2553
-#EXTINF:-1 group-title="CANALES 24/7",Cine Infantil
+#EXTINF:-1 group-title="24/7",Cine Infantil
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
-#EXTINF:-1 group-title="CANALES 24/7",CINE Retro HD
+#EXTINF:-1 group-title="24/7",CINE Retro HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
-#EXTINF:-1 group-title="CANALES 24/7",Cine KIDS FHD
+#EXTINF:-1 group-title="24/7",Cine KIDS FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2556
-#EXTINF:-1 group-title="CANALES 24/7",PBS KIDS FHD
+#EXTINF:-1 group-title="24/7",PBS KIDS FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2557
-#EXTINF:-1 group-title="CANALES 24/7",24/7  | Cine Latino
+#EXTINF:-1 group-title="24/7",24/7  | Cine Latino
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2558
-#EXTINF:-1 group-title="CANALES 24/7", MY TIME MOVIE LATINO UHD
+#EXTINF:-1 group-title="24/7", MY TIME MOVIE LATINO UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2559
-#EXTINF:-1 group-title="CANALES 24/7",MEGAMAN SERIE COMPLETA SD
+#EXTINF:-1 group-title="24/7",MEGAMAN SERIE COMPLETA SD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2560
-#EXTINF:-1 group-title="CANALES 24/7",Cine Romance
+#EXTINF:-1 group-title="24/7",Cine Romance
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2561
-#EXTINF:-1 group-title="CANALES 24/7",24/7 |Cine Romance HD
+#EXTINF:-1 group-title="24/7",24/7 |Cine Romance HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2562
-#EXTINF:-1 group-title="CANALES 24/7",THE BIG BANG THEORY
+#EXTINF:-1 group-title="24/7",THE BIG BANG THEORY
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2563
-#EXTINF:-1 group-title="CANALES 24/7",Cine Terror HD
+#EXTINF:-1 group-title="24/7",Cine Terror HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2564
-#EXTINF:-1 group-title="CANALES 24/7",Cine Clásico HD
+#EXTINF:-1 group-title="24/7",Cine Clásico HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2565
-#EXTINF:-1 group-title="CANALES 24/7", Batman La serie animada
+#EXTINF:-1 group-title="24/7", Batman La serie animada
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3361
-#EXTINF:-1 group-title="CANALES 24/7", BREAKING BAD
+#EXTINF:-1 group-title="24/7", BREAKING BAD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3364
-#EXTINF:-1 group-title="CANALES 24/7", Two and Hald Men
+#EXTINF:-1 group-title="24/7", Two and Hald Men
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3378
-#EXTINF:-1 group-title="CANALES 24/7", Scooby-Doo HD
+#EXTINF:-1 group-title="24/7", Scooby-Doo HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3385
-#EXTINF:-1 group-title="CANALES 24/7", Rick and Morty
+#EXTINF:-1 group-title="24/7", Rick and Morty
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3386
-#EXTINF:-1 group-title="CANALES 24/7", Mr. Bean Animado
+#EXTINF:-1 group-title="24/7", Mr. Bean Animado
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3391
-#EXTINF:-1 group-title="CANALES 24/7", Los caballeros del Zodiaco
+#EXTINF:-1 group-title="24/7", Los caballeros del Zodiaco
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3397
-#EXTINF:-1 group-title="CANALES 24/7", Family Guy
+#EXTINF:-1 group-title="24/7", Family Guy
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3406
-#EXTINF:-1 group-title="CANALES 24/7",Los Simpsons
+#EXTINF:-1 group-title="24/7",Los Simpsons
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129313
-#EXTINF:-1 group-title="CANALES 24/7",Dinosaurios
+#EXTINF:-1 group-title="24/7",Dinosaurios
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129314
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO DEL 8*
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8*
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129315
-#EXTINF:-1 group-title="CANALES 24/7",South Park
+#EXTINF:-1 group-title="24/7",South Park
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129318
-#EXTINF:-1 group-title="CANALES 24/7",Súper Campeones
+#EXTINF:-1 group-title="24/7",Súper Campeones
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129319
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas
+#EXTINF:-1 group-title="24/7",Cantinflas
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129320
-#EXTINF:-1 group-title="CANALES 24/7",ALF
+#EXTINF:-1 group-title="24/7",ALF
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129321
-#EXTINF:-1 group-title="CANALES 24/7",Chespirito SD
+#EXTINF:-1 group-title="24/7",Chespirito SD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129322
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAPULÍN COLORADO SHOW
+#EXTINF:-1 group-title="24/7",EL CHAPULÍN COLORADO SHOW
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129323
-#EXTINF:-1 group-title="CANALES 24/7",Pokémon
+#EXTINF:-1 group-title="24/7",Pokémon
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129325
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Super
+#EXTINF:-1 group-title="24/7",Dragon Ball Super
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129326
-#EXTINF:-1 group-title="CANALES 24/7",Tom and Jerry
+#EXTINF:-1 group-title="24/7",Tom and Jerry
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129327
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball
+#EXTINF:-1 group-title="24/7",Dragon Ball
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129328
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball Z
+#EXTINF:-1 group-title="24/7",Dragon Ball Z
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129329
-#EXTINF:-1 group-title="CANALES 24/7",Game of Thrones HD
+#EXTINF:-1 group-title="24/7",Game of Thrones HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129330
-#EXTINF:-1 group-title="CANALES 24/7",Miedo en la Oscuridad
+#EXTINF:-1 group-title="24/7",Miedo en la Oscuridad
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129331
-#EXTINF:-1 group-title="CANALES 24/7",Bob Esponja
+#EXTINF:-1 group-title="24/7",Bob Esponja
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129332
-#EXTINF:-1 group-title="CANALES 24/7",Coraje El Perro Cobarde
+#EXTINF:-1 group-title="24/7",Coraje El Perro Cobarde
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129333
-#EXTINF:-1 group-title="CANALES 24/7",DRAGON BALL GT
+#EXTINF:-1 group-title="24/7",DRAGON BALL GT
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129334
-#EXTINF:-1 group-title="CANALES 24/7",Doraemon
+#EXTINF:-1 group-title="24/7",Doraemon
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129335
-#EXTINF:-1 group-title="CANALES 24/7",El Pajaro Loco
+#EXTINF:-1 group-title="24/7",El Pajaro Loco
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129336
-#EXTINF:-1 group-title="CANALES 24/7",Hey Arnold!
+#EXTINF:-1 group-title="24/7",Hey Arnold!
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129337
-#EXTINF:-1 group-title="CANALES 24/7",Looney Tunes
+#EXTINF:-1 group-title="24/7",Looney Tunes
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129338
-#EXTINF:-1 group-title="CANALES 24/7",Naruto
+#EXTINF:-1 group-title="24/7",Naruto
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129339
-#EXTINF:-1 group-title="CANALES 24/7",Death Note
+#EXTINF:-1 group-title="24/7",Death Note
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129340
-#EXTINF:-1 group-title="CANALES 24/7",Las Mejores Animaciones
+#EXTINF:-1 group-title="24/7",Las Mejores Animaciones
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129341
-#EXTINF:-1 group-title="CANALES 24/7",One Punch Man
+#EXTINF:-1 group-title="24/7",One Punch Man
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129342
-#EXTINF:-1 group-title="CANALES 24/7",EL SHOW DE LA PEQUEÑA LU LU
+#EXTINF:-1 group-title="24/7",EL SHOW DE LA PEQUEÑA LU LU
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129343
-#EXTINF:-1 group-title="CANALES 24/7",Samurái X
+#EXTINF:-1 group-title="24/7",Samurái X
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129344
-#EXTINF:-1 group-title="CANALES 24/7",Yu-Gi-Oh!
+#EXTINF:-1 group-title="24/7",Yu-Gi-Oh!
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129346
-#EXTINF:-1 group-title="CANALES 24/7",La Pantera Rosa
+#EXTINF:-1 group-title="24/7",La Pantera Rosa
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129347
-#EXTINF:-1 group-title="CANALES 24/7",Los Picapiedra
+#EXTINF:-1 group-title="24/7",Los Picapiedra
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
-#EXTINF:-1 group-title="CANALES 24/7",CINE de FAMILIA HD
+#EXTINF:-1 group-title="24/7",CINE de FAMILIA HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129350
-#EXTINF:-1 group-title="CANALES 24/7",El Encantador de Perros HD
+#EXTINF:-1 group-title="24/7",El Encantador de Perros HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129351
-#EXTINF:-1 group-title="CANALES 24/7",The Big Bang Theory
+#EXTINF:-1 group-title="24/7",The Big Bang Theory
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129352
-#EXTINF:-1 group-title="CANALES 24/7",Smallville
+#EXTINF:-1 group-title="24/7",Smallville
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129353
-#EXTINF:-1 group-title="CANALES 24/7",ANIMANIACS
+#EXTINF:-1 group-title="24/7",ANIMANIACS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129354
-#EXTINF:-1 group-title="CANALES 24/7",Pinky y Cerebro
+#EXTINF:-1 group-title="24/7",Pinky y Cerebro
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129355
-#EXTINF:-1 group-title="CANALES 24/7",BARBAPAPA 24/7
+#EXTINF:-1 group-title="24/7",BARBAPAPA 24/7
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129357
-#EXTINF:-1 group-title="CANALES 24/7",Cuidado con el Ángel UHD 24/7
+#EXTINF:-1 group-title="24/7",Cuidado con el Ángel UHD 24/7
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129360
-#EXTINF:-1 group-title="CANALES 24/7",EL ESPECTACULAR HOMBRE ARAÑA
+#EXTINF:-1 group-title="24/7",EL ESPECTACULAR HOMBRE ARAÑA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129362
-#EXTINF:-1 group-title="CANALES 24/7",EL CONDE PATULA
+#EXTINF:-1 group-title="24/7",EL CONDE PATULA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129363
-#EXTINF:-1 group-title="CANALES 24/7",Naruto Shippuden
+#EXTINF:-1 group-title="24/7",Naruto Shippuden
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129364
-#EXTINF:-1 group-title="CANALES 24/7",CINE SUREÑO UHD
+#EXTINF:-1 group-title="24/7",CINE SUREÑO UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129365
-#EXTINF:-1 group-title="CANALES 24/7",Marvel
+#EXTINF:-1 group-title="24/7",Marvel
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129366
-#EXTINF:-1 group-title="CANALES 24/7",FENOMENOIDE 
+#EXTINF:-1 group-title="24/7",FENOMENOIDE 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129367
-#EXTINF:-1 group-title="CANALES 24/7",Temes a la Oscuridad ?
+#EXTINF:-1 group-title="24/7",Temes a la Oscuridad ?
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129368
-#EXTINF:-1 group-title="CANALES 24/7",Crepusculo
+#EXTINF:-1 group-title="24/7",Crepusculo
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129374
-#EXTINF:-1 group-title="CANALES 24/7", X-Men
+#EXTINF:-1 group-title="24/7", X-Men
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129375
-#EXTINF:-1 group-title="CANALES 24/7",24/7 HI-MAN SD 
+#EXTINF:-1 group-title="24/7",24/7 HI-MAN SD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129376
-#EXTINF:-1 group-title="CANALES 24/7",Harry Potter
+#EXTINF:-1 group-title="24/7",Harry Potter
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129377
-#EXTINF:-1 group-title="CANALES 24/7",John Wick
+#EXTINF:-1 group-title="24/7",John Wick
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129378
-#EXTINF:-1 group-title="CANALES 24/7",Resident Evil
+#EXTINF:-1 group-title="24/7",Resident Evil
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129379
-#EXTINF:-1 group-title="CANALES 24/7",Sci-Fi & Ufo
+#EXTINF:-1 group-title="24/7",Sci-Fi & Ufo
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129380
-#EXTINF:-1 group-title="CANALES 24/7",Matrix
+#EXTINF:-1 group-title="24/7",Matrix
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129381
 
-#EXTINF:-1 group-title="CANALES 24/7",Triunfo del Amor 24/7
+#EXTINF:-1 group-title="24/7",Triunfo del Amor 24/7
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129384
-#EXTINF:-1 group-title="CANALES 24/7",Astro Boy
+#EXTINF:-1 group-title="24/7",Astro Boy
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129385
-#EXTINF:-1 group-title="CANALES 24/7",X-Men
+#EXTINF:-1 group-title="24/7",X-Men
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129386
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAVO ANIMADO
+#EXTINF:-1 group-title="24/7",EL CHAVO ANIMADO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131452
-#EXTINF:-1 group-title="CANALES 24/7",24/7 PELÍCULAS DE ROMANCE 2
+#EXTINF:-1 group-title="24/7",24/7 PELÍCULAS DE ROMANCE 2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131454
-#EXTINF:-1 group-title="CANALES 24/7",LOS SIMPSONS HD
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/136246
-#EXTINF:-1 group-title="CANALES 24/7",Chavo del Ocho  II 
+#EXTINF:-1 group-title="24/7",Chavo del Ocho  II 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138442
-#EXTINF:-1 group-title="CANALES 24/7",Transformers Armada
+#EXTINF:-1 group-title="24/7",Transformers Armada
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138443
-#EXTINF:-1 group-title="CANALES 24/7",Chavo del Ocho 8
+#EXTINF:-1 group-title="24/7",Chavo del Ocho 8
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138444
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball GT
+#EXTINF:-1 group-title="24/7",Dragon Ball GT
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138445
-#EXTINF:-1 group-title="CANALES 24/7",Dragon Ball GT #2
+#EXTINF:-1 group-title="24/7",Dragon Ball GT #2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138446
-#EXTINF:-1 group-title="CANALES 24/7",Movies English HALLMARK
+#EXTINF:-1 group-title="24/7",Movies English HALLMARK
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138447
-#EXTINF:-1 group-title="CANALES 24/7",John Wick
+#EXTINF:-1 group-title="24/7",John Wick
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138448
-#EXTINF:-1 group-title="CANALES 24/7",Harry Potter
+#EXTINF:-1 group-title="24/7",Harry Potter
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138449
-#EXTINF:-1 group-title="CANALES 24/7",Toy Story
+#EXTINF:-1 group-title="24/7",Toy Story
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138450
-#EXTINF:-1 group-title="CANALES 24/7",Disney Pixar #2
+#EXTINF:-1 group-title="24/7",Disney Pixar #2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138451
-#EXTINF:-1 group-title="CANALES 24/7",La Casa de Mickey Mouse
+#EXTINF:-1 group-title="24/7",La Casa de Mickey Mouse
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138452
-#EXTINF:-1 group-title="CANALES 24/7",Terror Movies
+#EXTINF:-1 group-title="24/7",Terror Movies
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138453
-#EXTINF:-1 group-title="CANALES 24/7",ROMÁNTICO FHD
+#EXTINF:-1 group-title="24/7",ROMÁNTICO FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138454
-#EXTINF:-1 group-title="CANALES 24/7",GRAVITY FALLS
+#EXTINF:-1 group-title="24/7",GRAVITY FALLS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138455
-#EXTINF:-1 group-title="CANALES 24/7",GASPARIN Y SUS AMGOS
+#EXTINF:-1 group-title="24/7",GASPARIN Y SUS AMGOS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138456
-#EXTINF:-1 group-title="CANALES 24/7",MALCOM  IN THE MIDDLE
+#EXTINF:-1 group-title="24/7",MALCOM  IN THE MIDDLE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138457
-#EXTINF:-1 group-title="CANALES 24/7",Arte Marciales
+#EXTINF:-1 group-title="24/7",Arte Marciales
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138458
-#EXTINF:-1 group-title="CANALES 24/7",Risas y Comedias
+#EXTINF:-1 group-title="24/7",Risas y Comedias
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138459
-#EXTINF:-1 group-title="CANALES 24/7", SpiderWoman
+#EXTINF:-1 group-title="24/7", SpiderWoman
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138460
-#EXTINF:-1 group-title="CANALES 24/7", LA ROSA DE GUADALUPE
+#EXTINF:-1 group-title="24/7", LA ROSA DE GUADALUPE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138461
-#EXTINF:-1 group-title="CANALES 24/7",IRON MAN 1994
+#EXTINF:-1 group-title="24/7",IRON MAN 1994
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138462
-#EXTINF:-1 group-title="CANALES 24/7",JUNTOS UHD
+#EXTINF:-1 group-title="24/7",JUNTOS UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138463
-#EXTINF:-1 group-title="CANALES 24/7", Live Action HD
+#EXTINF:-1 group-title="24/7", Live Action HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138464
-#EXTINF:-1 group-title="CANALES 24/7",Action Classics
+#EXTINF:-1 group-title="24/7",Action Classics
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138465
-#EXTINF:-1 group-title="CANALES 24/7",Transformers
+#EXTINF:-1 group-title="24/7",Transformers
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138467
-#EXTINF:-1 group-title="CANALES 24/7",TOP CINE UHD
+#EXTINF:-1 group-title="24/7",TOP CINE UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138468
-#EXTINF:-1 group-title="CANALES 24/7",24/7 PELÍCULAS DE ACCIÓN 2
+#EXTINF:-1 group-title="24/7",24/7 PELÍCULAS DE ACCIÓN 2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138469
-#EXTINF:-1 group-title="CANALES 24/7",Peppa Pig FHD
+#EXTINF:-1 group-title="24/7",Peppa Pig FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140377
-#EXTINF:-1 group-title="CANALES 24/7",Blooppers HD
+#EXTINF:-1 group-title="24/7",Blooppers HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140815
-#EXTINF:-1 group-title="CANALES 24/7",BARON ROJO HD
+#EXTINF:-1 group-title="24/7",BARON ROJO HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140841
-#EXTINF:-1 group-title="CANALES 24/7",BEN 10 FUERZA ALIENIGENA HD 
+#EXTINF:-1 group-title="24/7",BEN 10 FUERZA ALIENIGENA HD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140842
-#EXTINF:-1 group-title="CANALES 24/7",BEN 10 HD
+#EXTINF:-1 group-title="24/7",BEN 10 HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140843
-#EXTINF:-1 group-title="CANALES 24/7",BIRDMAN 
+#EXTINF:-1 group-title="24/7",BIRDMAN 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
-#EXTINF:-1 group-title="CANALES 24/7",EL CHAPULÍN COLORADO ANIMADO
+#EXTINF:-1 group-title="24/7",EL CHAPULÍN COLORADO ANIMADO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140845
-#EXTINF:-1 group-title="CANALES 24/7",DANIEL EL TRAVIESO
+#EXTINF:-1 group-title="24/7",DANIEL EL TRAVIESO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140846
-#EXTINF:-1 group-title="CANALES 24/7",DICK TRACY
+#EXTINF:-1 group-title="24/7",DICK TRACY
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140847
-#EXTINF:-1 group-title="CANALES 24/7",DIGIMON ADVENTURE 
+#EXTINF:-1 group-title="24/7",DIGIMON ADVENTURE 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140848
-#EXTINF:-1 group-title="CANALES 24/7",Super Mario Bros 3
+#EXTINF:-1 group-title="24/7",Super Mario Bros 3
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145792
-#EXTINF:-1 group-title="CANALES 24/7",Ed Edd Eddy
+#EXTINF:-1 group-title="24/7",Ed Edd Eddy
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145793
 
-#EXTINF:-1 group-title="CANALES 24/7",Series: Narcos
+#EXTINF:-1 group-title="24/7",Series: Narcos
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145806
-#EXTINF:-1 group-title="CANALES 24/7",Danny Phantom
+#EXTINF:-1 group-title="24/7",Danny Phantom
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145826
-#EXTINF:-1 group-title="CANALES 24/7",Cars Disney
+#EXTINF:-1 group-title="24/7",Cars Disney
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145899
-#EXTINF:-1 group-title="CANALES 24/7",Kenan y Kel
+#EXTINF:-1 group-title="24/7",Kenan y Kel
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145900
 
-#EXTINF:-1 group-title="CANALES 24/7",MI BELLA GENIO SERIE COMPLETA
+#EXTINF:-1 group-title="24/7",MI BELLA GENIO SERIE COMPLETA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145914
-#EXTINF:-1 group-title="CANALES 24/7",Cantinflas Show 
+#EXTINF:-1 group-title="24/7",Cantinflas Show 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150692
-#EXTINF:-1 group-title="CANALES 24/7",La Familia P. Luche
+#EXTINF:-1 group-title="24/7",La Familia P. Luche
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/152821
-#EXTINF:-1 group-title="CANALES 24/7",EL SEÑOR DE LOS CIELOS
+#EXTINF:-1 group-title="24/7",EL SEÑOR DE LOS CIELOS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/154856
 
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 1 HD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 1 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38685.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 13 SUB-TIT AR FHD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 13 SUB-TIT AR FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/49775.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 14 FHD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 14 FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/49776.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",I-NeT Flix Live 2 HD
+#EXTINF:-1 group-title="24/7",I-NeT Flix Live 2 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38686.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 5 HD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 5 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38689.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 7 HD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 7 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38691.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 8 HD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 8 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38692.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Live 9 HD
+#EXTINF:-1 group-title="24/7",NeT Flix Live 9 HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/41237.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Action HD
+#EXTINF:-1 group-title="24/7",NeT Flix Action HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76232.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Action New HD
+#EXTINF:-1 group-title="24/7",NeT Flix Action New HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76238.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Adventure HD
+#EXTINF:-1 group-title="24/7",NeT Flix Adventure HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76234.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Cience HD
+#EXTINF:-1 group-title="24/7",NeT Flix Cience HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76235.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix CINEMAX Hits HD
+#EXTINF:-1 group-title="24/7",NeT Flix CINEMAX Hits HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76237.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix Horror HD
+#EXTINF:-1 group-title="24/7",NeT Flix Horror HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76239.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix MAX HD
+#EXTINF:-1 group-title="24/7",NeT Flix MAX HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76236.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",NeT Flix SCI-FI HD
+#EXTINF:-1 group-title="24/7",NeT Flix SCI-FI HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/76233.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Prime Live 1 FHD
+#EXTINF:-1 group-title="24/7",Prime Live 1 FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/40834.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Prime Live 2 FHD
+#EXTINF:-1 group-title="24/7",Prime Live 2 FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/41210.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Prime Live 3 Kids FHD
+#EXTINF:-1 group-title="24/7",Prime Live 3 Kids FHD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/41211.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",Prime TV Live 2 HD Amazon
+#EXTINF:-1 group-title="24/7",Prime TV Live 2 HD Amazon
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/42285.m3u8
-#EXTINF:-1 group-title="CANALES 24/7",CINE VIP 4K
+#EXTINF:-1 group-title="24/7",CINE VIP 4K
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/59612.m3u8
 #EXTINF:-1 tvg-name="",DONACIONES EN
 #EXTGRP:SKY PREMIERE
