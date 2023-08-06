@@ -643,6 +643,30 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 #EXTINF:-1 group-title="NIÑOS",Aztv
 http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="NIÑOS",AnimeTV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w2077867139.m3u8
+#EXTINF:-1 group-title="NIÑOS",AnimeTV BR
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1420737736.m3u8
+
+#EXTINF:-1 group-title="NIÑOS",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1538486158.m3u8
+#EXTINF:-1 group-title="NIÑOS",ZAZ Tv
+https://stream-us-east-1.getpublica.com/cl/230806cj7fd0f9kmt62n5g8na0/654x480_2709476_2_f.m3u8
+#EXTINF:-1 group-title="NIÑOS",Animestation BR
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1851974632.m3u8
+#EXTINF:-1 group-title="NIÑOS",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w69658506.m3u8
+#EXTINF:-1 group-title="NIÑOS",Zona de Accion
+https://stream.ads.ottera.tv/cl/230806cj7fesg1sj4b6pmsqk10/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 group-title="NIÑOS",GeekDot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="NIÑOS",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1230603310.m3u8
+#EXTINF:-1 group-title="NIÑOS",Jetson TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1046482274.m3u8
+
+#EXTINF:-1 group-title="NIÑOS",GAKI NO TSUKAI
+https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY JUNIOR
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16540.m3u8
 #EXTINF:-1  group-title="NIÑOS",DISNEY JUNIOR (op2)
@@ -727,8 +751,7 @@ http://main1.mov3.co/hls/main.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES",GNT
-https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
+
 
 #EXTINF:-1 group-title="INTERNACIONALES",CCTV+ 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/147194
@@ -797,12 +820,34 @@ http://166.0.208.26:4481/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 
 #EXTINF:-1 group-title="PELICULAS",Cine Dinamita
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44073.m3u8
-#EXTINF:-1 group-title="PELICULAS",I-TOP CINE Latino
+#EXTINF:-1 group-title="PELICULAS",TOP CINE Latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38459.m3u8
+#EXTINF:-1 group-title="PELICULAS",TOP CINE
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_5.m3u8
+#EXTINF:-1 group-title="PELICULAS",TOP CINE 2
+https://topcineus-freetv.amagi.tv/TopCine-roku/master_5.m3u8
+#EXTINF:-1 group-title="PELICULAS",TU CINE
+https://tucinelatam-freetv.amagi.tv/TuCine-xumo/master_5.m3u8
+#EXTINF:-1 group-title="PELICULAS",TU CINE 2
+https://tucineus-freetv.amagi.tv/TuCineUSx/master_5.m3u8
 #EXTINF:-1  group-title="PELICULAS",CINE CLASICO BOM HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/7973
-
-
+#EXTINF:-1  group-title="PELICULAS",CANELATV
+https://stream.ads.ottera.tv/cl/230806cj7fl9tos1o577fu83e0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1  group-title="PELICULAS",CANELATV 2
+https://ov.ottera.tv/channels/cnm_ctm_ro/master2300000.m3u8;session=cnm_ctm_ro
+#EXTINF:-1  group-title="PELICULAS",CANELA Cinema
+https://ov.ottera.tv/channels/cnm_cn_mv/master2300000.m3u8;session=cnm_cn_mv
+#EXTINF:-1  group-title="PELICULAS",Accion Mexicana
+https://stream.ads.ottera.tv/cl/230806cj7fl2m7d38mq5nqnp9g/1280x720_2300000_0_f.m3u8
+#EXTINF:-1  group-title="PELICULAS",PeliMex
+https://telecine-pelimex-1-eu.vidaa.wurl.tv/3000.m3u8
+#EXTINF:-1  group-title="PELICULAS",UndergroundTV
+https://ythls.onrender.com/channel/e99c3df4c2216cbd6eb86f9bd1c09b12.m3u8
+#EXTINF:-1  group-title="PELICULAS",Cinema
+https://stream.ads.ottera.tv/cl/230806cj7fksch32dudgl4chjg/1280x720_3071200_0_f.m3u8
+#EXTINF:-1  group-title="PELICULAS",TodoCine
+https://stream.ads.ottera.tv/cl/230806cj7fkqdos1o577fu7tr0/1280x720_3072000_0_f.m3u8
 #EXTINF:-1  group-title="PELICULAS",TNT
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16599.m3u8
 #EXTINF:-1  group-title="PELICULAS",TNT (op2)
